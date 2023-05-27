@@ -1,7 +1,7 @@
 {
   "name": "iwol-openai-translate",
   "version": "1.0.0",
-  "description": "觅长生 (IWOL) English translation parse using openai",
+  "description": "English translation parser for \"觅长生\" (IWOL) using OpenAI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

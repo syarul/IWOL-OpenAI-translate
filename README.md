@@ -1,5 +1,6 @@
 # IWOL-OpenAI-translate
-觅长生 (IWOL) English translation parse using openai
+
+English translation parser for "觅长生" (IWOL) using OpenAI
 
 ![Sample](/image.PNG)
 
@@ -7,26 +8,29 @@ Original Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2826780370
 
 ## Setup
 
-You need your openai key to use this
+To use this tool, you need your OpenAI API key.
 
-i.e create an `.env` file and add your key here
-`OPENAI_API_KEY=XXXXXXXXXXXXXXXXXX`
+1. Create an .env file in the root directory of the project.
+2. Add your OpenAI API key to the .env file using the following format:
+```makefile
+OPENAI_API_KEY=XXXXXXXXXXXXXXXXXX
+```
 
 ## Usage
 
-To use you can initially copy the content from SteamLibrary workshop
+To start, copy the content from SteamLibrary workshop:
 
 `content/1189490/2826780370`
 
-Copy to the root dir of `content` folder itself.
+Paste the copied content into the root directory of the content folder.
 
 To retranslate a file i.e.
 
 `node index.js content/1189490/2826780370/plugins/Translations/etc.txt`
 
-Which first create a backup file at `content/1189490/2826780370/plugins/Translations/etc_bkp.txt`.
+This will create a backup file at `content/1189490/2826780370/plugins/Translations/etc_bkp.txt`.
 
-Afterwards you can start remove lines on `etc.txt` which one you want to retranslated.
+Edit the etc.txt file and remove the lines you want to retranslate. Keep the line positions intact.
 
 ```txt
 
@@ -43,19 +47,17 @@ Afterwards you can start remove lines on `etc.txt` which one you want to retrans
 ...
 ```
 
-and rerun `node index.js content/1189490/2826780370/plugins/Translations/etc.txt` again
+Rerun the command: `node index.js content/1189490/2826780370/plugins/Translations/etc.txt`
 
-> Keep the line position intact
+For example, lines 1 to 9 will be retranslated.
 
-For example here from line 1 to 9 will be retranslated.
-
-If you wish to revert to the original lines translation, empty the lines you want to revert and you can pass 4th argument `revert` instead retranslating it will revert back to the original translation done by the [AMA Team](https://discord.gg/AvtuzagYfY).
+If you want to revert to the original translation done by the [AMA Team](https://discord.gg/AvtuzagYfY), empty the lines you want to revert and use the following command:
 
 `node index.js content/1189490/2826780370/plugins/Translations/etc.txt revert`
 
 ## Analogy
 
-If you wish to customize how the analogy line works, modify index.js line 24.
+If you want to customize how the analogy line works, modify line 24 in index.js:
 
 ```js
 // you can modify to make your own analogy to tell the AI how to deal with the translation
