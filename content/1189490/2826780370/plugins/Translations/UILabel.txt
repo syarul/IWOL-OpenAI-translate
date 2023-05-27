@@ -1,0 +1,90 @@
+购买¤Buy
+升级¤Upgrade
+价格:¤Price:
+名称:¤Name:
+基本攻击¤Basic Strike
+衣服¤Clothes
+[333333]品级：仙器¤[333333] Grade: Immortal Weapon
+广东分公司¤Guangdong Branch
+所有物品¤All items
+敌方信息¤Enemy info
+新建¤Newly built
+武器¤Weapon
+技能一览¤Skill overview
+功法配置¤Technique Setup
+[ 无影刀 ]¤[ Shadowless Blade ]
+金币¤Gold
+春草绝¤Spring grass
+辅修功法¤Supplementary Techniques
+筛选:¤Filter:
+木刺¤Wood Spikes
+调整功法¤Adjust Techniques
+未知称号¤Unknown title
+使用¤Use
+主修功法¤Primary Techniques
+嘴巴¤Mouth
+掉落物品¤Loot
+耐¤Resistance
+确定¤Confirm
+关闭¤Closed
+悟¤Comprehend
+新的游戏¤New game
+开¤Open
+主修¤Primary
+东石谷¤East Stone Valley
+第一页¤First page
+杂文¤Essay
+竹山宗-藏金阁¤Bamboo Mountain Sect-Hidden Gold Pavilion
+按品阶¤By rank
+法术¤Spells
+功法¤Techniques
+5回合¤5 rounds
+境界：练气初期\n时长：34年1月6天¤Stage: Qi Refining Early Phase\nDuration: January 6 days in 34 years
+切磋¤Friendly match
+请教功法¤Inquire about techniques
+交谈¤Chat
+离开¤Leave
+交易¤Trade
+饰品¤Accessories
+装备配置1¤Equip profile 1
+遁术¤Agility
+技能配置1¤Skillset profile 1
+功法配置1¤technique profile 1
+内甲¤Inner Armor
+开始战斗¤Start Battle
+服用丹药¤Take Pills
+须发¤Beard and Hair
+名字¤First Name
+天阳·混元¤Astral·Chaos
+【属性】¤【Attributes】
+神识¤soul sense
+任务道具¤Task Items
+品级：¤Grade:
+心境：¤Mood:
+生命：¤HP:
+物品六个字字¤6 items words
+领悟时间：0年得到的\n领悟条件：对木之道的领悟达到略有小成\n悟道提升：领悟后能够提升对xxx道的感悟¤Learning time: Obtained in 0 years\nLearning requirements: The comprehension of the Tao of the wood is slightly achieved\nUnderstanding points acquired: After the comprehension, xxx can be improved
+3回合¤3 rounds
+丹毒：¤Poison:
+打造之时加入了稀有的火铜矿石作为材料，剑身炙热，注入灵力后可达数百度的高温。¤Rare fire copper ore was added as the material when it was made. The sword body was tempered, and it could reach a high temperature of hundreds of degrees after injecting spiritual power.
+修为：¤Cult.exp
+【冷却】¤【Cool Down】
+【主动】¤【Active】
+自动保存¤Auto save
+调整¤Adjustment
+使用丹药¤Use Pill
+查看¤Investigate
+全屏¤Full screen
+选择数量¤Select quantity
+是否直接退出创角？¤Confirm to withdraw from scene?
+1回合¤1 round
+[333333]品级：[8ec072]符器¤[333333] Grade: [8ec072] Rune Weapon
+取消¤Cancel
+丹毒¤Toxicity
+火¤Fire
+[8ec072][ 火铜符剑 ]¤[8ec072][ Firebronze Rune Sword]
+广东分公司，广东分公司广东分公司广东分公司¤Guangdong branch, Guangdong branch, Guangdong branch, Guangdong branch
+一场险胜，对手的法宝在这场战斗中被损毁，你也因此受了重伤。¤In a narrow victory, opponent weapons was destroyed in this battle, and you were seriously injured as a result.
++     新建¤ Add New
+【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的¤【Active】 Same【Active】 Same【Active】 Same【Active】 Same【Active】 Same【Active】 Same【Active
+　　　　敌方获得【灼烧】*1¤The enemy gets 【Burn】*1

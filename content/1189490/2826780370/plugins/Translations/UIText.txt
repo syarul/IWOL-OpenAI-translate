@@ -1,0 +1,788 @@
+名字¤Name
+炼丹房¤Alchemy Room
+少主居所¤Young master's residence
+客房¤Guest Room
+大厅¤Lobby
+长老堂¤Elder Hall
+药田¤Herbs Field
+藏经阁¤Manual Hall
+弟子居所¤Disciples' Residence
+神兵阁¤Divine Warrior Pavilion
+幻雾阵¤Mirage Mist Array
+宗门广场¤Sect Square
+宗门大殿¤Sect Hall
+坊市¤Bazaar
+客栈¤Inn
+伴月楼¤Moon Inn
+登岛¤Enter Island
+广陵城¤Guangling City
+进入¤Enter
+事件¤Event
+未知海上商队¤Unknown Sea Caravan
+正在生成世界，请耐心等待。。。¤World being generated, please be patient....
+万宝楼¤Myriad Treasure House
+天极殿¤Tianji Temple
+碎星商会¤Shattered Star Merchant Guild
+港口¤Port
+采筠阁¤Caiyun Pavilion
+漱金楼¤Gold Rinsing House
+奇珍阁¤Wonderful Treasure Pavilion
+骨材铺¤Bone Shop
+码头¤Docks
+鳞皮行¤Scales and Hides
+邀月楼¤Inviting Moon Pavilion
+旧址¤Old Site
+青玉轩¤Green Jade Pavilion
+擂台¤Arena
+宝光阁¤Treasure Light Pavilion
+圣地¤Holy Land
+秘市¤Secret Market
+传送阵¤Teleportation Array
+灵药堂¤Spirit Herb Hall
+升仙台¤Immortal Ascension Platform
+倪府¤Ni Manor
+白帝楼¤White Emperor Pavilion
+供奉居所¤Consecrated Residence
+主殿¤Main Hall
+遗迹¤Ruins
+废弃洞府¤Abandoned Abode
+九嶷山¤Mt. Jiuyi
+破庙¤Broken Temple
+更多论题¤More Discourses
+灵思枯竭：双方悟道值的获取减少100%，悟道经验减少50%，每次论道灵感清零。¤Spiritual Thought Depletion: Both sides' access to enlightenment value is reduced by 100%, enlightenment experience is reduced by 50%, and inspiration is cleared for each argument.
+(剩余三回合)¤(Three rounds remaining)
+回合¤Round
+天人合一¤Unity of Heaven and Man
+悟道值¤Enlightenment Score
+心无波澜：心无波澜，双方悟道经验和悟道值正常获取。¤No ripples in the heart: No ripples in the heart, both sides gain enlightenment experience and enlightenment value normally.
+李全又有¤Li Quan has it again
+悟道点+33(12/30)¤Enlightenment +33(12/30)
+二¤Two
+选择越多难度越高,道友谨慎选择¤The more you choose, the more difficult it is, so you should choose carefully
+说话三十个字说话三十¤Talk thirty words talk thirty
+没有空位,无法出牌¤No empty space, can not play cards
+获得思绪¤Pondering Gained
+论道失败¤Failure to discuss
+获得悟道值¤Gain enlightenment value
+选择论题¤Choose a topic
+论道成功¤Successful argument
+金之道¤The Golden Path
+启用Mod框架¤Use Mod Framework
+剩余可用天赋：¤Remaining available talents:
+十六岁那年，\n因为一把满是锈迹的神秘钝剑，\n你意外地走上了这漫漫仙途...¤At the age of Sixteen，\ndue to a mysterious sword covered in rust，\nyou accidentally embarked on the journey to immortality...
+资质:¤Aptitude:
+灵根:¤Spirit Root:
+无间隔¤No spacing
+身体¤Body
+当前版本：¤Current Version:
+存档间隔¤Saving Interval
+窗口¤Windowed
+云存档¤Cloud Save
+结算频率¤Settlement frequency
+自古以来，人们从来没有停止过对长生之道的探索...\n上古时代的道家修士们,\n以自身灵根为根基，沟通天地灵气，\n辅以太极五行，阴阳八卦之力，外炼丹药，内修元神，\n留下了无数强大的修真法门。\n传说修为高深者，便能够引动天劫，破碎虚空，\n飞升到仙界，真正成为与天地同寿的“仙人”¤Since time immemorial, the people have never given up on achieving immortality... \n The Cultivators from ancients times, using their own spiritual roots as a foundation, began to circulate the Spiritual Qi of the heavens and earth; supplemented by the five elements as well as Yin and Yang, refining pills and the cultivation of their soul. Over time countless powerful Cultivation Techniques have been left behind. Legend has it that those with advanced cultivation will be able to trigger heavenly tribulation and shatter the void, ascending to the immortal realm and truly becoming an immortal who lives alongside the Heavens and Earth.
+保存时间：¤Save Time :
+金¤Metal
+清除数据¤Clear data
+寿元:¤Lifespan:
+脸部¤Face
+自动保存¤Autosave
+金丹初期¤Early Golden Core
+<color=#A22727>测试测试</color>11¤<color=#A22727>Test test</color>11
+土¤Earth
+气血:¤Health:
+000年00月00日¤000N00M00D
+天谴之人¤Scorned by Heaven
+时长:¤Duration:
+低¤Low
+灵石:¤Spirit stone :
+高¤High
+分辨率¤Resolution
+嘴巴¤Mouth
+悟性:¤Comprehension:
+注意！带有'<color=red>旧</color>'的老存档无法上传到云存档！¤Attention! Old archives with '<color=red>old</color>' cannot be uploaded to the cloud archive!
+境界:¤Realm:
+0000年00月00日 00时00分¤0000Y 00M 00D 00:00
+神静气安（0）¤Calm (0)
+剧情模式达到筑基初期时解锁¤Unlocked when the plot mode reaches the early stage of foundation building
+心境:¤Mental :
+点击输入¤Click to enter
+神识:¤soul sense:
+吾¤I
+音乐¤Music
+空¤Empty
+音效¤Sound Effect
+火¤Fire
+遁速:¤Speed:
+须发¤Mustache
+详细信息¤Details
+共选择三个灵根¤Choose a total of three spiritual roots
+练气初期¤Early Qi cultivation
+水¤Water
+选择难度¤Select difficulty
+三灵根¤Three Spiritual Roots
+木¤Wood
+一键静音¤Mute
+显示模式¤Display Mode
+艳道天¤Yan Daotian
+剩余回合 九¤Remaining rounds Nine
+筑 基¤Build Foundation
+角色姓名¤Character Name
+回合冷却¤Round cooldown
+神通名字¤Avatar name
+<color=#4493d5>冷却:</color>n回合¤<color=#4493d5>cooldown:</color>n rounds
+<color=#cda14c>说明:</color>说明说明说明说明说明说明说明说明说明说明说明¤<color=#cda14c>Description:</color>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription
+普通Tip¤Normal Tip
+点灵气¤Point Aura
+选择1点灵气¤Select 1 point of aura
+属性¤Attributes
+第1回合¤Round 1
+你还需要消散¤You still need to dissipate
+战斗记录¤Battle Record
+皇龙殿¤Royal Dragon Palace
+乾龙阁¤Qian Dragon Pavilion
+坤龙殿¤Palace of the Kun Dragon
+雷狱阵¤Thunder Hell Formation
+龙脉¤Dragon Vein
+龙墓¤Dragon Tomb
+执事堂¤Deacon Hall
+灵脉¤Spiritual Veins
+方壶山¤Fanghu Mountain
+沂山派¤Yishan School
+沂山¤Mt. Yi
+乾天劫¤Heaven's Calamity
+第X道¤Stage X of Technique
+第X道雷劫¤Stage X of Thunder Tribulation
+额外受到等同于剩余血量一半的伤害¤Take additional damage equal to half of the remaining HP
+仙 胎¤Nascent Soul
+禾山道¤Harvest Hill Road
+幽谷¤Shadow Valley
+禾山¤Harvest Hill
+XXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG¤XXXXYxMxD, AAABBBCCCDDDEEEFFFGGG\nXXXXYxMxD,
+长按Ctrl快进¤Hold Ctrl to Skip
+生命值¤Vitality
+九霄雷狱\r\n¤9 Judgement Prison\r\n
+煅体值¤Body Refinement
+本回合抽牌数+5。回合结束时，每有一张手牌，心魔伤害+1¤At the end of the turn, for each card in your hand, +1 damage to your mind.
+经脉¤Meridian
+意志¤Will
+色欲¤Lust
+下一心魔:¤Next Inner demon:
+俱念¤All thoughts
+碎丹¤Shattered Dan
+宝器轩¤Treasure Artifact Pavilion
+宁王府¤Ning King Palace
+逸风府¤Yifeng Palace
+斗法台¤Dueling Arena
+听雨阁¤Hearing Rain Pavilion
+公孙府¤Gongsun Manor
+中草阁¤Forest Herbs Pavilion
+云汐府¤Yun Shi Palace
+星宫¤Star Palace
+问道楼¤Dao Seeker Pavilion
+林府¤Lin Manor
+百宝行¤Hundred Treasure House
+百里府¤Baili Manor
+广陵府¤Guangling Palace
+仙性¤Immortality
+塑魂¤Soul Shaping
+淬体¤Hardened body
+凡性¤Mortality
+麟庙¤Qilin Temple
+炎麟阵¤Flame Qilin Formation
+结 丹¤Knotting
+古月寨¤Ancient Moon Village
+烁金窟¤Bright Gold Cave
+山脚洞窟¤Cave at the foot of the mountain
+拍卖行¤Auction House
+天机榜¤Tianji List
+天衍阁¤Heaven Divination Pavilion
+天机阁¤Heavens Secrets Pavilion
+接引阁¤Reception Hall
+东石谷¤East Stone Valley
+空旷之地¤Open Space
+风雷谷¤Wind and Thunder Valley
+巫山¤Mt. Wu
+竹山宗¤Bamboo Mountain Sect
+正阳山¤Mt. Rising Sun
+云汐城¤Yunxi City
+沃焦山¤Inferno Mountain
+天星城¤Tianxing City
+洞府¤Cave
+永安镇¤Yong'an Town
+天魔眼¤Heavenly Devil's Eye
+金虹剑派¤Radiant Sword Sect
+离火门¤Heavenly Fire Gate
+星河剑派¤Celestial River Sect
+涵虚仙府¤Hanxu Palace
+化尘教¤Shifting Sands School
+连石山¤Mt. Lian Shi
+青石灵脉¤Lapis Spiritual Vein
+武陵城¤Wuling City
+宁州古迹\n¤Ningzhou Monuments\n
+岱舆山¤Mt. Daiyu
+岫络谷¤Xiuluo Valley
+逸风城¤Yifeng City
+玄道宗¤Hidden Dao Sect
+文本文本文本¤Text text text
+灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩¤Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Aura Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield Reiki Shield
+未知人物：¤Unknown Character:
+声望:¤Reputation:
+宁州散修¤N.Zh. Inde. Cultivator
+海域¤Ocean
+策略¤Strategy
+身份¤Identity
+1000年12月31日¤D31 M12 Y1000
+宁州¤Ningzhou
+秘术描述¤Secret Art Description
+突破化神时，每回合额外抽一张水系灵气牌突破¤When breaking through the transArray, draw an extra water aura card each turn to break through
+势力¤Faction
+特权¤Privilege
+行动¤Action
+的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多¤Ding Ding Ding Ding Ding Ding Ding Ding Ding D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D
+突破化神后解锁能力¤Unlock the ability after breaking through the God of TransArray
+身份:¤Identity:
+一级¤First level
+Bug请反馈¤Please give feedback on bugs
+交谈¤Talk
+请教¤Seek Knowledge
+线索¤Clues
+离开¤Leave
+快进到做二快进到做二快进到做二¤Fast forward to do two fast forward to do two fast forward to do two
+时间:¤Time:
+筑基后期¤Late Foundation Stage
+年¤Y
+本次可能采到的材料¤Materials that may be picked up this time
+<color=#e9d8ac>选择</color>你重点想要寻找的材料,可以<color=#e9d8ac>提升</color>找到它的<color=#e9d8ac>机率</color>¤<color=#e9d8ac>Select</color> the material you are focusing on to <color=#e9d8ac>increase</color> the chances of finding it</color>.
+月¤M
+李全有有¤Li Quanyouyou
+势在必得¤It's imperative to get it
+金鸿剑派外门弟子¤Outer disciples of the Jin Hong Sword Sect
+放弃竞价¤Give up bidding
+采摘物品¤Loot items
+辅修¤Secondary
+情分：¤Affection:
+飞鹤仙术¤Flying Crane Immortal Manual
+无¤Nothing
+门派宗门¤Sects Clan
+全部¤All
+飞鹤仙术\n¤Flying Crane Immortal Manual\n
+抽成¤commission
+上传时间：2022/06/01 16:45:30¤Upload Time: 2022/06/01 16:45:30
+正在双修.......¤Currently Dual Cultivating .......
+订阅¤Subscribers
+加上¤Plus
+退出¤Close Game
+丹方1：¤Pill Recipe1:
+0年0月0日¤D0 M0 Y0
+2999年11月¤M11 2999Y
+悟道点¤Enlightenment point
+领取¤Get
+声望：¤Reputation:
+任务¤Mission
+近日收到传闻，徐家汇附近有妖兽“大欣欣”作祟，残害无辜百姓。此妖兽的实力与黑铁后期的猿类修士相当，你可有办法处理此事？近日收到传闻，徐家汇附近有妖兽“大欣欣”作祟，残害无辜百姓。此妖兽的实力与黑铁后期的猿类修士相当，你可有办法处理此事？¤Recently, we received a rumor that there is a Spirit Beast 'Da Xin Xin' haunting near Xu Jia Hui, killing innocent people. The strength of this beast is comparable to that of a late Black Iron ape Vagrant Cultivator, do you have a way to deal with this matter? Recently, we received a rumor that there is a Spirit Beast 'Da Xin Xin' haunting near Xu Jia Hui, killing innocent people. The strength of this Spirit Beast is comparable to that of a late Black Iron ape Vagrant Cultivator, do you have a way to deal with this matter?
+灵石：¤Spirit Stones:
+发布任务¤Posting tasks
+剩余时间¤Time left
+风雨楼¤Storm Manor
+九品木源金丹¤Ninth Grade Wood Origin Golden Core
+用阵旗升级（需三品阵旗）¤Upgrade with the formation flag (need the third grade formation flag)
+不知所踪¤Whereabouts Unknown
+标题:¤Title:
+收割¤Harvesting
+灵田¤Spirit Field
+剩2000年1株¤1 plant left in 2000 years
+灵气供给 <color=#99d0d1>9200</color>/月¤Reiki supply <color=#99d0d1>9200</color>/month
+草药¤Medicinal Herb
+宗门¤Main Sect
+正在执行¤Under implementation
+元婴¤Nascent Soul
+删除丹方¤Delete recipe
+行踪：¤Whereabouts:
+法则领域：你掌握了大道法则之力，可以在战斗中施展领域技能¤Domain: you mastered the power of the Dao law, you can cast the Domain skill in the battle
+全品阶¤All ranks
+修行要诀¤Cultivation tips
+搜索.......¤Search for.......
+万象图鉴¤Encyclopedia
+草药草药草药¤Herbal medicine herbal medicine
+海陆图志¤Ocean map
+无尽之海¤Endless sea
+赏金：¤Bounty:
+其他¤Other
+探查难度：<size=34>极高</size>（神识需求20）¤Scouting difficulty: <size=34>Very High</size> （Soul Sense requires 20）
+本地灵气：<size=34>充裕</size>¤Spirit Aura: <size=34>Abundant</size>
+灵核数量：<size=34>极多</size>¤Spirit Cores: <size=34>Plenty</size>
+未知¤Unknown
+瓶颈¤Bottleneck
+金丹后期¤Golden Core Late Stage
+方案五¤Preset 5
+悟道点也会在境界提升，与悟道等级到达融会贯通时获得¤Comprehension points are awarded when the level of enlightenment is reached
+飞升¤Ascension
+服用服用服用服用服用服用服用¤Taking taking taking taking taking taking taking taking taking
+人物名字¤Character name
+人物称号人物称号¤Character title
+插件¤Plug-ins
+目标详情¤Target details
+参赛者¤Competitors
+李大力¤Li Dali
+寿元：¤Lifespan:
+空 栏 位¤Empty column
+遗 忘¤Forgotten
+名字名字¤Name Name
+悟道等级 悟道经验：000/000¤Dao Comprehension Experience：000/000
+草药\t¤Herbs\t
+剩80年2月¤Time left 2M 80Y
+遁术¤Movement Skill
+你死了¤You are dead
+作者：¤Author:
+第2021年11月¤On M11 Y2021
+材料¤Materials
+主药：¤Primary:
+发布¤Publish
+启用¤Enable
+《描述描述描述》¤The Description Description Description
+使用相同的灵气牌释放土系伤害技能时，造成的伤害提升10%；使用相生的灵气牌释放时，获得【护罩】*X（X为该技能灵气牌消耗的数量）¤When using the same Qi type to cast Earth skills, the damage dealt is increased by 10%; when using synergisitc Qi, you gain 【Shield】*X, where X is a number of Qi consumed
+每月¤Monthly
+选择闭关时间¤Choose the retreat length
+右侧面板标题¤Right Panel Title
+提升¤Upgrade
+重要事件描述¤Description of important events
+剩余 99年99月99日¤Remaining 99 years 99 months 99 days
+领悟条件¤Understanding Requirements
+对X之道的领悟达到XXXX¤Comprehension of the Way of X reached XXXX
+封面:¤Cover:
+以金入道¤Enter the Way with gold
+选择大道¤Choose the Way
+获得精元 1000000\n闭关N年后，可凝练为XXX修为¤Obtain Essence Element 1,000,000\n after N years of seclusion, can condense into XXX cultivation
+路径:¤Paths:
+灵田每月供给灵力催生灵药，但也可以消耗灵石催生¤The spiritual field supplies spiritual energy to produce spiritual medicine every month, but it can also consume Spiritual stones to produce
+确定¤Confirm
+所有¤All
+初窥门径¤First look at the doorway
+任务进度已更新更新¤Task progress has been updated
+任务进度已更新¤Task progress has been updated
+大五星晴天手¤Big Five-Star Clear Sky Hands
+178年2月18日¤D18 M2 Y178
+上品灵眼¤Top quality spirit eye
+设置¤Settings
+悟性：¤Comphre:
+文件大小：1230kb¤File size: 1230kb
+采集药材的效率提升采集药材的¤The efficiency of collecting medicinal materials is improved
+功法名称¤Technique Name
+亲密¤Affinity
+看见就说明出BUG了¤see it means there is a bug
+施工中¤In progress
+金鸿剑派挂名长老¤Titled Elder of Jin Hong Jian Sect
+胜¤Victory
+负¤Defeat
+置顶丹方¤Top up the formula
+订阅数¤Number of Subscribers
+签到¤Sign in
+丹药¤Pill
+!连接手柄或修改神识属性过高可能会导致无法正常移动¤! Connecting to the handle or modifying the attribute of Soul Sense too high may result in not being able to move properly
+兑换码¤Exchange code
+选择两张加入你的手牌¤Choose two cards to add to your hand
+shift+鼠标右键¤shift+right mouse click
+修为:¤Cultivation:
+管理模组¤Manage mods
+主修¤Primary
+领悟时间¤Comprehending time
+回合限制¤Round Limit
+感悟¤Insight
+调整¤Adjustments
+说明¤Instructions
+mod文件夹:¤mod folder:
+提交¤Submit
+龙族¤Dragon
+事件描述¤Event Details
+未知称号¤Unknown title
+新人签到¤Newcomer sign in
+过期时间：¤Expires on:
+发 布¤Publish
+返 回¤Return
+所需灵石:¤Spirit stones required:
+所需声望:¤Reputation required:
+花 费¤Costs
+默认¤Agree
+东石谷拍卖会¤East Stone Valley Auction
+主药¤Primary
+聚元¤Gathering of elements
+药引¤Temperature
+请先置入丹炉¤Please place in the furnace first
+辅药¤Secondary
+全品¤All ranks
+所有品阶¤All ranks
+丹炉\n¤Pill Furnace \n
+遗忘¤Forget
+方案二¤Preset 2
+很荣幸您能玩到我的游戏，当前游戏正处于测试阶段，游戏中可能出一些有趣、奇怪、甚至是令人沮丧的问题你可以加入qq群：715413658（或直接扫描右方二维码）反馈给我们问题信息。（加入群聊你也可以获得一份兑换码里面有惊喜哟！！）\n测试时间：2019.1.1-2019.3.1\n（再次开服时间预定在2019.3.15，无需再次下载，程序会自动更新到最新版本）¤I am honored that you can play my game. The game is currently in the testing stage. There may be some interesting, strange, or even frustrating problems in the game. You can join the QQ group: 715413658 (or directly scan the QR code on the right) Give us feedback about the problem. (You can also get a surprise in the redemption code by joining the group chat!)\nTest time: 2019.1.1-2019.3.1\n(The re-opening time is scheduled for 2019.3.15, no need to download again, the program will Automatically update to the latest version)
+回风雨楼复命¤Return to Storm Manor for debriefing
+领悟条件:对木之道的领悟达到略有小成领悟条件:对木之道的领悟达到略有小成领悟条件:对木之道的领悟达到略有小成¤Comprehension condition:Comprehension of the Way of Wood has reached a slight success Comprehension condition:Comprehension of the Way of Wood has reached a slight success Comprehension condition:Comprehension of the Way of Wood has reached a slight success
+探查¤Probe
+<color=#ffb143>【领悟条件】</color>对丹之道的感悟达到初窥门¤<color=#ffb143>【comprehension conditions】</color> perception of the Dao of Dan reaches the first glimpse of the door
+总 览(已感悟)¤Overview (understanding)
+模组说明:¤Mod Description:
+大欣欣城告示¤Great Xinxin City Notice
+返回标题¤Main Menu
+上传模组¤Upload Mod
+【修为大退】修为-10000000¤【Cultivation Great Retreat】 Cultivation -10000000
+法宝¤Magic Treasure
+返回主界面¤Return to the main menu
+执行完成¤Execution complete
+活动¤Activity
+备注：家里的档¤Note: Local Save
+快捷键¤shortcut key
+悬赏榜¤Reward List
+对气之道的思绪¤Qi Knowledge
+宗门大比大比¤Clan Grand Competition
+10年3月1日¤D1 M3 Y10
+2032年12月23日¤D23 12M 2032
+下载¤Download
+确定吗？¤Confirm?
+输入标题,最多20字¤Enter a title, up to 20 characters
+感兴趣的物品¤Items of interest
+六品¤Sixth Grade
+20.5万/20.5万¤205,000 / 205,000
+恢复¤Recovery
+返回¤Return
+记忆¤Memories
+管事¤Steward
+六品水系妖兽材料x20¤Sixth Grade Water Spirit Beast Material x 20
+寄换物品\n¤Send an exchange item\n
+返回交易¤Back to Trading
+或者¤Or
+交易会¤Trade fairs
+其他依赖项请到STEAM创意工坊内自行设置¤Other dependencies can be set up in the STEAM Creative Workshop
+丹毒：¤Poison:
+啦啦啦啦啦啦¤La la la la la la la la
+输入描述¤Input description
+所有人可见¤Visible to all
+淬体：生命值上限-9999¤Hardened body： Health cap -9999
+门派:¤Sect:
+应 用¤Apply
+神秘洞窟¤Mysterious cave
+放弃¤Give up
+职位:¤Position:
+神识：¤S Sense:
+辅药：¤Secondary:
+生命:¤HP:
+门派声望:¤Sect Reputation:
+秘籍¤Secret Manual
+9999年12月31日至12月31日¤December 31, 9999 to December 31
+灵感：¤Inspiration:
+事 项¤Item
+品阶¤Rank
+剩余N回合¤N rounds left
+一圈圈涟漪从光幕中心位置犹如波浪一般，急速扩散，整个光幕犹如玻璃板轰然破碎。¤A circle of ripples spread rapidly from the center of the light screen as if it were a wave, and the entire light screen shattered as if it were a glass plate.
+领悟时间:0年¤Comprehension time:0 years
+300灵石/年¤300 spirit stones/year
+小奥奇¤Little Strange
+确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？¤Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm? Confirm?
+走穴¤Walking the cave
+饰 品¤Accessories
+武 器¤Martial Weapon
+内 甲¤Inner Armor
+门派商店¤Sect store
+龙宫¤Dragon Palace
+上前探查¤Go up and scout
+正在神识探查中......¤In the process of investigation...
+二品¤Second Grade
+物品六个字字x20¤Six character items x 20
+遁速：¤Speed:
+三品¤Third Grade
+装备功法¤Equip techniques
+丹毒:¤Impurities:
+捐赠¤Donation
+方案三¤Preset 3
+点击返回主界面¤Click to return to the main interface
+修炼速度：¤Cult speed:
+药引：¤Catalyst:
+要在这里住多久?¤Stay duration?
+对水之道的感悟提升<size=40>222222</size>经验¤Sense of the Way of Water boosts <size=40>222222</size> experience
+类型¤Types of
+金虹剑派挂名长老¤Radiant Sword Sect Sect Honorary Elder
+历史进度:0¤Historical progress:0
+<color=#ffb143>【需求点数】</color>¤<color=#ffb143>【Required Points】</color>
+总览¤Overview
+也许我可以挑衅他人，让他花<color=#fbffd4>更高</color>的价钱参与这次竞价。不过这么做应该会<color=#fbffd4>惹怒</color>拍卖会的主持人...¤Perhaps I can provoke someone else to pay <color=#fbffd4>a higher</color> price to participate in this bidding. But doing so should <color=#fbffd4>piss off</color> the auction's host...
+二阶聚灵阵¤Rank 2 spirit gathering Array
+输入兑换码¤Enter the redemption code
+状态:¤Status:
+赠礼¤Gift
+正在神识探查中.......¤In the process of investigation...
+截杀¤Attack
+功法¤Techniques
+元婴功法¤Nascent Soul techniques
+重要事件¤Important events
+人物名称¤Name
+功法技能¤techniques and skills
+时间¤Time
+神通¤Divine powers
+威胁¤Threaten
+友善¤Friendly
+论道¤Debate
+装备¤Gear
+年龄:¤Age:
+附近的人¤Nearby People
+熟悉¤Familiar
+查看¤Spy
+切磋¤Duel
+好感:¤Affinity:
+大道感悟¤Dao insight
+交易¤Trade
+身负重伤¤Seriously injured
+第N轮¤Turn N
+【仙格初显】下次突破时，初始【仙性】+1¤【Immortal Grid First Reveal】Initial 【Immortal Nature】 +1 at the next breakthrough
+读取¤Load
+创意工坊¤Creative Workshop
+保存¤Save
+最多订阅¤Maximum subscriptions
+删除¤Delete
+目标:¤Objective:
+上传中¤Uploading in progress
+田内灵力¤Spiritual power within the field
+炎萧炎萧¤Yan Xiao
+离火门长老¤Elders of the Heavenly Fire Gate
+未达成¤Not reached
+资质：¤Aptitude:
+剑¤Sword
+一品¤Grade1
+剩99年¤99 years left
+选择秘术¤Select Secret Skill
+拍卖记录¤Auction Record
+需要开启以下模组:¤The following mods need to be enabled:
+游戏已自动保存¤Game automatically saved
+需求物品¤Items in demand
+名称¤Name
+冷淡¤Cold
+是否将该角色打入轮回¤Reincarnate character
+测试物品剑¤Test item sword
+正在采集...¤Collecting...
+聚灵阵与灵眼品阶越高，修炼速度越快，灵田收益越高。¤The higher the grade of the spirit gathering array and spirit eye, the faster the cultivation speed and the higher the gain from the spirit field.
+方案一¤Preset 1
+一名金丹后期的杀手正在搜寻你的下落，他将不惜付出任何代价，取你性命¤A late golden core stage killer is searching for your whereabouts, he will take your life at any price
+核心阵旗¤Core Array Flag
+用¤Use
+兑 换¤Exchange
+三阶聚灵阵¤rank 3 spirit formation
+2880/月¤2880/month
+声名狼藉¤Renowned
+声名远扬¤Well-known
+名声败坏¤Infamous
+誉满天下¤Famous
+臭名昭著¤Infamy
+默默无闻¤Unknown
+略有薄名¤Slightly known
+按住ctrl跳过¤Hold ctrl to skip
+【修为大退】¤【Great Retreat in Cultivation】
+第二元神：金丹提供的血量上限¤The second elementary spirit: the blood limit provided by the Golden Core
+修为-10000¤Cultivation -10000
+额外提升生命值+72¤Additional Health boost +72
+碎丹化婴：金丹提供的血量上限¤Shattered Dan into Infant: Blood limit provided by Golden Dan
+气血¤Health
+修为-1000¤Cultivation-1000
+【筑基洗髓】¤【Foundation Building and Marrow Washing】
+本次未感悟的剩余思绪将消散¤The remaining thoughts not sensed this time will dissipate
+无人接取¤No-one received
+看到这句话就说明你出BUG了，发存档给陈胜¤See this sentence means you have a bug, send the archive to Chen Sheng
+伴月楼管事¤The steward of the accompanying moon building
+寄卖物品¤Consignment items
+本期拍品¤This auction
+自创功法ModBy小奥奇¤Self-created technique Mod by Little Aoqi
+好评率¤Positive rating
+灵石¤Spirit Stones
+你在林中穿行，突然你感受到一股微弱的引力，你跟随引力传来的方向走去，你发现了一出隐蔽的洞府，洞口看起来一片狼藉，而引力似乎就是从洞窟深处传来的，此时你准备...¤You are walking through the forest, and suddenly you feel a faint gravitational force. You follow the direction of the gravitational force, and you find a hidden cave. The entrance of the cave looks like a mess, and the gravitational force seems to be transmitted from the depths of the cave. Come, now you are ready to...
+订阅最多¤Most subscribed
+选 择¤Select
+描述:¤Description:
+30日后¤After 30 days
+2032年12月24日¤D24 M12 Y2032
+金鸿剑牌入门弟子¤Golden Rainbow Sword Sect Inner Disciple
+失联¤Lost contact
+你在哪里？¤Where are you?
+金鸿剑派¤Radiant Sword Sect
+确认兑换¤Confirm Exchange
+3品¤3rd grade
+大¤Large
+双修秘术¤Dual cultivation secret technique
+放入 物品六个字字 x99999\n预计花费999年12月12日¤Enter Grade6 words x99999\nExpected costs D12 M12 Y999
+新英雄狼人上线¤New hero Werewolf is online
+修复xxx需要n灵石¤Repair xxx need n spirit stone
+很荣幸您能玩到我们的游戏，当前游戏正处于测试阶段，游戏中可能出一些有趣、奇怪、甚至是令人沮丧的问题你可以加入qq群：715413658（或直接扫描右方二维码）反馈给我们问题信息。（加入群聊你也可以获得一份兑换码里面有惊喜哟！！）\n测试时间：2019.1.1-2019.3.1\n（再次开服时间预定在2019.3.15，无需再次下载，程序会自动更新到最新版本）¤I am honored to be able to play our game. The game is currently in the testing stage. There may be some interesting, strange, or even frustrating problems in the game. You can join the QQ group: 715413658 (or directly scan the QR code on the right) Give us feedback about the problem. (You can also get a surprise in the redemption code by joining the group chat!)\nTest time: 2019.1.1-2019.3.1\n(The re-opening time is scheduled for 2019.3.15, no need to download again, the program will Automatically update to the latest version)
+当前进度:0¤Current progress:0
+测试期间所有英雄免费试用¤Free trial for all heroes during the test period
+品级：¤Grade:
+任务道具¤Task props
+上品通天灵宝¤Upper grade Heavenly Spiritual Treasure
+物品六个字字¤Item six word word
+情分:¤Affection:
+五品¤Fifth Grade
+仓库¤Storage
+类型:¤Type:
+全属性¤All attributes
+塑魂：神识-9999¤Soul Shaping: Soul Sense -9999
+F5快速保存¤F5 quick save
+近日，我南崖城急需10份宁心草，道友若是寻来，这份情谊我们不会忘记了。¤Recently, my South Cliff City is in urgent need of 10 copies of Ningxin grass, if you find it, this friendship will not be forgotten by us.
+收 购¤Acquire
+需要¤Required
+F8快速读取¤F8 Quick Load
+心烦意乱¤Distracted
+功能¤Function
+思绪¤Thoughts
+阴冥海¤Deep Yin sea
+千流海域¤Thousand stream sea
+探索度 0%¤Exploration degree 0%
+东海¤East Sea
+南宁海¤South Ning Sea
+吞云海¤Swallowing Cloud Sea
+化龙海¤Shifting Dragon sea
+北宁海¤North Ning Sea
+洞府洞府¤Cave Cave
+蓬莎海域¤Pongsha Sea
+西宁海¤West Ning Sea
+南崖城¤South Cliff City
+碎星岛¤Shattered Star Island
+浪方海域¤Langfang Sea
+碎星海域¤Shattered Star Sea
+蓬莎岛¤Pongsha Island
+玄冥海¤Deep Black Sea
+雷鸣海¤Thunder Sea
+无尽海渊¤Endless Abyss
+幽冥海¤Deep Hell Sea
+南崖海域¤South Cliff Sea
+图南海¤South Sea
+千流岛¤Thousand Stream Island
+任务进度\n¤Task Progress\n
+剩余时间:¤Time left:
+距离事件开启剩余:¤Remaining until the event opens:
+灵药堂近日获得消息，传闻中岱舆山上的药谷盛产灵药灵药堂近日获得消息，传闻中岱舆山上的药谷盛产灵药灵药¤The Spirit Herb Hall has recently received news that the Yao Valley on Mount Daiyu is rumored to be rich in Pill Pill. Recently, it is rumored that the Medicine Valley on Daiyu Mountain is rich in Pill and Pill.
+牛逼道人的遗憾¤Noob Great Taoist resentment
+333年12月22日¤D22 M12 Y333
+在阴冥海的一些岛屿上，有时能找到自然凝聚而成的极阴之水，能够最大限度的发挥腐骨灵花与七彩月兰的药性。只需用这吸收了药性后的灵水擦拭双目，便有提神清目的奇效。如此往复三到四次，甚至能够让双目练就一些想象不到的奇妙瞳术。¤On some islands in the Deep Yin Sea, sometimes the extremely Yin water formed by natural condensation can be found, which can maximize the medicinal properties of the bone-corrosive spirit flower and the colorful moon orchid. Just wipe the eyes with the spiritual water after absorbing the medicinal properties, and there will be a refreshing and miraculous effect. Repeating three to four times in this way can even make the eyes practice some unimaginable wonderful pupil skills.
+任务描述\n¤Task Details\n
+东石谷东石谷¤East Stone Valley East Stone Valley
+突破¤Breakthrough
+山林桂宫¤Mountain Forest Gui Palace
+运气术¤Luck Spell
+啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦¤La la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+身体健康¤Physical health
+可见性:¤Visibility:
+该操作将覆盖当前存档是否确定？¤This operation will overwrite the current save. Are you sure?
+需提交5件上品火属性通天灵宝¤5 pieces of top quality Fire Attribute Spiritual Treasures must be submitted
+寄存兑换物品¤Deposit of exchange items
+弃¤Discard
+准¤Allow
+开始¤Start
+备¤Prepare
+放¤Release
+拍卖会主持人¤Auction Host
+当前竞价¤Current bids
+第一轮¤First round
+倪家少大师兄师兄¤Ni family young elder brother senior brother
+出价者¤Bidders
+耐心值¤Patience value
+东石谷 半月楼 拍卖会¤East Stone Valley Half Moon House Auction
+方案四¤Preset 4
+小¤Small
+XX日¤DXX
+四品¤Fourth Grade
+对木之道的领悟达到略有小成¤A slight understanding of the Way of Wood
+取消任务¤Cancel tasks
+允许使用宗门货币兑换宗门普通秘籍与修炼材料。¤It is allowed to use Main Sect currency to exchange Main sect inners, skillsets and general materials.
+任务总览¤Mission Overview
+接取¤Pick up
+上传¤Upload
+年龄：¤Age：
+俸禄:¤Salary:
+当¤When
+新英雄¤New Hero
+基本属性¤Basic Attributes
+测试活动¤Test activity
+上 传¤Previous
+灵根属性¤Spiritual Roots
+按空格回到当前位置¤Press space to return to current position
+按W,A,S,D上下左右移动¤Press W,A,S,D to move up and down, left and right
+气血：¤Health:
+悟道值满后，会获得悟道点x1¤After the enlightenment value is full, you will get enlightenment points x1
+估价¤Estimation
+维持时间¤Maintenance time
+运行¤Using
+客栈剩余¤Inn remaining time
+文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本¤Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+思 绪¤Thoughts
+心境：¤Mind:
+类型：¤Type:
+说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本¤Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text Explanatory Text
+99年99月99日¤Y99 M99 D99
+感悟消耗¤Insight consumption
+领悟消耗¤Comprehension time needed
+对X之道的感悟提高<color=#ff0000>XXXX</color>点¤Insight in X increased by <color=#ff0000>XXXX</color> points
+效果¤Effect
+突破消耗¤Breakthrough consumption
+真相¤The Truth
+御剑门之谜¤The Mystery of the Royal Sword Gate
+魔道踪影¤Traces of the Devil's Dao
+昔日身份¤Former identity
+秘术名字¤Secret Skill Name
+挂名长老¤Titular Elder
+未开始¤Not started
+第四轮¤Fourth Turn
+天机点¤Tianji Points
+第三轮¤Third Turn
+第二轮¤Second Turn
+胜场¤Winning Field
+第五轮¤Fifth Turn
+第六轮¤Sixth Turn
+品 阶\n¤Grade\n
+现有悟道点:¤Available enlightenment points:
+比试中......¤During the competition...
+突破阶段¤Breakthrough phase
+药引用于调和材料之间的寒热属性¤The medicine is used to reconcile the hot and cold properties of the ingredients
+日¤Day
+亲和¤Affinity
+效果X8¤Effect X8
+效 果¤Effect
+玄武¤Black Tortoise
+对自身造成3点伤害,灵力+3¤Inflict 3 damage to self, spiritual power +3
+总灵力¤Total spiritual power
+灵力12¤Spiritual Power 12
+下一次技能造成的木系伤害增加¤Increase the damage of next wood type element
+灵性¤Spirit
+朱雀¤Zhu Que
+青龙¤Green Dragon
+器 成¤Weapon Grade
+输入命名¤Enter name
+自身易伤¤Self-vulnerability
+对敌方施加¤Use on enemy
+坚固¤Hardiness
+操控¤Control
+白虎¤White Tiger
+韧性¤Tenacity
+选择要炼制的装备¤Choose the equipment to be refined
+选择感悟时间¤Select sense time
+移动¤Move
+取消¤Cancel
+重置¤Reset
+　你们彼此心有灵犀，大道合鸣，双方都收获颇丰。¤You are in tune with one another, your Dao is in harmony. Both of you reap great rewards.
+　你们双方鸡同鸭讲，并没有领悟到什么，彼此之间没有收获。¤You both talked past each other and didn't comprehend anything, without any gains between each other.
+　你乃天谴之人,你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人人你乃天谴之人你乃天谴之人人你乃天谴之人你乃天谴之人¤You are a man of God's wrath, you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath
+雷劫      剩余¤Tribulation     Remaining
+　　　　　　　结单结单结单结单结单结单结单结单结单结单结单结单结单结单结单结单结¤Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement Closing Statement
+　　清晨，¤   Early Morning,
+　　　你的手牌上限+1¤Your hand card limit is increased by 1.
+放入 物品六个字字 x99999 ¤If you see this tell linmios
+练气   初期¤Qi training Initial stage
+　　体内真元逐渐饱和，你的修为已经达到了练气后期的瓶颈，如果无法突破，就再难提升了¤The true essence in your body is gradually saturated, your cultivation has reached the bottleneck of late Qi Refining, if you can not break through, it will be difficult to advance further.
+　　你转头¤You turn your head
+     99999布阵升级（需阵道略有小成）¤If you see this tell linmios
+　　体内¤  internal
+　百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百¤Baili Qi's 100-word transmission, Baili Qi's 100-word transmission, Baili Qi's 100-word transmission, Baili Qi's 100-word transmission, Baili Qi's 100-word transmission, Baili Qi's 100-word transmission,
+　　在心魔幻象之中，你内心的种种恐惧与渴望在你眼前不断浮现，即便以你如今金丹巅峰修为，也沉沦与幻象之中无法自拔。就当你将要永远地迷失于心魔幻象中时，丹田之中突然冲出一股力量，将你硬生生地从幻象之中拉扯出来。你只觉得眼前一黑，昏死了过去。¤In the illusion of the heart demon, all your fears and desires constantly appear before you, even with you being a peak Golden Core Cultivator, you sink into the illusion and cannot extricate yourself. Just as you are about to be lost in the illusion forever, a force suddenly rushes out from your dantian, forcibly pulling you out of the illusion. You only feel your vision go black, and faint away.
+读取存档¤Loading saves
+宁  州¤Ning Zhou
+     对草药习性有了基础的认知对草药习性有了基础的认知¤Gained basic knowledge of characteristics of herbs Gained basic knowledge of characteristics of herbs
+　　清晨¤Early morning
+神秘铁剑¤Mysterious Iron Sword
+　　周边天地的灵气突然开始涌入你的体内，你感到体内的真元犹如沸腾的开水一般迅速流动起来，体内的灵气在你的不断压缩下，逐渐凝聚为实体，结成：\"\"¤The spiritual energy of the surrounding world suddenly begins to flow into your body. You feel the true element in your body flowing rapidly like boiling water. The spiritual energy in your body gradually condenses into substance under your continuous compression and forms\''\''
+正在存档     请勿关闭¤Saving...Please do not close
+阴阳域¤Yin Yang Realm
+出口¤Exit

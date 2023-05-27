@@ -1,0 +1,29 @@
+{
+  "name": "iwol-openai-translate",
+  "version": "1.0.0",
+  "description": "觅长生 (IWOL) English translation parse using openai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syarul/IWOL-OpenAI-translate.git"
+  },
+  "keywords": [
+    "觅长生",
+    "IWOL",
+    "Immortal Way of Life",
+    "en-translate"
+  ],
+  "author": "Shahrul Nizam Selamat <hottincup@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syarul/IWOL-OpenAI-translate/issues"
+  },
+  "homepage": "https://github.com/syarul/IWOL-OpenAI-translate#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}

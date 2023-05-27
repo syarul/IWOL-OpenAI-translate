@@ -1,0 +1,2241 @@
+确定¤OK
+取消¤Cancel
+算了¤Forget it
+进去¤Go inside
+前往¤Go
+御起真火提炼材料¤Raise the true fire to refine the materials
+早早离开¤Leave early
+仔细寻找¤Search carefully
+出示九龙玺¤Display the Nine Dragons Seal
+进去看看¤Check it out
+破阵¤Break the array
+离开¤Leave
+那便出发吧¤Then let's go
+完全没问题¤No problem at all
+参加¤Participate
+我还有些事没办完¤I still have something else to do
+还能坚持¤I can endure
+再了解一下其它长老¤Learn more about the other elders
+略有耳闻¤I've heard a little bit about it.
+青蛇真人¤Lord Azure Snake
+长春真人¤Lord Eternal Spring
+拜青蛇真人为师¤Become the disciple of Lord Azure Snake
+拜紫菱仙子为师¤Become the disciple of Lady Ziling
+未曾听说过¤Never heard of it
+紫菱仙子¤Lady Ziling
+拜长春真人为师¤Become the disciple of Lord Eternal Spring
+避开¤Dodge
+硬抗¤Endure
+正阳道长¤Lord Bright Sun
+苍坤上人¤Venerable Pale Earth
+拜正阳道长为师¤Become the disciple of Lord Bright Sun
+拜火云老祖为师¤Become the disciple of Patriarch Flamecloud
+火云老祖¤Patriarch Flamecloud
+拜苍坤上人为师¤Become the disciple of Venerable Pale Earth
+还是算了¤Nevermind
+采集¤Collect
+开始炼丹¤Begin Alchemy
+留下¤Stay
+暂且离开¤Leave for now
+尝试击溃禁制¤Try to break the seal
+退回去¤Pull back
+闯过去¤Break through
+静观其变¤Wait and see what happens
+出手相助¤Give aid
+尝试修复¤Attempt to repair
+使用传送阵¤Use the teleportation array
+服用解毒丹药¤Take a detoxing pill
+转身离开¤Turn and leave
+强行闯过¤Force your way through
+神识探查¤Soul Sense Probe
+采摘灵药¤Pick magical herbs
+笔直通过¤Go straight through
+另寻他路¤Find another route
+原路退回¤Return the same way
+于此修练¤Train here
+跳入水中¤Jump into the water
+用乱刃切割巨石¤Cut the boulder haphazardly
+以后再想办法¤Figure it out later
+用驱物术挪开巨石¤Move the boulder with telekinesis
+阴灵蟒¤Yin Spirit Python
+练习法术¤Practice techniques
+偷偷潜入（神识检测）¤Sneak in (Soul sense detection)
+出手攻击¤Strike
+硬闯过去¤Break through
+退回原路¤Retreat back the way you came
+闯进去¤Break in
+没什么想说的了¤Nothing more to say
+关于渡劫¤About Tribulation
+关于长生¤About Eternal Life
+关于魔门¤About Demon Gate
+多一事不如少一事，静观其变¤Better to wait and see what happens first.
+路见不平，自当现身相助。¤When you see injustice on the road, you should show up to help.
+同门有难，自当现身相助。¤When a fellow disciple is in trouble, you should show up to help.
+屏息凝神，不要轻举妄动¤Hold your breath, don't act rashly
+出手夺宝¤Attempt robbery
+不予理会¤Ignore
+回头看去¤Turn and look
+不去¤Don't go
+动手¤Do it
+求助¤Ask for help
+上前示意¤Step up and warn
+出言提醒¤Speak up and warn
+伸手阻拦¤Reach out and stop
+姑娘为何突然出手伤人？¤Lady, why would you suddenly attack someone?
+你这花妖好生歹毒！¤You're such a vicious flower demon!
+苦心劝说¤Persuade
+狠下杀手¤Strike to kill
+灭族......难不成你不是宁州香薷？¤Genocide...... Are you not Ningzhou Elsholtzia?
+你也太无理取闹，五百年前之事与我二人何干？¤You are too unreasonable, what does the incident 500 years ago have to do with us?
+这......既然我还活着，那应该是称得上的。¤...... Since I am still alive, that can be claimed.
+再等等¤Wait a little longer
+要战便战¤If you want to fight, fight
+拔腿就跑¤Run away
+抓住¤Catch
+偷偷溜走¤Sneak away
+宁死不服¤I'd rather die than submit
+果断认错¤Admit your mistake
+跳下去¤Jump down
+人为财死鸟为食亡¤Men die for wealth just as birds die for food
+运《敛息术》¤Use the Breath Restraint Technique
+神识掩护¤Soul Sense Protection
+偷了就跑¤Steal it and run
+愿意¤Agree
+古神教¤Cult of the Ancient Gods
+我没什么想知道的了¤There's nothing else I want to know
+张三¤Zhang San
+在外围相助¤Help from the distance
+加入白帝楼有什么福利？¤What are the benefits of joining White Emperor Pavilion?
+出发吧¤lets go
+没有其它问题了¤No more questions
+关于图南海¤About South Tu Sea
+不愿意¤Unwilling
+血剑印¤Blood Sword Seal
+血剑宫¤Blood Sword Palace
+韩立¤Han Li
+内阁弟子和外围成员有什么区别。¤What is the difference between a inner disciple and an outer disciple.
+我还有些事¤I have other business
+白帝楼的由来¤Origin of the White Emperor Pavilion
+入阵迎敌¤Enter the formation and meet the enemy
+魔神蛊¤The Ancient God Cult's Compulsion Gu
+魔心¤Demon Heart
+天魔道¤Heavenly Demon Path
+李天¤Li Tian
+关于遗迹的传闻¤Rumors about the ruins
+如何成为内阁弟子¤How to become an inner disciple
+加入白帝楼我需要做什么？¤What do I need to do to join White Emperor Pavilion?
+躲在角落¤Hide in a corner
+不必了¤No need
+出去看看¤Go out and take a look
+冷嘲热讽¤Sarcastic remarks
+大打出手¤fight
+好言安慰¤kind words of comfort
+直接进去¤Go straight in
+先敲敲门¤Knock on the door first
+询问魏无极¤Ask Wei Wuji
+自己试试¤Try it yourself
+答应¤Promise
+拒绝¤Refuse
+长老堂¤Elder Hall
+倪旭荣的房间¤Ni Xurong's Room
+倪振东的房间¤Ni Zhendong's Room
+倪振南的房间¤Ni Zhennan's Room
+同意¤Agree
+你又闯什么祸了？¤What have you gotten yourself into again?
+莫非是家中出了什么意外？¤Could it be that there was some kind of incident at home?
+出发¤Depart
+多谢，承情了。¤Thanks, I owe you one.
+不得已而为之¤It had to be done
+没空¤No time
+作为道侣，不就应该这样么嘿嘿¤As a couple, shouldn't that be the case?
+有何不敢¤Why would I not dare?
+怕不是缺个打手¤Are you sure it's not because you want help fighting?
+不用见外¤There's no need to be a stranger.
+找星铃儿帮忙¤Ask Star Bell for help.
+确定选择直接去星宫¤Confirm that you go directly to the Star Palace.
+去星宫“恭贺”冲虚散人¤Go to the Star Palace to 'congratulate' Chong Xu Sanren
+交给我吧¤Leave it to me
+不用担心¤Don't worry.
+无暇顾及¤No time to worry
+没什么事了¤There is nothing more to do
+我想出去看看¤I want to go out and see
+关于长老会¤About the Council of Elders
+我已经都了解了¤I already know everything
+关于栖云真人¤About Lord Qiyun
+关于苗矮上人¤About Venerable Miaoai
+关于通羽上人¤About Venerable Tongyu
+关于天星城坊市¤About the Star City Market
+言语威胁¤Threaten
+灵石收买¤Bribe with spirit stones
+不动声色地观察¤Observe quietly
+冲上去乱打一通¤Rushforward and strike 
+没有其它发现了¤Nothing else was found
+关于苗矮长老¤About Elder Miaoai
+关于通羽长老¤About Elder Tongyu
+我怀疑苗矮长老¤I suspect Elder Miaoai
+我怀疑栖云长老¤I suspect Elder Quyun
+我怀疑通羽长老¤I suspect Elder Tongyu
+进入三长老房间¤Enter the Third Elder's room
+进入二长老房间¤Enter the Second Elder's room
+镇元剑仙¤Swordmaster Zhenyuan
+龙阳上人¤Venerable Dragonlight
+拜镇元剑仙为师¤Become the disciple of Swordmaster Zhenyuan
+拜明河剑仙为师¤Become the disciple of Swordmaster Radiant River
+明河剑仙¤Swordmaster Radiant River
+拜龙阳上人为师¤Become the disciple of Venerable Dragonlight
+前往大殿¤Go to the main hall
+大巧不工¤It's not a big deal
+盘腿坐下¤Sit down cross-legged
+剑走偏锋¤Unorthodox sword moves
+飘逸灵动¤Floaty and nimble
+耐心等候¤Wait patiently
+大步上前¤Stride forward
+继续向前¤Continue forward
+试图返回¤Attempt to return
+请教《雾相化身》¤Ask for instruction on Mistborn Avatar Arts
+请教《云雾剑法》¤Please teach Cloud and Mist Sword Technique
+请教《幻雾真法》¤Ask for instruction on the Illusory Mist Mantra
+询问奕云仙子的过往¤Ask about the past of Lady Yiyun
+请教《幻雾术》¤Ask for the Illusory Mist Technique
+步入潭水¤Step into the pool of water
+潜心感悟¤Introspect and try to feel something
+上前查看¤Go up and see
+席地而坐¤Sit on the ground
+钻研石碑¤Study the obelisk
+先试探他一下¤Test him first
+推动机关¤Push the mechanism
+检查沙台¤Check the sand platform
+结束搜索¤End the search
+查看干尸¤Check the dried corpse
+查看沙台¤Check the sand platform
+小心观察¤Observe carefully
+上前打量¤Go up and take a look
+查看外套¤Check the robes
+检查矿灯¤Examine the mining lamp
+听他说完¤Hear him out
+不动声色地往退后一步¤Step back without making a sound
+玄伶仙子¤Lady Starsong
+凝霜仙子¤Lady Frostglaze
+润熹仙子¤Lady Dawnrain
+拜凝霜仙子为师¤Become the disciple of Lady Frostglaze
+拜润熹仙子为师¤Become the disciple of Lady Dawnrain
+再了解一下其他长老¤Learn more about other elders
+拜玄伶仙子为师¤Become the disciple of Lady Starsong
+前去参赛¤Go to the competition
+站出来¤Step up
+隐瞒事实¤Hide the truth
+不管它¤Don't worry about it
+没有什么要问的了¤There is nothing left to ask
+询问剑灵¤Ask the sword spirit
+询问小屋¤Ask about the hut
+询问光幕¤Ask the light screen
+凭自己的直觉¤Follow your own intuition
+暗中观察¤Observe in secret
+偷偷离开¤Secretly leave
+下次再说¤I'll talk about it next time
+出手迎战¤Meet in battle
+找落单的修士下手¤Look for a lone cultivator
+鸢本仙子¤Lady Yuanben
+恒如真人¤Lord Eternal Harmony
+拜鸢本仙子为师¤Become the disciple of Lady Yuanben
+拜冶庚上人为师¤Become the disciple of Venerable Yegeng
+冶庚上人¤Venerable Yegeng
+拜恒如真人为师¤Become the disciple of Lord Eternal Harmony
+伸手握住¤Reach out and hold
+就选它了¤I choose this one
+再看看别的。¤Look at the others
+桃木符剑¤Peach Wood Rune Sword
+碧玉符剑¤Jasper Rune Sword
+陨铁符剑¤Meteor Iron Rune Sword
+不叫价¤Don't bid
+兴致缺缺¤Not interested
+叫价¤Bid
+落座等候¤Sit down and wait
+我再想想¤let me think again
+是的¤Yes
+床头¤bedside
+已经没什么在意的了¤Nothing else on my mind
+花瓶¤vase
+书桌¤desk
+纸篓¤waste paper bin
+书架¤bookshelf
+窗户¤window
+床¤bed
+柜子¤cabinet
+屏风¤Divider screen
+检查灵石台座¤Examine the Spirit Stone Pedestal
+检查书桌¤Check the desk
+检查衣柜¤Checking the closet
+长案¤Long desk
+装饰剑鞘¤Decorative scabbard
+关于阮娘¤About Ruan Niang
+关于毕钟天¤About Bi Zhongtian
+关于海上仙山¤About the sea fairy mountain
+关于你自己¤About yourself
+没什么要问的了¤Nothing more to ask
+闯入阵法¤Breaking into the array
+离开此地¤Leave here
+小心潜入¤Sneak in carefully
+大胆闯入¤Boldly break in
+打听族中秘境¤Ask about the Secret Realm in the Clan
+询问百里奇的去向¤Inquire about the whereabouts of Baili Qi
+敛息潜入¤restrain your breath and sneak in
+深入漩涡¤Plunge into the Vortex
+进入¤enter
+手下留情¤Show mercy
+痛下杀手¤Strike to kill
+进入龙宫¤Enter the Dragon Palace
+不予理睬¤Pay no attention
+询问来由¤Ask the reason
+先观望观望¤Let's wait and see first
+第一个上¤First Up
+比我想象中要快¤Faster than I thought
+没想到只有两个人通过¤Unexpectedly, only two people passed.
+倪兄都是元婴修士了，怎么定力还这么差？¤Brother Ni is already a Nascent Soul Cultivator, how come you still have so little self discipline?
+前往探查¤Go and explore
+支付灵石¤Pay with spirit stones
+这一路是有些无聊了。¤The journey was a bit boring.
+场外等待¤Wait outside
+加入拍卖¤Join the auction
+我们出发吧¤Let's go
+俗话说舍命陪君子 我岂能让百里兄只身犯险¤How can I let brother Baili risk your life alone? 
+既然百里兄坚持 那我便祝你平安归来吧¤Since Brother Baili insists, I wish you a safe return.
+上前相助¤Go forward and render aid
+关于古代遗物¤About the ancient relics
+不太清楚¤Not quite sure
+略知一二¤I know a bit
+关于海域情报¤Information about the sea region
+迎头而上¤Go head on
+禾山道¤Heshan Road
+暂避锋芒¤Avoid conflict for now
+婉言拒绝¤politely decline
+好的¤Ok
+答应同行¤Agree to travel together
+还有别的事情¤There are other matters
+好，观上一观¤Ok, i'll take a quick look
+为何要去一观¤Why should I check it out
+关于出口¤About the exit
+我知道了¤I got it.
+注入灵力¤Inject spiritual power
+关于龙珠¤About the Dragon Orb
+关于阵法¤About The Array
+返回¤return
+地阶不传之秘¤Earth ranked Untold Secrets
+天阶不传之秘¤Heaven ranked Untold Secret 
+不传之秘¤Untold Secrets
+人阶¤Mortal
+地阶¤Earth
+普通秘籍¤Common Cheats
+犹豫不决¤Hesitate
+欣然同意¤Agree wholeheartedly
+解决祸端¤Solve the problem
+小心潜逃¤Carefully sneak away
+乐于出手¤Happy to make a move
+无所畏惧¤Fearless
+直接离开¤Leave straight away
+过去看看¤Go take a look
+逃命要紧¤Escape
+上前探查¤Go forward and explore
+有心无力¤Willing but unable
+擒贼先擒王¤Take out the leader first
+闯入圣坛¤Break into the altar
+闯入正殿¤Break into the main hall
+深入调查¤Investigate further
+开打¤start the fight
+下毒¤Poison
+我意已决¤I have decided
+占为己有¤Take it for yourself
+日后交还¤Return it later
+继续跟踪¤Continue to follow
+作壁上观¤Observe from the side
+再相信他一次¤Trust him once more
+推脱告别¤Excuse yourself and leave
+停下等待¤Stop and wait
+加快脚步¤Pick up the pace
+兴趣颇多¤Much interest
+不感兴趣¤Not interested
+暂且算了¤Forget it for now
+一探究竟¤check it out
+阅读碑文¤Read the inscription
+尝试抽离神识¤Attempt to withdraw Soul Sense
+尝试观察影像¤Try to observe the image
+抽离神识！¤Disengage Soul Sense!
+继续坚持！¤Keep it up!
+避开他¤Avoid him
+小心戒备¤Be on alert
+一旁等待¤Wait by the side
+一人便可对付¤I can handle it alone
+不便出手¤No need to do anything
+可负责一只¤I can take care of one
+木之守护兽¤Guardian of Wood
+水之守护兽¤Guardian of Water
+火之守护兽¤Guardian of Fire
+土之守护兽¤Guardian of Earth
+金之守护兽¤Guardian of Metal
+是那传已久的阵道功法？¤Is it the long-rumored formation technique?
+奇门遁甲？¤The strange disappearing Jia doorway?
+公孙兄这是...？¤Brother Gongsun, this is...?
+继续前进¤Moving on
+以神识应对¤Use soul sense to counter
+靠身法硬闯¤Pass through dodging
+寻求帮助¤Seek help
+倪旭欣¤Ni XuXin
+林沐心¤Lin Muxin
+公孙季¤Gongsun Ji
+退至一旁¤Step back to the side
+挺身而出¤Step forward
+进入御剑门遗迹¤Enter the ruins of the Imperial Sword Sect
+大家一起上！¤Let's go together!
+我先来会会他¤I'll deal with him first
+一旁围观¤Watch from the sidelines
+我来会会它¤I'll meet him.
+触碰石碑¤Touch the stele
+玄微？¤Xuan Wei?
+功法传承？¤Technique legacy?
+我没有什么想问的了¤I have nothing to ask
+你是谁？¤Who are you?
+又？¤Again?
+上万年？¤Ten thousand years?
+这是哪里？¤Where are we?
+言语试探¤Verbal probing
+这老道恐怕伤的不轻，不如趁他病，要他命！¤This old man seems quite badly injured, why not take advantage of his injuries to kill him!
+推脱¤Find an excuse
+动手！¤Do it!
+确认进入¤Confirm entry
+到此为止吧¤Let's stop here
+查看残骸¤Check the wreckage.
+查看阵法¤Check the array.
+以力破阵¤Break the formation with force
+以道破阵¤Break the formation through knowledge of Dao
+先等等¤Wait for now.
+同门有难，自当现身相助¤When a fellow disciple is in trouble, we should step up to help
+商量¤Negotiate
+挑战¤Challenge
+进入化龙池¤Enter the Dragon Transformation Pool
+小心试探¤Carefully probe
+愿闻其详¤I'd like to hear more about it
+没什么想了解的了¤There's nothing more I want to know
+化龙池？¤Dragon Transformation Pool?
+坤龙殿？¤Kun Long Hall?
+一口回绝¤Reject thoroughly
+先行试探¤Probe first
+没有什么想了解的了。¤There is nothing more I want to know.
+东海异动？¤Eastern Sea disturbance?
+父亲？¤Father?
+上古鲲龙之战？¤The battle of the ancient Kun Dragons?
+开战原由？¤The reason for the war?
+元婴期长老？¤Nascent Soul stage elders?
+主动询问¤Take the initiative to ask
+装作没有看见¤Pretend not to see
+缺失？¤Missing?
+交出引雷柱¤Hand over the lightning pillar
+上交引雷柱¤Hand over the lightning pillar
+入阵¤Enter Array
+引雷锻体？¤Lightning Forged Body method?
+雷鸣海九霄雷狱？¤Rolling Thunder's Sea Eternal Judgement Prison?
+关于雷鸣海九霄雷狱？¤About rolling thunder sea Eternal Lightning prison?
+考虑考虑¤Think about it
+出言挑衅¤Make a provocative remark
+强行破除¤Forcibly break it
+提起与龙族的交情...¤Speaking of friendship with the dragon clan...
+虚心讨教¤Asking for advice with an open mind
+仔细观察¤Observe carefully
+毫无办法¤Nothing can be done
+再想想别的办法¤Think of another way
+提起与白帝的交情...¤Mention your friendship with the White Emperor...
+给他灵石¤Give him spirit stones
+提起宁州的宗门势力...¤Mention the factional powers in Ningzhou...
+施展领域神通¤Use your domain
+勒令交出秘术¤Order to hand over the secret art
+言语无益，动手！¤Talk is cheap, strike out!
+无妨¤No problem
+接受¤Accept
+宫主此举确实有些出人意料¤This is a surprising move by the Palace Master.
+不管\n¤No matter what...
+拿走\n¤Take it away.
+飞身保护¤Dash forward in protection
+威吓驱赶¤Threaten and drive away
+动手解决¤Resolve by force
+摧毁¤Destroy
+置之不理¤Ignore it
+没时间了¤There is no time
+既来之，则安之¤Come as you are, come as you are
+否¤No
+是¤Yes
+修士？¤Cultivator?
+魂体？¤Body And Soul Separated?
+隐藏实力¤Hidden Strength
+神阴石？¤Divine Yin Stone?
+重铸肉身？¤Heavy Cast Body?
+阴气旋？¤Yin Cyclone?
+修炼？¤Cultivate?
+交易？¤Transaction?
+没有什么想问的了¤There is nothing left to ask
+阴体？¤Yin Body?
+体系？¤System?
+阴魂岛？¤Ghost Island?
+略施威压¤Apply a little pressure
+要办什么正事¤What are you going to do?
+贸然闯入¤Barge in
+假意应承¤Pretend to accept
+大首领最近如何¤How is the Grand Lord doing?
+直接翻脸¤Turn your face directly
+破阵拿走¤Break the formation and take it away
+不去触碰¤Stay out of reach
+翻动玉简¤Turning over the jade slip
+玉简二¤Jade Slip Two
+玉简三¤Jade Slip Three
+玉简四¤Jade Slip Four
+玉简五¤Jade Slip Five
+玉简一¤Jade Slip One
+视而不见¤Turn a blind eye
+向他行礼¤Give him a salute
+救¤Save
+不救¤Don't help
+追上去¤Catch up
+闭关修炼¤Secluded Cultivation
+阻止他¤Stop him
+默许他¤Allow him
+外出游历¤Travel outside
+暗中观察，先看看热闹再说¤Observe secretly and see what's going on first
+我是沂山派的（加入沂山派）¤I'm from Yishan School (join Yishan School)
+趁还没人注意到，赶紧溜¤Hurry up while no one notices yet
+我只是路过的¤I just passed by
+我是禾山道的（加入禾山道）¤I am from Heshan Road (joining Heshan Road)
+还是咸的更合我心意¤It's salty, it suits me better
+我更喜欢甜的¤I prefer sweet ones
+打听天蝉灵叶之事¤Inquiry about Skyscada Leaf
+暂时不要轻举妄动¤Don't do anything rash for now
+正常进入¤Enter normally
+再听听¤Listen again
+他肯定是魔修！¤He must be an evil cultivator!
+前往风雨楼¤Head towards Storm Pavilion
+前往听雨阁¤Head towards the Rain Pavilion
+继续等候¤Keep waiting
+还未完成¤Not yet finished
+只是路过¤Just passing by
+拜访友人¤Visit Friend
+说来听听¤Tell me the story
+来路不明的东西？¤Something of unknown origin?
+继续说¤Continue
+那便带我去看看吧¤Then show me.
+身份特殊？¤Special status?
+两情相悦¤Love.
+没什么兴趣¤No interest
+还有其他事¤There are other things
+也许是两情相悦吧¤Perhaps it's mutual love?
+正事要紧¤Business is important
+出言嘲讽¤Make a mocking remark
+结束旅途¤End the journey
+继续旅途¤Continue the journey
+切磋武艺¤Martial arts training
+婉言回绝¤I'm sorry.
+沉默¤Stay Silent
+解释¤Explanation
+先行离开¤Depart before the others
+进入气眼¤Enter the eye of the formation
+我肯定不是第一个¤I am certainly not the first
+只是侥幸而已¤It's just a fluke
+明白了！¤Got it!
+风险是不是太大了？¤Is the risk too great?
+上前敲门¤Knock on the door
+我自己转转就好了。¤I'll just turn around by myself.
+出示仙缘石¤Display Immortal Fate Stone
+偷偷倾听¤Secretly Listen
+催促他先找到自己宗门所在地¤Urge him to find his clan's location first
+口头应承 敷衍了事¤Casual agreement
+替他指出离火门的方向¤Pointing him in the direction of the Heavenly Fire Gate.
+闭目修练¤Close your eyes and practice
+喏，玄道宗接引人。¤Go ask the Mystic Dao Sect Receiver
+替他指出竹山宗的方向¤Show him the direction of the Bamboo Mountain Sect
+打不过¤Can't beat it
+打得过¤I can beat it.
+只是路过而已¤Just passing by
+慕名而来，想要拜入星河剑派¤I come in admiration, wanting to join the Celestial River Sect
+偷偷溜进去¤Sneak in
+进洞府¤Enter the cave
+去连石山¤Go to Lian Shi Mountain
+去连石山附近开辟洞府¤To open a cave inside Lian Shi Mountain
+进入连石山¤Enter Lian Shi Mountain
+为洞府改名¤Rename the cave
+趁无人先行进入¤I'll enter before anyone else
+等正道道友¤Waiting for the righteous daoists
+慕名而来，想要拜入化尘教¤I came here in admiration and want to join the Shifting Sands School
+趁没人注意时偷偷溜进去¤Sneak in when no one is looking
+进入沃焦山¤Go into the Inferno Mountain
+去沃焦山附近开辟洞府¤To open a cave inside Inferno Mountain
+去沃焦山¤Go to Inferno Mountain
+慕名而来，想要加入离火门¤Came here to join the Heavenly Fire Gate
+跟上去¤Follow
+慕名而来，想要拜入金虹剑派¤I came here in admiration to join the Radiant Sword Sect
+我想加入竹山宗¤I want to join the Bamboo Mountain Sect!
+路过而已¤Just passing by
+去风雷谷¤To Wind and Thunder Valley
+去风雷谷附近开辟洞府¤Open a cave inside Wind and Thunder Valley
+进入风雷谷¤Enter Wind and Thunder Valley
+去方壶山¤Go to Mt. Fang Hu
+去方壶山附近开辟洞府¤Open a cave inside Square Cauldron Mountain
+进入方壶山¤Enter Square Cauldron Mountain
+去正阳山¤To Mt. Rising Sun
+去正阳山附近开辟洞府¤Open an abode inside Mt. Rising Sun
+进入正阳山¤Enter Mt. Rising Sun
+观战¤Watch the battle
+参赛¤Participate
+上台参赛¤Go on stage to compete
+台下观战¤Arena Spectator
+未有耳闻¤I have not heard
+我听说过¤I've heard of it
+加入白帝楼？¤Join the White Emperor Pavilion ?
+徒儿已知晓¤Your Disciple already knows
+思绪是什么？¤What is Insight?
+师父请指教¤Please advise me, Master
+徒儿明白了¤Your Disciple understands
+修炼是什么？¤What is Cultivation?
+感悟是什么？¤What is Perception?
+领悟是什么？¤What is Comprehension?
+突破是什么？¤What's a Breakthrough?
+赶紧离开¤Hurry up and leave
+莫不是宁王给我指派任务了？¤Could it be that Ning King assigned me a task?
+悄悄跟上¤Follow quietly
+进屋查看¤Into the house to view
+软玉温香¤Nephrite Wenxiang
+管事来找我何事？¤What's the matter for the manager to come to me?
+金银财宝¤Gold and Silver Treasures
+打听其他供奉的下落¤Inquire about the whereabouts of other Guest Elders
+打道回府¤Take the road back to the house
+调查一番¤Check it out
+关于古城遗迹¤About the ancient city ruins
+留下传音符印记¤Leave a transmission talismen
+没有其它事了¤There is nothing else
+有些事想请教长老¤There is something I would like to ask you, Elder
+关于宁州古迹的机缘¤About the Chance of Ningzhou Monuments
+关于御剑门¤About Imperial Sword Sect
+拿走龙鳞¤Take the dragon scales
+准备好了¤Ready
+关于...丧命？¤About...death?
+关于...丹药与秘术？¤About...Pills and Secret Techniques?
+多谢师姐指点¤Thank you, sister, for your advice
+关于...九品金丹？¤About... the Ninth Grade Golden Core?
+为何只有筑基期的弟子参加？¤Why are only Foundation Establishment disciples participating?
+询问残剑的来由¤Inquiry about the origin of the broken sword
+关于剑灵沾染的魔气¤About the sword spirit tainted with demonic energy
+打听魔气充溢之地¤Inquire about the place where the demonic energy is overflowing
+继续往下听¤Keep on listening
+关于...名次？¤About... the ranking?
+关于结丹...¤About Golden Core...
+师姐可曾参加过猎魔试炼？¤Senior Sister ever participated in a demon hunting trial?
+再等等吧¤Wait a little longer
+静心调整自己的状态¤Meditate to prepare yourself
+看看其他人的比试¤Look at other people's tests
+切磋¤Learning from each other
+潜入¤infiltrate
+贿赂¤bribe
+直接出手¤Strike them directly
+尝试破阵¤Try to break the formation
+我想要开启一间炼器室¤I want to rent an Artifact room
+要¤want
+五维？¤Five dimensions?
+不要¤Don't
+还有吗？¤Are there any more?
+阴？阳？¤yin and yang?
+五行？¤The Five Elements?
+我没有你要的东西¤I don't have what you wafnt
+我很快就把草药带来¤I'll bring the herbs soon.
+关于七彩月兰¤About Rainbow Moon Orchid
+你收集这些草药做什么？¤What do you collect these herbs for?
+成交¤Deal
+都在这里了¤It's all here
+我这里恰好有这两种草药¤I happen to have these two herbs here
+你要的东西我带来了¤I brought what you wanted
+关于腐骨灵花¤About Earth Matriarch Petal
+转身出发¤Turn and go
+注意事项¤Cautions
+询问麟尊何在？¤Ask the Linzun where he is.
+为何找我¤Why looking for me
+交由我吧¤Leave it to me
+请问可有吩咐。¤May I ask if you have any orders?
+与谁交接¤Who to hand over to
+介意多带一个人出海么？¤Mind if you take one more person out to sea?
+有什么值得交易的东西？¤What's worth trading?
+你们似乎正准备出海？¤You seem to be preparing to go to sea?
+我并没有这些东西¤I don't have these things
+回绝¤Rejected
+无事发生¤Nothing happened
+交易¤Trading
+关于玉简¤About Jade Slips
+倪旭荣¤Ni Xurong
+倪振南¤Ni Zhennan
+关于书本¤About the Books
+长老¤Elder
+大家都很正常¤Everyone is normal
+暂时没有了¤temporarily unavailable
+关于信件¤About the letter
+还是再和倪兄讨论一下¤Let's discuss with Brother Ni again
+已经聊过了¤Already talked
+已经有了结论¤Already have a conclusion
+关于纸条¤About the note
+关于自由¤About freedom
+关于责任¤About responsibilities
+关于待遇¤About treatment
+愿为宁王效犬马之劳！¤I am willing to do the best for Ning King!
+打扰了，告辞！¤Excuse me, goodbye!
+去广陵城¤Go to Guangling City
+去九嶷山¤Go to Jiuyi Mountain
+搜索一番¤Search it
+不要乱动¤Don't mess around
+前往其他海域¤Travel to other seas
+关于百里武¤About Bailiwu
+关于世仇¤About World Feud
+我都了解了¤I understand everything
+一起回到蓬莎岛¤Let's go back to Pongsha Island
+关于百里祖宅中的阵法¤About the formation in the Baili ancestral home
+再想想¤Think Again
+还有印象¤There are still impressions
+关于魔门的线索¤Clues about the magic door
+关于御剑门之战的真相¤The truth about the battle of the Royal Sword Gate
+记不太清了¤Can't remember clearly
+已经完成了¤Already done
+还没有¤not yet
+放弃任务¤Abandon mission
+不提往事¤Do not bring up the past
+提起往事¤Mention Past Events
+奉白帝之命欲往天魔眼调查¤On the orders of the White Emperor to investigate at the Eye of Heavenly Demon
+葛小友¤Ge Xiaoyou
+葛道友¤Ge Daoyou
+奉师兄白帝之命欲往天魔眼调查¤I was ordered by brother White Emperor, to investigate at the Eye of Heavenly Demon
+墨居仁的下落¤The Whereabouts of Mo Juren
+前辈，告辞¤Farewell, seniors
+关于围墙¤About the Wall
+关于海兽¤About Sea Beasts
+我还要准备一下¤I still have to prepare
+开始讲法¤Start of Lecture
+掀开帷幔¤Open the curtain
+就此罢手¤Let's stop there
+查看床幔¤View the bed curtain
+查看桌子¤View table
+查看柜子¤View Cabinet
+冷漠回应¤Cold Response
+欣然接受¤Accept with pleasure
+寒暄一番¤Greetings
+关于砂晶¤About Sand Crystal
+打听天魔眼的消息¤Inquire about the news from the Eye of the Demon
+只是随便逛逛¤Just wander around
+请师兄指点¤Brother, please give pointers
+出示晶石¤Show the crystals
+仔细端详仙剑上的灵纹¤Carefully look at the spirit pattern on the Fairy sword
+验查灵力的流动¤Checking the flow of spiritual energy
+查看周围的布阵手法¤Check out the surrounding array techniques
+退出阵法¤Withdraw from the formation
+将它取出¤Take it out
+体会四周连绵不息的剑气¤Experiencing the endless sword energy all around
+不提也罢¤Don't mention it
+观察晶石¤Observe the spar
+转身离去¤Turn and leave
+速速离去¤Leave quickly
+感知灵气¤Sensing Aura
+不为所动¤Unmoved
+关于对手¤About the opponent
+略有所知¤Knowing a little
+关于生死¤About life and death
+都了解了¤Got it all
+关于报酬¤About Compensation
+关于门派关系¤About sect relations
+关于凝练元婴¤About Condensing the nascent soul
+关于化神强者¤About the Deity Transformation
+关于突破化神¤About Breakthrough to Deity Transformation
+购买洞府的条件¤Conditions for buying a cave
+去哪里购买洞府¤Where to buy the cave
+购买洞府的好处¤Benefits of a cave
+失败？¤Defeat?
+二姐？¤Second Older Sister?
+鼓励她坚持¤Encourage her to persevere
+劝她看开¤Advise her to look away
+关于你们？¤About you?
+今后的打算？¤Future plans?
+三妹？¤Third Sister?
+关于寄卖...¤About the consignment...
+查看拍品¤View Lot
+离开这里！¤Leave this place!
+再试一次¤Try again
+尝试触碰树干¤Try to touch the Tree
+还是不了¤Still can't
+点到为止，留对方面子¤Stay to the end and leave the other side face each other
+尽全力，这是对手的尊重¤Do your best, this is the respect of the opponent
+也好¤Also good
+直接前往南崖城¤Go straight to South Cliff City
+先去一趟蓬莎岛¤Go to Pongsha Island first
+前往南崖城¤Going to South Cliff City
+先去一趟碎星岛¤First go to Shattered Star Island
+关于魏无极的情况¤About Wei Wuji
+没事¤It's okay
+不是¤It is Not
+正有此意¤Right on my mind
+前来观战¤Come and watch the battle
+随便逛逛¤Casual strolling
+宗门¤Sect
+化神¤Deity Transformation
+婉言推脱¤Politely excusing myself
+关于英杰会¤About the Tournament
+关于林家¤About the Lin Family
+关于筑基丹¤About Foundation Pills
+天元石心¤Tian Yuan Stone Heart
+翠虹木蕴铁¤Cui Hong Mu Yin Iron
+枫玄玉髓¤Maple Xuan Jade Marrow
+朽木冥铁¤The rotten wood and iron
+多谢大长老夸奖¤Thank you for the compliment Grand Elder
+关于目标的踪迹¤Regarding the Targets trail
+带路吧¤Lead the way
+出示风雨楼令牌¤Show the Storm Manor token
+我要放弃这个悬赏¤I'm giving up this bounty
+发生了一些意外¤An accident occured
+拿钱办事罢了¤Just take the money and finish the job
+大长老找我何事？¤What does the Grand Elder want from me?
+只是在疗伤¤Just healing
+还在收集¤Still collecting
+我就自己随便看看吧¤I'll just take a look at it myself
+已经带来了¤Already brought
+我想放弃这个任务¤I want to give up this task
+有什么任务可以交给我么¤Is there any task you can give me?
+给我看看你们这里最好的东西¤Show me the best things in your place
+关于风雨楼秘术¤About Storm Manor Secret Technique
+关于琚运琦¤About Ju Yunqi
+没有其他问题了¤No further questions
+关于玄女¤Regarding the mysterious woman
+打听最近发生的事¤Ask about recent events
+打听购买洞府¤About buying a cave
+替我准备一间丹房¤Prepare an Pill room for me
+租借丹房（20灵石）¤Renting Pill room（20 spirit stones）
+参加拍卖会¤Attend the auction
+环顾四周¤look around
+关于青石灵脉¤About the Greenstone Spirit Vein
+兑换¤exchange
+在哪里获取灵核？¤Where to get Spirit Cores?
+关于天魔眼¤About the Heavenly Demon Eye
+我想租借一间炼器室¤I want to rent a smithing room
+我想租借一间丹房¤I want to rent an alchemy room
+关于灵舟¤Ask about the spirit boat
+四阶灵舟¤Tier 4 Spirit Boat
+购买¤buy
+关于海域¤About the sea
+三阶灵舟¤Tier 3 Spirit Boat
+再看看¤Look again
+二阶灵舟¤Tier 2 Spirit Boat
+购买灵舟¤Buy Spirit Boat
+询问事宜¤Inquiry
+安排出海¤Arrange to go to sea
+修理灵舟¤Repairing the spirit boat
+一阶灵舟¤Tier 1 Spirit Boat
+出手！¤Make a move!
+出手偷袭¤Sneak Strike
+不动声色¤Quietly
+赶紧避开¤Quickly avoid
+我再考虑一下别的。¤I'll think about something else.
+就选它了。¤This one.
+《魔焰决》¤《Demon Flame Technique》
+《化焰决》¤《Living Flame Mantra》
+《引火决》¤《Inflammation》
+关于火晶¤About Fire Crystal
+我是来捐赠灵石的¤I'm here to donate spirit stones
+关于执事堂任务¤About the Deacon Hall mission
+我已经在做了¤I'm already doing it
+我对这件事无能为力¤I can't do anything about this
+关于炼丹房任务¤About the Alchemy Room Task
+没什么事¤Nothing much is going on
+打听最近的宗门消息¤Inquire about the latest sect news
+然后呢？¤What happened then?
+这...之后发生了什么？¤This... What happened after that?
+所以你是想让我报复他一番？¤So you want me to get back at him a little?
+确实如此¤Indeed!
+以命相搏¤fight for one's life
+花钱消灾¤Pay them off
+乖乖离开¤Leave obediently
+我就选御灵盾了¤I'll choose the Royal Spirit Shield
+关于法宝...¤About magic...
+再了解一下别的¤Learn more about other
+关于功法...¤About the Technique...
+我就选养气丹了¤I'll choose the Lesser Qi Pill
+我就选《忘忧决》了¤I will choose《Wang You Jue》
+关于丹药...¤About the Pill...
+你想起什么了？¤What do you recall?
+这锈剑到底什么来头？¤What is the origin of this rusty sword?
+只有海域名怎么找？¤How to find the name of the seas?
+师兄这么有孝心，老头你应该高兴才是¤You should be happy that Senior Brother has such a filial heart, old man
+白帝是否在此处，我有要事相告¤Is the White Emperor here? I have something important to tell him.
+信息太少了¤Information is too little
+真是麻烦，但谁叫我任劳任怨呢¤Truly Annoying, but I'm the one who has to do the work
+师兄只说了这些么？¤Is that all Senior Brother have to say?
+此事本该由我承担¤This should have been my responsibility
+不知倪兄找我有何要事？¤I wonder what Brother Ni want to see me about
+师兄已是化神修为，不需要担心¤Senior Brother is already Deity Transformation cultivator, no need to worry
+白帝前辈是否在此处，我有要事汇报¤Is Elder White Emperor here? I have something important to report
+关于挑选秘籍的推荐...¤Recommendations on selecting the Secret Art...
+关于沧元丹¤About Frost Qi Pill
+暂时没有什么问题了¤There is no problem for the time being
+关于传功长老...¤About Elder Chuan Gong...
+关于藏经阁的注意事项...¤Notes on the Tibetan Scripture Pavilion...
+接取悬赏¤Recieving Bounty
+成为龙族供奉¤Became a Dragon Clan Guest Elder
+没有其他事了¤There is nothing else
+邀请飞升观礼¤Invitation to Ascension Viewing
+归还九龙玺¤Return the Nine Dragon Seal
+归还万鳞甲¤Return the Ten Thousand Scales Armor
+归还龙鳞¤Return the dragon scales
+再考虑一下¤Reconsider
+告知其东海的见闻¤Tell them about the East China Sea
+我就是为此而来¤That's what I'm here for
+真是无趣，但也不无道理¤It's boring, but it's not unreasonable
+那就给白鹿前辈几分面子吧¤Then give some face to the white deer seniors
+那就给白鹿真人几分面子吧¤Then let's give some face to the real White Deer
+倒也没必要旁生枝节¤There is no need to create a side issue
+神兽血脉调查...¤The investigation of the divine beast bloodline...
+魔神蛊实验结果...¤Devil God compulsion experiment results...
+没有其它想看的了¤There is nothing else I want to see
+鲲族之吞噬秘法...¤The secret method of devouring the Kun clan...
+除掉它¤Get rid of it
+理解他¤Understand him
+以防有诈 闪身避开¤In case of fraud, dodge and avoid
+不想和魔修扯上关系¤I don't want to get involved with evil cultivator
+接住符剑 一探究竟¤Catch Fu Jian and find out.
+定要拔除祸端¤We must get rid of the evil
+听说过¤Heard of
+关于奖励¤About rewards
+打听宁王府¤Inquiring about the House of Ning
+关于天下仙道会¤About the World Fairy Dao Association
+打听逸风府¤Inquire about Yifeng Mansion
+采摘草药¤Picking Herbs
+断然拒绝¤Frankly refused
+不曾¤Never
+说服他放弃¤Persuade him to give up
+鼓励他挑战¤Encourage him to challenge
+鼓励他¤encourage him
+询问来蓬莎岛的原因¤Inquiry about the reason for coming to Pongsha Island
+欣然答应¤Happily agreed
+我还有些别的事¤I have some other things to do.
+说服他¤Convince him
+询问为何来到码头¤Ask why you came to the pier
+回到涵虚主阵法¤Back to Hanxu's main formation
+关于灵核¤About Spirit Cores
+关于采集¤About Gathering
+关于伤口¤About the wound
+关于除妖¤About monster hunting
+关于未知野兽¤About the Unknown Beast
+通过以{$wudaoname1}的领悟，通过此地异象。¤Through the comprehension of {$wudaoname1}, through the scene of this place
+凭借遁速强闯而过。¤Relying on the speed of escape.
+通过以{$wudaoname2}的领悟，通过此地异象。¤Through the realization of {$wudaoname2}, through the vision of this place.
+原路返回¤Back to the same way
+御起{$Var1}，通过此地异象。¤Goge up {$Var1}, through the vision of this place.
+请教功法¤inquire about techniques
+拿到了¤Take it
+只是玩笑¤Just kidding
+我是认真的¤I am serious
+关于宗门的功法流派¤About the clan's cultivation techniques
+请教入门神通¤Ask for an introductory magic
+多谢长老¤Thank you elder
+继续¤carry on
+撤离¤Evacuation
+从论道感悟说起¤From the theory of insight
+关于飞升的准备¤About the preparation for ascension
+关于化神的经验¤Experience about Deity Transformation
+关于其它海域的传闻¤Rumors about other seas
+从自身经历说起¤From my own experience
+从功法传承说起¤Starting from the Technique legacy
+没什么想问的了¤Nothing to ask
+关于幻雾境¤About Phantom Mist Realm
+后退¤Fallback
+上前¤Advance foward
+盐、孜然、糖¤Salt, Cumin, Sugar
+盐、孜然、辣椒¤Salt, Cumin, Chili
+再撒点盐¤Sprinkle some more salt
+炼丹炉¤Alchemy Furnace
+刷一点蜂蜜¤Brush a little honey
+盐、孜然¤Salt, Cumin
+离火苗远一点¤Stay away from the flames
+盐、孜然、辣椒、糖¤Salt, Cumin, Chili, Sugar
+离火苗适中的位置¤A good location away from the flames
+灵气火焰¤Aura Flame
+篝火¤bonfire
+离火苗近一点¤Stay close to the fire
+直接烤就行吧¤Just roast it
+生死有命¤Life and death are fate
+漠不关心¤indifferent
+上前询问¤Go ahead and ask
+放弃突破¤Give up the breakthrough
+查看规则¤Check the rules
+直接突破¤Direct Breakthrough
+询问情报玉简¤Inquiry about jade slips for information
+迅速离开¤Get away quickly
+攻其不备¤Catch them off guard
+趁乱离开¤Leave in chaos
+再看一阵¤Look for a while
+我还有其他事要处理一下¤I have other things to deal with
+凝神查探¤Focus on Investigation
+多一事不如少一事¤The less trouble, the better
+神游太虚¤Immortals Journey to the Void
+随便看看¤Take a look
+我全都要¤I want it all
+我自己随便看看吧¤Let's take a look at it myself
+买下玉云功¤Buy Jade Cloud Gongfa
+买下凌云诀¤Buy the Ling Yun Skill
+能不能推荐一些入门秘籍？¤Can you recommend some tips for getting started?
+听雨阁¤Rain Listening Pavilion
+倒是免除了我心头顾虑。¤It relieves my worries.
+关于纸签¤About Paper Signs
+这要看他给的价位了¤It depends on the price he pays
+公孙府岔路¤Gongsun Mansion Fork Road
+修炼的必需品¤Necessities for Cultivation
+简直是丧心病狂¤It's crazy
+身外之物¤Things outside the body
+这......我当听听他的想法。¤This...I should listen to his thoughts.
+关于公孙府¤About Gongsun Mansion
+到底是什么宝贝？¤What exactly is the treasure?
+交换传音符¤Exchanging Sound talismans
+有什么事儿要交给我么？¤Is there anything you want to leave to me?
+请教禾山法门¤Ask Heshan Method
+没什么事儿¤Nothing
+拿一颗尝尝¤Take one to try
+法器¤Magic Tool
+灵石¤Spirit Stone
+丹药¤Pills
+那沂山双鬼现在何处？¤Where are the Yishan Twin Ghosts now?
+这不会有危险吧？¤This is not dangerous, is it?
+五柳根？¤Petrificious Root?
+事情已经办妥了¤The thing is done
+正在办呢¤It's doing it
+关于“那件东西”...¤About that thing...
+坚守道心¤Stick to the Dao Heart
+偶尔放纵¤Occasional indulgence
+返回灵脉¤Return to Spiritual Veins
+缴纳灵石¤Contribute Spirit Stone
+缴纳灵核¤Contribute Spirit Core
+你是天魔道的人？¤You're from the Heavenly Demon Path?
+小心！¤Careful!
+你是血剑宫的人？¤You're from the Blood Sword Palace?
+放狠话¤Give me your words
+你是古神教的人？¤You are from the Ancient Gods School?
+检查药田¤Inspection of medicine fields
+潜入洞府¤Infiltrating the cave
+下去看看¤Go down and see
+沂山派拦路截道¤Yishan sect blocked the road to intercept the road
+我已经知道了¤I already know
+禾山派的邪术¤The evil arts of the Heshan School
+询问附近村民¤Ask the nearby villagers
+附近有妖兽伤人¤There are monsters nearby hurting people
+勘察周围环境¤Surveying the surrounding environment
+检测术法痕迹¤Detecting traces of magic
+普通山贼截杀¤Interception by common mountain bandits
+交易天材地宝¤Trading of heavenly materials and treasures
+担任外务长老一职¤Assume the position of Elder of Foreign Affairs
+我还在处理¤I'm still working on it.
+关于意志¤About the Will
+关于经脉¤About meridians
+关于外务长老任务¤About the foreign affairs elders mission
+担任授业长老一职¤Assume the position of teaching elder
+卸去外务长老一职¤Stepping down from the position of Foreign Affairs Elder
+关于宁州古迹内的机缘¤About the chance within the Ningzhou monument
+担任炼器长老一职¤Assume the position of artifact making elder
+宗门的诸位长老会一同前往么？¤Will the elders of the sect go together?
+关于其他宗门任务¤About other clan tasks
+关于炼器长老任务¤About the refining elder task
+卸去炼丹长老一职¤Stepping down from the position of Alchemy Elder
+关于炼丹长老任务¤About the alchemy elder task
+关于结婴¤About Nascent Soul
+担任炼丹长老一职¤Assume the position of Alchemy Elder
+卸去炼器长老一职¤Stepping down from the position of refining elder
+要如何才能进入宁州古迹？¤What does it take to get into the Ningzhou monuments?
+变更宗门职位¤Change of clan position
+关于丹药¤About Pills
+关于秘术¤About Secret Techniques
+关于宗门任务¤About the sect mission
+关于宁州古迹¤About Ningzhou ruins
+卸去授业长老一职¤Stepping down as an instructor elder
+关于授业长老任务¤About the task of the instructor elders
+还没准备好¤not ready yet
+大哥和二哥现在何处？¤Where are Big Brother and Second Brother now?
+交给我了¤Leave it to me
+有什么事要交给我去办么？¤Is there anything you want to do?
+已经在办了¤Already in progress
+请教沂山法门¤Ask Yishan Famen
+已经办妥了¤It's done
+坐在大殿上的那人是谁？¤Who is the man sitting in the hall?
+火铜精？¤Fire copper spirit?
+到底是件什么宝贝？¤What kind of treasure is it?
+这些妖丹要怎么处理？¤How to deal with these demon cores?
+关于玄古门¤About Profound Ancient Sect
+婉拒¤Politely decline
+初探古月寨¤A first look at Ancient Moon Cave
+上交木系灵物¤Hand over Wood Spirit Object
+归还法宝¤Return Magic Treasures
+提交六品妖丹¤Submit a Sixth Grade Demon Core
+关于豹麟兽¤About the Leopard Lin beast
+询问那位前辈¤Ask the seniors
+提交五品妖丹¤Submit a fifth grade demon core
+提交梧桐木¤Submit Parasol Wood
+混元果¤Chaosborn Fruit
+五品土系矿石¤Fifth grade earth ore
+我想再看看别的¤I want to see others
+五品木系金属¤Five-grade wood metal
+狼桃¤Lupus Peach
+厉魂血珀¤Ravenous Soul Amber
+炙火蝎¤Scorching Fire Scorpion
+询问矿石¤Ask for Ore
+阳宵铁¤Yang Night Iron
+鬼面花¤Hellfacade Flower
+万载火玉¤Flaming Jade
+我想了解其他消息¤I want to know other news
+万载奕剑金¤Wan Zai Yi Jian Jin
+5品其他金属¤5 grades of other metals
+关于妖兽巢穴¤About Spirit Beast Lair
+万载地灵铁¤Earth Spirit Iron
+六品火系矿石¤Six-Rank Fire Ore
+凤血果¤Phoenix Bloodberry
+五品混元系矿石¤Fifth grade mixed element ore
+再看看别的¤Look at others
+六品金系矿石¤Grade 6 metal binding Ore
+5品五行金属¤Grade 5 Five Elements Metal
+五品神识系矿石¤Grade 5 Soul Sense binding Ore
+雪玉骨参¤Frostbone Ginseng
+芒焰果¤Flamesoul Mango
+地心火芝¤Moltenheart Shroom
+白沉脂、凤血果、月灵花、血玉竹、太清玄灵草¤Eternal Sap, Phoenix Bloodberry, Moonspirit Blossom, Blood Jade Bamboo, Astral Soul Herb
+五品金系矿石¤Grade 5 Metal Ores
+赤火元铜¤Red Fire Yuan Copper
+万载引灵玉¤All-embracing Spiritual Jade
+阳金铁心¤Gold Yang Iron Heart
+五品火系矿石¤Rank Five Fire Ore
+万载坤金¤Wan Zai Kun Jin
+我想打探其他四品药材的消息¤I want to find out about the other four herbs
+浩淼水藤¤Deep Aqurius Kelp
+绝魂草¤Fellsoul Lily
+我想打探其他金丹期妖兽的情报¤I want to inquire about information of other Golden Core stage monsters
+五品土系金属¤Grade 5 earth metal
+血莲精¤Blood Lotus Essence
+太乙碧莹花¤Flower of Primordial Chaos
+墨蛟¤Black Drake
+血玉竹¤Blood Jade Bamboo
+万载炼心铁¤Wanzai Heart Refining Iron
+鐾金灵花¤Jeweled Palace Lily
+无垠灵参、道蕴花、问道花、太玄问心果、炼髓藤¤Sovereign Earth Ginseng, Dao Touched Flower, Dao Seeker Flower, Fruit of the True Heart, Vine of Rebirth
+万载御灵铁¤Banzai Royal Spirit Iron
+万载寒玉¤Wanzai Hanyu
+万载炎晶¤Banzai Yan Crystal
+五品五行矿石¤Grade Five Five Element Ore
+六品木系矿石¤Six-Rank Wood Series Ore
+腐骨灵花¤Earth Matriarch Petal
+龙皇果、鐾金灵花、森檀木、浩淼水藤、芒焰果¤Sovereign Drakefruit, Jeweled Palace Lily, Emperor Sandalwood, Deep Aqurius Kelp, Flamesoul Mango
+五品混元系金属¤grade five mixed element metal
+冰精芝¤Frostcore Shroom
+天蝉灵叶¤Skyscada Leaf
+万载寒铁¤Wan Zai Han Tie
+冥蛛¤Dark Spider
+六品土系矿石¤grade six earth ores
+渊血冥花¤Abyssal Bloodbloom
+道蕴花¤Dao Touched Flower
+万载锻剑铁¤Wan Zai Forged Sword Iron
+五品水系矿石¤Grade Five Water Element Ore
+万载凝神玉¤All-seasons Spirit Condensing Jade
+五品神识系金属¤Grade five Soul Sense binding Metal
+太素清灵芝¤Pure Astra Shroom
+火灵芝¤Flamecore Shroom
+黑天麻¤Umbral Sky Seed
+灵鑫石¤Lingxin Stone
+询问金属¤Inquiry about metal
+换血草、碧莹花、黄泉花、天问花、清灵芝¤Flower of Undeath, Flower of Primordial Chaos, Flower of Samsara, Heavenly Question FLower, Pure Astra Shroom
+枫楠石¤Maple Nanstone
+天剑笋¤Skysword Shoot
+陨母¤The Meteorite
+旋龟¤Whirling Turtle
+我想打探五品金属的消息¤I want to find out about the grade five metal
+阴凝草¤Netherborn Grass
+万载焰铁¤Wanzai Flame Iron
+苦曼藤¤Bitterwood Vine
+火蟾¤Fire Toad
+鬼槐钢¤Ghost locust steel
+六品水系矿石¤Grade six Water element Ore
+万载幻淼铜¤Wanzai Phantom River Copper
+太玄问心果¤Fruit of the True Heart
+关于矿藏丰富的洞天福地¤About the rich mineral reserves
+万载念铜¤Wan Zai Nian Bronze
+六品五行矿石¤Six Grade Five Elements Ore
+枫灵柔铁¤Maple Spirit Soft Iron
+五品火系金属¤Grade 5 Fire Metal
+三尾风叶¤Windsoul Leaf
+冰灵焰草¤Frostblaze Grass
+万载引灵金¤Banzai Spiritual Gold
+白沉脂¤Eternal Sap
+三叶青芝¤Trileaf Azure Shroom
+我没有想要调查的¤I have nothing to investigate
+五品木系矿石¤Grade Five Wood Ore
+银精芝¤Silvergleam Shroom
+五品水系金属¤Grade five Water Metal
+无垠灵参¤Sovereign Earth Ginseng
+鸡冠草¤Roostercomb Stalk
+五品其他矿石¤Other ores of Grade Five
+五品剑系矿石¤Grade Five Sword Ore
+黑天麻、狼桃、阴凝草、鬼面花、天剑笋¤Umbral Sky Seed, Lupus Peach, Netherborn Grass, Hellfacade Petal, Skysword Shoot
+地龙兽¤Earth Dragon Beast
+天玄马¤Skygloom Horse
+我是来打探元婴妖兽消息的¤I'm here to ask for information about the Nascent Soul Spirit Beast
+阴阳黄泉花¤Flower of Samsara
+五品剑系金属¤Grade Five Sword Metal
+月灵花¤Moonspirit Blossom
+蓬莎巨蟹¤Pongsha Crab
+我想打探五品石材的消息¤I want to find out about Grade Five Stone
+苦曼藤、冰精芝、火灵芝、地龙干、混元果¤Bitterwood Vine, Frostcore Shroom, Flamecore Shroom, Earth Dragon Bark, Chaosborn Fruit
+我想打探五品药材的消息¤I want to find out about the Grade 5 medicinal materials
+金鹏¤Golden Roc
+七彩月兰、三尾风叶、冰灵焰草、厉魂血珀、渊血冥花¤Rainbow Moon Orchid, Windsoul Leaf, Frostblaze Grass, Ravenous Soul Amber, and Abyssal Bloodbloom
+五品金系金属¤Grade 5 Metal Element Metals
+太清玄灵草¤Astral Soul Herb
+龙皇果¤Sovereign Drakefruit
+森檀木¤Emperor Sandalwood
+我想委托你们调查情报¤I want to entrust you to investigate the information
+血莲精、鸡冠草、银精芝、玉髓芝、绝魂草¤Blood Lotus Essence, Roostercomb Stalk, Silvergleam Shroom, Jadecore Shroom, Fellsoul Lily
+金尘玉¤Gold Dust Jade
+我想打探五行金丹期妖兽的情报¤I want to find out information about the Five Elements Golden Core stage Spirit Beasts
+我是来打探化神妖兽消息的¤I want to find out information about the Spirit Beast of the Deity Transformation stage
+七彩月兰¤Rainbow Moon Orchid
+地龙干¤Earth Dragon Bark
+重元换血草¤Flower of Undeath
+六品其他矿石¤Grade 6 Other Ores
+藤蛇¤Vine Snake
+玉髓芝¤Jadecore Shroom
+裂地蜥龙¤Rift Lizard
+六星石¤Six Star Stone
+问道花¤Dao Seeker Flower
+关于药草丰富的洞天福地¤About the rich land of herbs
+地心火芝、天蝉灵叶、雪玉骨参、腐骨灵花、三叶青芝¤Moltenheart Shroom, Skyscada Leaf, Frostbone Ginseng, Earth Matriarch Petal, Trileaf Azure Shroom
+万载剑玉髓¤Wan Zai Jian Chalcedony
+万载岩玉髓¤Wanzai Rock Chalcedony
+万载玄冰晶¤Wanzai Xuanbing Crystal
+炼髓藤¤Vine of Rebirth
+枫玄玉¤Maple Xuanyu
+噬金甲¤Golden Armor
+万载问剑石¤Wanzai Asking the Sword Stone
+万载冰心石¤Wanzai Ice Heart Stone
+天问花¤Heavenly Question Flower
+暗中跟上¤Follow in the dark
+继续坚持¤Keep going
+离开幻雾阵¤Leave the Mirage Mist Array
+再喂她一颗¤Feed her another one
+看来没有合适的丹药¤It seems there is no suitable Pill
+天命炼心丹¤Divine Heart Pill
+三阳锻魄丹¤Three Yang Forging Pill
+厉魄丹¤Leprechaun Pill
+再喂一颗少阴清灵丹¤Feed one more Azure Heart Pill
+少阴清灵丹¤Shao Yin Cleansing Pill
+饶他一命¤Spare his life
+应当以木灵三针花为主药¤The wood spirit three needle flower should be the main ingredient
+的确值得一试¤At the very least it's worth a try
+或许还有一种可能¤Perhaps there is another possibility
+应当以妖丹为主药¤The Demon Core should be the main ingredient
+拾起玉简¤Pick up the jade slip
+留他一命¤Leave him his Life
+毫不留情¤Show no Quarter
+关于金虹剑派¤About Radiant Sword Sect
+关于星河剑派¤About the Celestial River Sect
+关于离火门¤About Heavenly Fire Gate
+关于化尘教¤About the Shifting Sands School
+关于竹山宗¤About Bamboo Mountain Sect
+看看有什么值得买的¤See what's worth buying
+有没有这附近海域的海图？¤Are there any charts of the seas around here?
+为什么不卖给商会？¤Why not sell it to the Merchant Guild?
+交谈¤chat
+我需要准备一下¤I need to prepare
+为何不告知白帝楼？¤Why didn't you tell the White Emperor Pavilion?
+检查阵法¤Check the formation
+检查尸体¤Examine the body
+还有我们呢¤And us too
+你今天必须死¤You must die today
+包在我身上¤I'll take care of it.
+受死吧！¤Recieve death!
+放他走¤Let him go
+杀了他¤kill him
+用不着两败俱伤¤There is no need to lose both
+那就要看看你能拿出什么了¤That depends on what you can come up with
+我一定尽力而为¤I will do my best
+如你所愿¤As you wish
+我来拖住天魔¤I come to hinder the Heavenly Demon
+找到了¤Found it
+询问进度¤Ask about progress
+我自己看看就好¤I'll just have a look for myself
+询问¤Inquire
+炼丹手法¤Alchemy techniques
+购买丹药¤Purchase Pills
+此法确实有些惊世骇俗。¤This method is somewhat objectionable
+炼丹手法哪有正邪之分？¤How can there be a difference between good and evil in alchemy?
+衡州？¤Hengzhou?
+寒暄几句¤A few pleasantries
+询问状况¤Ask for status
+四处张望¤Look around
+专心炼器¤Concentrate on smithing
+出言指点¤give a word of advice
+说说这里最好的功法？¤Tell me about the best Techniques here?
+你怎么知道我刚修仙不久？¤How do you know that I have just started cultivating
+除掉此人¤Eliminate these People
+什么宝物？¤What Treasure?
+改变主意¤Change your mind
+岛主为何自己不使用秘术复生？¤Why doesnt The Island Lord use the secret resurrection technique on himself?
+岛主有何隐瞒？¤What secrets Does the Island Lord Have?
+如何探查？¤Probe in what way?
+好处？¤Benefits?
+岛主的目的？¤Purpose of the Island Lord?
+岛主为何要将秘术公诸于众？¤Why does the Island Lord want to make the secret techniques known to the public
+不接受¤Do not accept
+不太了解¤Don't know much
+神识查探¤Investigate with Soul Sense
+打听¤ask around
+截杀¤intercept and kill
+上前搭话¤Go ahead and talk
+上前交谈¤Go ahead and talk
+论道¤The Way
+早有耳闻¤I heard it early
+告知{$zhangmen}¤Inform {$zhangmen}
+决定成为炼器长老¤Decided to become a weapon making elder
+决定成为挂名长老¤Decided to become a honorary elder
+我再了解下别的¤I'll get to know the others
+多谢{$zhangmen}¤Thanks {$zhangmen}
+关于炼器长老¤Aboutthe weapon refining Elder
+关于洞府的选址¤About the location of the cave
+关于阵旗¤About the Banner
+决定成为炼丹长老¤Decided to become an alchemist elder
+关于炼丹长老¤About the Alchemy Elder
+决定成为授业长老¤Decided to become an instructor elder
+关于挂名长老¤About the Honorary Elders
+关于外务长老¤About the Foreign Affairs Elder
+决定成为外务长老¤Decided to become an Elder of Foreign Affairs
+关于授业长老¤About Guiding Elders
+重浪针¤Tidal Wave Needles
+青玉符剑¤Sapphire Rune Sword
+水灵剑¤Water Spirit Sword
+关于长老会的事¤About the Venerable Master Association
+关于特殊悬赏的事¤Regarding the special bounty
+诡异的气息？¤Weird Qi fluctuation?
+我在哪里可以找到他？¤Where can I find him?
+出示白帝令¤Show the Order of the White Emperor
+诡异的行径？¤Weird behavior?
+这次真的是最后一次帮师兄了¤This is really the last time I help Senior Brother
+那我再跑一趟吧...¤Then I'll make another trip...
+那我便跑一趟吧¤Then I will take a trip.
+我还有要事 师兄请别人来帮忙吧¤I have something to do. Brother, please ask someone else to help.
+师兄可曾参加过猎魔试炼？¤Senior brother has ever participated in a demon hunting trial?
+多谢师兄指点¤Thank you brother for your advice
+如何才能进入宁州古迹¤How to enter the Ningzhou ruins
+关于玄微剑仙¤About Xuanwei Sword Fairy
+关于宁州古迹开启的时间¤About the opening time of Ningzhou monuments
+关于戮仙剑¤About Immortal Executing Sword
+关于宁州古迹的机遇¤About the opportunities of the Ningzhou monuments
+怎么又是你？¤It's you again?
+江湖骗子，不必理睬。¤The liar, don't pay attention.
+可我没有那么多灵石¤But I don't have so many spirit stones
+好吧，那就烦请老道帮我看一相吧。¤Well, then please ask the old man to help me take a look.
+姑且再信你一次¤I'll trust you once more
+想都别想¤Don't even think about it
+递给他蓝色的丹药瓶¤Hand him the blue Pill bottle
+递给他绿色的丹药瓶¤Hand him the green Pill bottle
+递给他黑色的丹药瓶¤Hand him the black Pill bottle
+递给他橙色的丹药瓶¤Hand him the orange Pill bottle
+递给他紫色的丹药瓶¤Hand him the purple Pill bottle
+山脚的村庄¤Village at the Foot of the Mountain
+西面的山峰¤Western peaks
+东面的河边¤East by the river
+没有¤No
+讨要丹方¤Ask for a recipe
+有¤Have
+翻找一番¤Search
+灵力试探¤Probe with Soul Sense
+伸手抓住¤Reach out and grab
+暂行离开¤Temporary departure
+强行追去¤Forced to chase
+拿出赤火元铜精¤Take out the Red Fire Yuan Copper Essence
+天魔眼之事？¤The matter of the Heavenly Demon Eye?
+此次切磋？¤This cut?
+心魔的影响？¤The influence of the heart demons?
+多加练习¤More practice
+心魔？¤Heart Demon?
+借助丹药¤With the help of Pills
+念头通达¤Mindfulness
+原来如此¤so that's how it is
+关于妖圣¤About the Demon Saint
+关于龙族¤About the Dragon Race
+没有其它想问的了¤There is nothing else I want to ask
+伸手触碰¤Reach out to touch
+展示法术¤Demonstrate Abilities
+答应帮忙¤Promise to help
+拒绝帮忙¤Refuse to help
+抢走草药¤Snatch the Herbs
+我一定全力以赴¤I will go all out
+我可不会白白出手¤I won't do it for nothing
+我正是为此而来¤I am here for this
+直言相护¤Speak up and protect each other
+与我无关¤not my business
+离火门或是玄道宗有奸细¤There is a spy in Heavenly Fire Gate Or Hidden Dao Sect
+天魔道在关注天魔眼¤The path of the heavenly demon is about the heavenly demon eye
+关于残破的玉简¤About Broken Jade Slips
+虚名而已，没必要让其他人知道¤It's just a false name, no need to let others know
+不错，恰可扬我海上威名¤It's good, it's a good way to make my name on the sea
+大赛的规则？¤Rules of the great competition?
+大赛的门槛？¤Entrance to the Great Competition?
+大赛的奖励？¤Rewards of the Great Competition?
+我想观战¤I want to battle
+大赛的赛制？¤Format of the Great Competition?
+大赛是什么？¤What is the Great Competition
+都知道了¤I understand
+我想参赛¤I want to Compete
+关于天机大比¤About the Tianji Grand Tournament
+没有问题¤No questions
+你在做什么？¤What are you doing?
+玄古门的人呢？¤Where are the people of Profound Ancient Sect?
+婉言推辞¤Politely Decline
+一口答应¤A promise
+将他身上所有的东西都取走¤Take everything from him
+只拿走储物袋中的东西¤Just take away the things in the storage bag
+散修乱刃¤inde. Cultivators
+化神后期¤Late Stage Deity Transformation
+五行木¤Five elements: Wood
+水剑¤Water Sword
+筑基后期¤Late Stage of Foundation
+蓬莎岛滞气¤Pongsha Island Obstructed Qi
+木剑¤Wooden Sword
+金丹后期¤Late Golden Core
+五行金¤Five Elements: Metal
+化神初期¤Initial Stage Deity Transformation
+其它¤other
+化尘¤Transforming dust
+蓄势¤Gathered Force
+海上¤on the sea
+白帝楼剑阵¤White Emperor Pavillion Sword Formation
+自愈¤Heal Yourself
+禾山¤Harvest Hill
+练气后期¤Late Qi Refining Stage
+元婴后期¤Late Nascent Soul
+弃牌¤Discard
+竹山¤Bamboo Mountain
+星河¤Celestial River
+筑基初期¤Initial Stage of Foundation
+筑基中期¤Mid Stage of Foundation
+金丹期¤Golden Core Stage
+元婴期¤Nascent Soul Stage
+白帝楼阴阳¤White Emperor Pavillion Yin and Yang
+宁州¤Ningzhou
+筑基期¤Foundation Stage
+沂山¤Yishan
+离火¤Ion Fire
+神剑¤Excalibur
+散修剑罡¤Inde. Cultivator's sword Deities
+元婴中期¤Middle Nascent Soul
+散修崩岩¤Inde. Cultivator Rockfall
+五行土¤Five Elements: Earth
+冰霜¤Frost
+金丹中期¤Mid-Jindan
+碎星岛爪¤Broken Star Island Claw
+练气中期¤Qi Refining Middle Stage
+烈火掌¤Fiery Palm
+宁州散修¤Ningzhou Inde. Cultivator
+引力¤Gravity
+倪家¤Ni family
+五行水¤Five Elements: Water
+金丹初期¤Initial Golden Core Stage
+土阵（未配置）¤Earth formation (not configured)
+散修暗劲¤Inde. Cultivator Dark Power
+元婴初期¤Early Nascent Soul stage
+化焰¤Living Flame
+练气初期¤Initial Qi Refining Stage
+化神期¤Deity Transformation
+屯牌（未配置）¤Tun sign (not configured)
+蓬莎岛烈焰¤Pongsha Island Blaze
+碎星岛神¤Shattered Star Island God
+灼烧¤Burn
+百里¤Baili
+百里奇¤Baili Qi
+金鸿¤Jinhong
+中毒¤Poisoned
+散修五行¤Inde. Cultivator five elements 
+魔修¤Evil cultivator
+五行火¤Five Elements: Fire
+散修火毒¤Inde. Cultivator Fire Poison
+星宫¤Star Palace
+碎星岛针¤Broken Star Island Needle
+林家¤Lin family
+公孙¤Gongsun
+缠绕¤Entangled
+化神中期¤Mid Stage of Deity Transformation
+练气期¤Qi Refining Stage
+蓬莎岛流血¤Pongsha Island bleeding
+保命要紧¤It's important to save your life.
+关于栖云长老¤About Elder Qiyun
+关于联姻¤About the association
+告辞¤Farewell
+不过是路过而已¤Just passing by
+继续偷听¤Keep on eavesdropping
+撤退¤retreat
+尝试溜走¤Try to slip away
+主动出击¤Take the initiative
+是（跳过引导）¤Yes (skip the guide)
+先等一下¤Wait a moment
+开始¤Start
+那是风吹的¤That's the wind blowing
+关于白露的身世¤About the life of Shirou
+或许我可以试试¤Maybe I can try.
+回忆魏无极教你的方法¤Recall the method Wei Wuji taught you
+提起孩子的资质¤Speaking of children's qualifications
+没兴趣¤Not interested
+汇聚周天灵气¤Gathering the spiritual energy of the circumference
+测试他的灵根¤Test his spiritual roots
+转移话题¤Change the subject
+背诵吐纳心法口诀¤Memorize the recitation of the heart spitting technique
+特殊情况¤Special Circumstances
+拿出炼心芝¤Take out Heartrend Shroom
+逃离此地¤Escape from here
+不前往¤Don't go
+请问有什么可以效劳的？¤What can I do for you?
+我还不足以完成此项任务¤I am not good enough for this task
+前往底层¤Go to the bottom
+可是底层剑阵？我的阵道修为可以一试。¤But the bottom sword formation? I can give it a try with my formation way.
+想要购买一些炼器材料¤I want to buy some refining materials
+我来吧。¤Let me do it.
+关于九霄雷狱所在？¤About Eternal judgement prison's location?
+求饶¤beg for mercy
+逃跑¤Escape
+拼死一搏¤Fight to the death
+《冰霜诀》¤《The Frost Technique》
+《问水剑典》¤《Wen Shui Sword Classic》
+关于寒玉¤About Cold Jade
+请师姐指点¤Sister, please give pointers
+《浪击诀》¤《Wave Strike Technique》
+坐下饮茶¤Sit down and drink tea
+不参加¤Don't participate
+关于英杰会的奖励...¤About the rewards...
+观看其他人的比试¤Watch the others compete
+交口称赞¤praise profusely
+出手试探¤Take a test shot
+先行通告¤Advance notice
+你来这里做什么？¤What are you doing here?
+怎么会被剑灵围攻的？¤How did you get besieged by the sword spirits?
+调查储物袋¤Investigate the storage bag
+等候时机¤Waiting for the right time
+伺机而动¤Waiting for an opportunity
+我相信邢兴星不会做这样的事！¤I believe Xing Xingxing will not do such a thing!
+出言相劝¤Speak to persuade each other
+扭头就走¤Turn around and leave
+趁机溜走¤Take advantage of the opportunity to slip away
+调查死因¤Investigate the cause of death
+尽快离开此地¤Leave here as soon as possible
+你真的拿了他的储物袋？¤Did you really take his storage bag?
+奇怪的石头¤Strange Stone
+琥珀¤Amber
+引雷柱¤draw the lightning pillar
+我想交换其它海域的情报¤I want to exchange information about other seas
+黑色鳞片¤The black scales
+透明水晶¤Transparent Crystal
+残缺玉简¤Fragmentary Jade
+残缺石碑¤Broken Stone Tablet
+换取情报¤Exchange for information
+刻字坚壳¤Inscribed Shell
+换取灵石¤In exchange for spirit stones
+神秘碎壳¤Mysterious broken shell
+红色晶石¤Red Crystal
+定海碑¤fix the sea tablet
+三星石刻板¤Three stars on a stone tablet
+先行退去¤Retreat first
+不进¤Don't enter
+直接上前¤Go straight forward
+执意进去¤Insistently go in
+暴力驱赶¤Violent repulsion
+已然惩治¤Tell about how you punished them
+如实相告¤Tell The Truth
+有些枯燥¤It's a little boring.
+一切都好¤Everything is fine
+礼貌询问¤Ask politely
+抿一口¤Take a sip
+这样的组织，本就该藏匿于地下¤An organization such as this would have went underground long ago.
+这...我当听听他的想法¤Well... I'll listen and see what he thinks.
+如何成为天字杀手？¤How does one become a Heaven Ranked assassin?
+我对这些景色没什么兴趣¤These sceneries don't really interest me.
+闻香¤Have a smell
+倒是免除了心头忧虑¤It relieved me of my worries
+所谓正派，也是各有私心罢了¤Even the so called Righteous sects, can be self-righteous.
+观色¤Observe the Atmosphere
+确实美不胜收¤It is quite beautiful
+一饮而尽¤Drink it all
+如何取得琚运琦的信任？¤How does one acquire Jun Yunqi's trust?
+如何进入风雨楼？¤How does one enter Storm Manor.
+抱歉...¤My Apologies...
+你找我来此只是为了赏景么？¤Did you really seek me out just so we could enjoy the scenery?
+我愿意¤I am willing
+带我去看看¤Take me to see
+将洞府升级至上品灵眼¤Upgrade the cave to the top grade spirit eye
+不用了¤no need
+将洞府升级至中品灵眼¤Upgrade the cave to a medium-grade spirit eye
+询问洞府¤Ask about the cave
+我想给洞府改个名字¤I want to change the name of the cave
+先回去给蕊宫仙子疗伤\n¤Return to Immortal Rui Gong to heal first\n
+星铃儿不会是你女儿吧？¤Starling is not your daughter, right?
+击杀冲虚¤Kill Chongxu
+任他去¤Let him go
+向师父请教¤Ask Master for advice
+复命¤Resume
+询问对{$dadao}道的感悟¤Asking for insight into the {$dadao} path
+来看看师父¤Come to see the master
+拉住他¤Pull him in
+复命（进入论道）¤Repeat the order (enter the argument)
+有问题想问师尊¤I have a question for the Master
+询问功法搭配¤Asking about techique combination.
+没有问题了¤No problem anymore
+询问{$gongfa}的要点¤Ask {$gongfa} for the main points
+赠送¤Give as a gift
+坚持半价售卖¤Insist on selling at half price
+挑选蟹螯为材料有和讲究？¤Why is it so important to use crab claws as material?
+材料已经弄到了¤The materials have been obtained
+一定得是四品材料？¤Must it be a fourth grade material?
+同意平价售卖¤Agree to sell at a regular price
+打断她¤Interrupt her
+涨价售卖（6855灵石）¤Set an increased price (6855 spirit stones)
+坐地起价（8226灵石）¤Set a ridiculous price（8226 spirit stones）
+对折售卖 （2285灵石）¤Sell at half price (2285 spirit stones)
+平价售卖（4570灵石）¤Sell at a regular（4570 spirit stones）
+天阳、水属性有何特殊之处？¤What's special about Yang and Water element?
+继续倾听¤Keep listening
+询问掌门¤Ask the Sect Leader
+参加擂台¤Participate in the ring
+下注三千灵石¤Bet on 3000 Spirit Stones
+下注五千灵石¤Bet on 5000 Spirit Stones
+台下观赛¤Watching the game under the stage
+仔细观战¤Watch the battle carefully
+闭目养神¤Close your eyes and rest your mind
+下注一千灵石¤Bet on a Thousand Spirit Stones
+赶紧躲开¤Quickly get away
+走开走开，英杰会谁没听说过？¤Go away, who hasn't heard of the Tournament?
+你可是说英杰会？¤Did you say the Young Hero's Tournament?
+关于刚刚遇到的沂山修士¤About the cultivators of Yishan that we just met
+我们出发吧！¤Let's go!
+关于门派¤About Martial Art Sects
+没事儿了¤It's okay
+请教几个问题¤Ask a few questions
+绝命流¤The desperate stream
+天机¤Heaven's Chance
+绝命流1¤Desperate Flow 1
+杀手¤Slayer
+阴阳¤Yin Yang
+白帝、天机阁¤The White Emperor, the Heavenly Pavilion
+剑罡¤Sword God
+金丹¤Golden Dan
+蚂蟥¤leech
+元婴¤Nascent Soul
+千流岛¤Thousand Stream Island
+筑基¤Foundation building
+体修¤Physical training
+沂山、禾山¤Yishan and Wooshan
+待定¤To be determined
+血剑¤Blood Sword
+蓬莎岛¤Pongsha Island
+白帝¤White Emperor
+剑阵¤Sword Formation
+练气¤Practicing Qi
+碎星岛¤Shattered Star Island
+我找到了这柄剑¤I found this sword
+推演破阵¤Deducing the broken formation
+直接闯入¤Direct break-in
+火之道手抄本¤Manuscript of the Way of Fire
+鬼面炼心丹¤Tempered Heart Pill
+旋龟舟¤Rotating turtle boat
+二等奖励是什么¤What is the second prize?
+火麟玉¤Fire Forest Jade
+涵虚悟道手抄本¤Handwritten copy of Hanxu's path to enlightenment
+《炙炎三才阵》¤《Scorching Flame Formation》
+《分神术》¤《The Art of Distraction》
+黑冥鼎¤Black Underworld Tripod
+五品灵舟¤Grade 5 Spirit Boat
+一等奖励是什么¤What is the first-class reward
+朱珀剑¤Juper Sword
+三等奖励是什么¤What is the third-class reward
+气之道手抄本¤Manuscript of the Way of Qi
+阵道手抄本¤Array Way Manuscript
+剑魄灵叶¤Emperor Swordsoul Herb
+道源丹¤Origin Dao Pill
+完璧吴魁¤End Bi Wu Kui
+下一页¤Next page
+开始分配¤Start Assignment
+火麟玉*4¤Fire Linyu*4
+上一页¤Previous page
+体之道手抄本¤Handcopy of the Dao of Body
+剑道手抄本¤Kendo Manuscripts
+直接动手¤Do it directly
+关于这片海域¤About this sea area
+何不切磋一番¤Why don't you have a sparring session?
+关于此行的目标¤About the goal of this trip
+交易会？¤Trade fair?
+正是¤Exactly
+不打扰{$name}¤Don't disturb {$name}
+安慰¤Comfort
+提醒¤Remind them
+与{$name}交谈¤Talk to {$name}
+鼓励¤Encourage
+火铜符剑¤Fire Bronze Magic Sword
+我叫...¤My name is...
+我是来领取...¤I'm here to receive...
+驱火剑¤Flame bringer
+这里的价格似乎并不便宜¤The prices here don't seem to be cheap
+这里收购{$shougou}么？¤Purchase {$shougou} here?
+这里收购妖兽材料么？¤Do you buy monster materials here?
+这里收购草药么？¤Do you buy herbs here?
+我没有这样东西¤I don't have such a thing
+让我再想想¤Let me think again
+让我再斟酌一下¤Let me reconsider
+我有十足的把握¤I have full confidence
+和魏无极聊聊¤Talk to Wei Wuji
+和其他人聊聊¤Talk to other people
+静心准备渡劫¤Meditate and prepare for the crossing
+如实告知¤Tell the truth
+林沐心的计划¤Lin MuXin's plan
+我会劝阻林沐心¤I will dissuade Lin MuXin
+请林姑娘告知¤Please inform Miss Lin
+林姑娘不必牺牲自己¤Miss Lin doesn't have to sacrifice herself
+大致知道¤Mostly know
+关于封城¤About sealing the city
+传音提醒¤Reminder by voice
+开始大会¤Start the conference
+高声呵斥¤shout loudly and scold
+沉默对峙¤Silent Standoff
+出府走走¤Go out for a walk
+享乐¤Enjoyment
+休息一日¤A day off
+府内逛逛¤Wander around the house
+监视画卷中人¤Monitoring People in the Picture Scroll
+冷眼旁观¤A cool-eyed spectator
+离开石台¤Leave the stone platform
+阅览经文¤Read the Scriptures
+尝试领悟¤Try to comprehend
+查看告示¤View notice
+关于白家¤About the Bai family
+关于唐家¤About the Tang Family
+碎星商会的由来¤Origin of the Shattered Star Merchant Guild
+关于选举¤About the election
+道友何故唉声叹气？¤Why fellow Taoists sighed?
+再想想别的¤And think of something else
+调查并夺取戮仙剑¤Investigate and grab the sword
+向凌轩询问御剑门之战的情况¤Ask Ling Xuan about the battle of the Royal Sword Gate
+攻打白帝楼¤Assault on the White Emperor Pavillion
+抓取活人炼丹¤Capture a living person to make a potion
+与其它势力勾结¤Collusion with other forces
+竹山宗¤Bamboo Mountain Sect
+调查火麒麟的情报¤Investigate the information of the fire qilin
+或许还有其它可能？¤Maybe there are other possibilities?
+报复玄道宗¤Revenge against Mystic Dao Sect
+长期通过魔神蛊渗透白帝楼¤Long-term infiltration of the White Emperor Pavillion through the Demon God Compulsion
+白帝楼¤White Emperor Pavillion
+吸收门徒发展宗门¤accepting disciples to develop the clan
+关于天魔道¤About Heavenly Demon Dao
+释放天魔眼中的天魔¤Releasing the heavenly devil in the eye of the heavenly devil
+长期通过魔神蛊渗透离火门¤Long-term infiltration of the Heavenly Fire Gate through the Demon God Compulsion
+关于古神教¤About the Ancient Gods
+关于血剑宫¤About Blood Sword Palace
+伺机夺取魔剑¤Waiting for an opportunity to seize the magic sword
+离火门¤Heavenly Fire Gate
+长期通过魔神蛊渗透化尘教¤Long-term infiltration of the Shifting Sands School through the Demon God Compulsion
+渗透宁州各大势力¤Infiltrate the major powers in Ningzhou
+当年救下了重伤的凌轩¤Saved the seriously injured Ling Xuan back then
+血剑宫与白帝有宿怨¤Blood Sword Palace and the White Emperor have a long-standing grudge
+长期潜伏于宁州¤Long-term lurking in Ningzhou
+偷学白帝楼功法¤Stealing the White Emperor Pavillion Technique
+与玄道宗有仇¤Have a grudge against the Mystic Dao Sect
+向御剑门寻仇¤Seeking revenge on the Royal Sword Sect
+原来如此。¤So that's it.
+离火门与御剑门有何纠纷？¤What is the dispute between the Heavenly Fire Gate and the Royal Sword Sect?
+为了老头我也会调查清楚此事。¤I will also investigate the matter for the sake of the old man.
+正有此意！¤That's the idea!
+血剑宫和白帝楼又是有何纠纷？¤What is the dispute between Blood Sword Palace and White Emperor Pavillion?
+血剑尊是什么？¤What is Blood Sword Zun?
+我想知道御剑门当年为何被灭门¤I want to know why the Royal Sword Gate was destroyed that year
+出手相救¤come to the rescue
+说点有价值的消息¤Tell us something of value
+有多危险？¤How dangerous is it?
+交出妖兽材料¤Hand over the material of the Spirit Beast
+漩涡位置在哪？¤Where is the location of the vortex?
+帮邪修¤Help the evil cultivator
+帮散修¤Help the inde. Cultivator
+袖手旁观¤Stand by
+焚烧殆尽¤Burned out
+钻研阵法¤Studying Formations
+暴力破阵¤Violent breakthrough
+不买¤Not buying
+五千灵石¤Five thousand spirit stones
+八千灵石¤8,000 spirit stones
+还价¤make a counter-offer
+买¤Buy
+一千灵石¤One thousand spirit stones
+尝试破除此处阵法¤Try to break the Array here
+万魂殿？¤Ten Thousand Spirits Hall?
+解释缘由¤Explain the Reason
+师妹？¤Junior Sister?
+说明来由¤Explain the Reason
+复活之法？¤The Law of Resurrection?
+放过她¤Let her go
+招来元神？¤Invoke the genesis?
+我没什么要了解的¤There's nothing I need to know
+安静等待¤Waiting quietly
+出声提醒¤Audience reminder
+绝焰堂¤Absolute Flame Hall
+炎麟大圣？¤The Great Sage of the Inferno?
+除了宁州香薷，真的没有其他办法能救人了吗？¤Except for Ningzhou Xianglu, is there really no other way to save people?
+反正消息已经带到，此事与我再无关系。¤Anyway, the news has arrived, this matter has nothing to do with me anymore.
+那我也舍命陪君子，走上一遭又何妨？¤Then I will die with the gentleman too, so what's the matter?
+我还有要事就不与道友同行了。¤I have important matters to attend to so I will not be travelling with you.
+是否有适合我的功法¤whether there is a suitable technique for me here
+陨龙之地？¤Land of the Meteor Dragon?
+传音鼓励¤Send encouragement
+以为遇到麻烦¤I thought you were in trouble
+夸赞冰灵面纱¤To compliment the treasure she gave you
+关于百里邑¤About Bailiyi
+关于无尽之海¤About the Endless Sea
+糊弄过去¤Muddle through
+继续追问¤Continue to ask questions
+你们又是谁？¤Who are you again?
+为何不飞升？¤Why not ascend?
+委婉试探¤tactful probing
+如何突破？¤How to break through?
+海上还有交易会？¤There are Trade Fairs at sea?
+支付灵石购买¤Use Spirit Stones to purchase
+要是去蓬莎岛买，价格行情如何呢？¤What's the market price like at Pongsha Island?
+若要出海，需准备些什么？¤What do I need to prepare if I want to head to sea?
+猎杀妖兽要去哪儿呢？¤Where do you go to hunt Spirit Beasts?
+用补天芝换取蓬莎巨蟹螯¤Trade Skymend shroom for Pongsha Crab Claws
+现在还不换¤Not right now
+我都了解了。¤I Understand
+幻雾阵¤Mirage Mist Array
+方壶山¤Fang Hu Shan
+我没什么想了解的了。¤There's nothing more I want to know.
+药田¤Medicine Field
+没想到只有我一人通过¤Unexpectedly, I was the only one to pass
+你到底是什么人？¤Who on earth are you?
+你刚刚一直跟着我们？¤You just followed us?
+关于异火的修炼¤About the cultivation of exotic fire
+活着回来¤Come back alive
+你要一个人去？¤You're going alone?
+请指教¤Please guide me
+打败你只需要两个回合¤It only takes two rounds to defeat you
+躲至众人身后¤Hiding behind the crowd
+揍他！¤Beat him up!
+乖乖就范¤Behave yourself
+大型阵法¤Large formation
+中型阵法¤Medium type formation
+留在林府¤Stay at the Lin House
+一同前往¤Go with us
+告知林沐雪的消息¤Inform Lin Mu Xue of the news
+转告林沐雪的决意¤Relaying Lin Mu Xue's determination
+帮助林沐心¤Help Lin MuXin
+关于二长老¤About the Second Elder
+劝阻林沐心¤Discourage Lin MuXin
+没事了¤It's okay
+关于三长老¤About the Third Elder
+关于林沐心的父亲和大哥¤About Lin MuXin's father and elder brother
+不告知¤Do not tell
+转告通羽上人的承诺¤Pass on Lord Tong Yu's promise
+上前查探¤Go ahead and investigate
+何必多事¤Why troublesome
+已经在做了¤Already doing it
+我想开启一间炼器室¤I want to open an Pill room
+租借¤Lease
+我想放弃这件差事¤I want to give up this errand
+我想租借一间炼丹用的地火房¤I want to rent an Pill room
+不知道¤I don't know
+我只是在嫌少。¤I'm just in too little.
+趁妖之危¤Take advantage of the chaos
+使用蛮力¤Use brute force
+破阵！¤Break the formation!
+开始操练¤Begin Practice
+莫管闲事¤Mind your own business
+询问缘由¤Inquiry about the reason
+我正是受令妹所托前来救你的。¤I was entrusted by your sister to come and save you.
+敖玄？你还真没死？¤Ao Xuan? You're really not dead?
+有要事汇报¤Urgent Report
+上品法宝仙剑¤Top grade magic treasure immortal sword
+天魔眼入口¤Heavenly Demon Eye Entrance
+天魔眼内部¤Inside the Heavenly Demon Eye
+结丹秘术《小周天吐纳》¤Secret Art of Core Formation 《Small Heavenly Exhalation》
+地阶剑道功法《砺剑诀》¤Earth ranked Sword Way Technique《Sharpening Sword Skill》
+蛊真人¤Lord Gu
+逍遥剑仙¤Xiaoyao Sword Fairy
+叠焰诀¤Flame Stacking Technique
+询问白帝令¤Ask for the White Emperor's Order
+魔焰决¤Magic Flame Decision
+熔盾诀¤Melting Shield Technique
+有什么可以交给我做的事么？¤Is there anything I can do?
+出示祭血令¤Show the blood sacrifice order
+血薇仙子¤Lady Crimson Blood
+兑换功法典籍¤Exchange for Techniques
+天邪子¤Tian Xie Zi
+黑心老人¤Grandfather Blackheart
+加入白帝楼¤Join as an Inner Disciple
+空间裂缝¤Space Crack
+出手抢夺¤Snatch
+东面的山坡¤Hillside on the East
+北面的竹林¤Bamboo Forest in the North
+西面的悬崖¤The Cliff to the West
+关于神秘飞剑¤About the mysterious flying sword
+关于倪旭欣¤About Ni XuXin
+我已经都清楚了¤I already know everything
+关于魔气充溢之地¤About the place filled with demon energy
+关于周围状况¤About the surrounding situation
+关于武陵城¤About Wuling City
+关于宁州的修仙宗门¤About the Cultivation Sect in Ningzhou
+关于倪家家主¤About Ni Family's Patriarch
+关于天劫？¤About the tribulation?
+还有什么？¤What else?
+关于仙术？¤About immortal arts?
+仙灵之气？¤Immortal Qi?
+关于太虚？¤About Great Void?
+关于天道？¤About the Heavenly Dao?
+出手¤Make a move
+关于草药¤About Herbs
+去¤go
+带来了¤Brought it
+抢先一步¤Be one step ahead
+观望一番¤Wait and see
+放弃¤give up
+再次尝试¤Try again
+交换对手¤Swap opponents
+那就给你几分面子吧¤Then let's give you some face
+放走¤Let go
+诛杀¤kill
+趁此处无人...¤There is no one here...
+等正派道友¤Waiting for decent Taoists
+明日子时¤Tomorrow
+明日丑时¤Tomorrow is Ugly
+明日酉时¤Tomorrow at 10:00
+停下观察¤Stop and watch
+查看玉简¤View Jade Slips
+替鸿凌子收尸¤Collect the corpse for Honglingzi
+向前辈行礼¤Salute to Seniors
+仔细搜索¤Search carefully
+明日申时¤Apply tomorrow
+参加门派大比¤Participate in the Martial Arts Competition
+我还要在准备一下¤I still have to prepare
+打听百里奇的去向¤Inquire about the whereabouts of Baili Qi
+关于百里府¤About Baili Clan
+特殊的金色火焰¤Special golden flame
+鼓励他继续修炼¤Encourage him to continue his practice
+心境不稳¤Unstable state of mind
+或许有其它可能¤Perhaps there are other possibilities
+他受的内伤¤The internal injuries he suffered
+帮助他控制火焰¤Help him control the flames
+出言劝阻¤offer advice to discourage
+劝他放弃复仇¤Persuade him to give up his revenge
+提起心魔的影响¤Bring up the influence of heart demons
+帮助他控制灵气¤Help him control his aura
+趁火打劫¤Taking advantage of a fire
+束手无策¤unable to do anything about it
+关于仇人的消息¤News about the enemy
+赠与他少阴清灵丹¤Presenting him with the Shao Yin Clear Pill
+求购一颗¤Request for one
+从何而来¤Where did it come from?
+可否引荐一二？¤Can you give us a recommendation?
+观摩一番¤Observe
+奇遇副本¤A copy of the strange encounter
+传送海底遗迹¤Sending the underwater ruins
+文本替换测试¤Text replacement test
+少阴¤Shao Yin
+天命¤Destiny of Heaven
+高声望¤High prestige
+低声望¤Low prestige
+传送¤Teleportation
+战斗¤The battle
+妖兽材料¤Spirit Beast materials
+三阳¤Three Suns
+添加材料¤Add materials
+海上声望¤Reputation on the sea
+药品¤Medicine
+中声望¤Medium prestige
+询问徐凡¤Ask Xu Fan
+默不作声¤keep silent
+关于寄拍的限制¤Restrictions on sending auctions
+出手兑换¤Offer to exchange
+浪方大圣的遗骸¤The Remains of the Great Sage of Nangfang
+查看交易会告示¤View the trade fair notice
+关于抽水¤About water extraction
+九幽大圣的遗骸¤The remains of the Nine Ghosts Great Sage
+颇有兴致¤quite enjoyable
+毫无兴致¤uninterested
+放入草药¤Add the herbs
+强横的妖气？¤Strong demonic aura?
+伸手搀扶¤Reach out to help
+浴火而无伤？¤Bathing in fire without injury?
+没什么想问得了¤Nothing to ask
+再准备一下¤Begin preparations again
+开始锻体¤Begin Body Forging
+进入雷狱¤Enter Lightning Prison
+你们在争什么东西？¤What are you fighting for?
+千流岛的独门道法？¤The unique method of the Thousand Stream Island？
+这月灵花我倒是也有几分兴趣¤I am also a little interested in this Moonspirit Blossom
+我对这月灵花没什么兴趣¤I have no interest in this Moonspirit Blossom
+关于千流岛¤About Qianliu Island
+关于伴月楼¤About Companion Moon House
+关于竞拍大会¤About the auction
+关于天机阁¤About Heavens Secrets Pavilion
+邀请我的目的？¤What is the reason for my invitation?
+阴魂岛的来历？¤History of the Ghost Island?
+幽荧是谁？¤Who are you?
+岛上的体系？¤The Island System?
+走为上计¤Plan to flee
+将{$caoyao1}取来¤Fetch {$caoyao1} from
+{$dysl1}株¤{$dysl1} strain
+弟子没能掌控好火候¤The disciples failed to control the fire
+{$dysl}株¤{$dysl} strain
+将{$caoyao2}取来¤Fetch {$caoyao2}
+将{$yaoying2}取来¤Fetch {$yaoying2}
+弟子拿错了草药的品种¤The disciple got the wrong kind of herbal medicine
+{$fysl1}株¤{$fysl1} strain
+将{SayStcVal=940}取来¤Fetch {SayStcVal=940}
+晚辈记下了¤Junior wrote it down
+{$fysl3}株¤{$fysl3} strain
+{$dysl2}株¤{$dysl2} strain
+将{$yaoying1}取来¤Fetch {$yaoying1}
+{$fysl2}株¤{$fysl2} strain
+弟子放错了草药数量¤I put in the wrong the amount of herbs
+请前辈再说一遍¤Senior, please say it again
+将{SayStcVal=941}取来¤Fetch {SayStcVal=941}
+好说好说¤Good to say, good to say
+谅你们也不敢¤I'm sure you wouldn't dare
+你们也没其他价值了¤You don't have any other values.
+早点拿出来不就好了¤It would be good to take it out earlier
+小心退去¤Retreat carefully
+关于天蝉灵叶¤About Skyscada Leaf
+关于如何前往岱舆山¤About how to get to Daiyu Mountain
+出手迎敌¤Step up to meet the enemy
+关于法器¤About the magic weapon
+催动剑气¤Stimulate the sword energy
+关于功法¤About Technique
+要钱没有，要命一条！¤If you want money, let's kill one!
+保持沉默¤remain silent
+关于林家与星宫¤About the Lin Family and the Star Palace
+出言求助¤Asking for help
+深入钻研¤In-Depth Study
+气¤Qi
+神¤Sense
+阵¤Array
+听老爷爷的¤Listen to old grandpa
+多看几场¤Watch more games
+听倪旭欣的¤Listen to Ni XuXin
+金¤Metal
+五行¤Five Elements
+土¤Earth
+其他¤Other
+木¤Wood
+水¤Water
+火¤Fire
+体¤Body
+剑¤Sword
+我也有些意外¤I also experienced a few accidents
+传说可能有偏差¤Folktalk may be biased
+再次尝试击杀天魔¤Try again to slay the Heavenly Demon
+尝试击杀天魔¤Attempt to Slay the Heavenly Demon
+出手解决¤Step in to resolve
+侥幸而已¤It's just a fluke
+这有何难¤What's so hard about it?
+邀请切磋¤Invitation to a sparring session
+神阴石兑换¤Convert Divine Yin Stone
+关于神阴石¤Regarding Divine Yin Stone
+关于逆天造化术¤About the Reversing Heaven Luck Spell
+换取逆天造化术¤In exchange for the Reversing Heaven Luck Spell
+幻雾阵是...？¤What is the Mirage Mist Array...?
+购买玄古丹¤Buy Profound Ancient Pill
+交钱¤Pay up
+上前叫住¤Step forward and call out to
+我找到了这个¤I found this
+还没有完成¤not yet completed
+避开它¤Avoid it
+小心靠近¤Approach with caution
+关于元灵石¤About the spirit Stone
+《重剑决》¤《Heavy Sword Technique》
+《养刀术》¤《Rising Sword Technique》
+《金芒诀》¤《Glowing Metal》
+我才不会管这老头呢¤I don't give a shit about the old man.
+不如交给我吧¤Why don't you leave it to me?
+正是如此¤That's exactly it.
+就让倪旭欣去吧¤Just let Ni XuXin go
+还有什么¤What else
+藏身地¤Hiding Place
+护法？¤Guard?
+协商购买¤Negotiation to buy
+避免冲突¤avoid confict
+先下手为强¤Make the first move
+不再多费口舌¤No more talking
+防具和饰品¤Armor and Accessories
+效果特性？¤Property Effect?
+请教炼器的技巧¤Ask for tips on smithing
+有什么法宝可以推荐¤What magic weapon would you recommend?
+武器¤Weapons
+五行缺水¤The Five Elements Are Short of Water
+单灵根¤Heavenly Spirit Root
+四灵根¤Silent Roots
+双灵根¤Dual Spirit Root
+我想改变我的灵根资质¤I want to change my spiritual root aptitude
+五行缺火¤Lack of fire in five elements
+我想重置我的悟道天赋¤I want to reset my enlightenment talent
+五灵根¤Five Spiritual Roots
+五行缺金¤Five elements lacking metal
+五行缺土¤Five elements lacking earth
+三灵根¤Three Spiritual Roots
+五行缺木¤The five elements are lacking wood
+我想购买法宝¤I want to buy magic treasures
+反驳¤refute
+是你太弱了¤You are too weak
+不好意思¤Excuse me
+装的真够像的¤That's a good look.
+《九转涅槃诀》？¤《Nine Revolutions of Nirvana Technique》?
+与之对视¤Meet the Eye
+凤凰涅槃？¤Phoenix Nirvana?
+不理他¤Ignore him
+叫他¤Call him
+避开目光¤Avert your eyes
+麟尊这是？¤Linzun this is?
+伪装修为（神识检测）¤Disguise cultivation（Soul Sense detection）
+布阵等待（阵道检测）¤Layout waiting（formation path detection）
+四处查探（遁速检测）¤Look Around (Quick Detection)
+碰碰运气¤Try your luck
+无比平和¤Unparalleled peace
+兴奋激动¤Excited and thrilled
+豪气冲天¤the sky is the limit
+有些哀伤¤Some sadness
+青竹道人¤Lord Azure Bamboo
+晚辈只是路过。¤The senior is just passing by.
+略通一二¤know a thing or two about
+我在考虑一下别的。¤I'm thinking about something else.
+关于内门弟子...¤About the inner disciples...
+《青藤诀》¤《Green Vine》
+《上青诀》¤《Rising Greenery》
+多谢长老，晚辈告退。¤Thank you, Elder, this junior will leave.
+请前辈指教¤Senior please advise
+《鸩羽诀》¤《Toxic Quill》
+讲述奇闻异事¤Telling strange and unusual stories
+浪方大圣¤The Great Sage of the Wave Square
+极阴三海¤The three extreme Deep Seas
+九幽大圣¤The Great Sage of the Nine Mysteries
+宁州古迹¤Ningzhou monuments
+鹤真人¤The Real Crane
+没什么值得一说的了¤Nothing more to say
+沉默不语¤Silence, dont speak
+那血剑宫长老为何选这种地方疗伤？¤Why did the Blood Sword Temple Elder choose this kind of place to heal his wounds?
+萧千绝¤Xiao Qianjie
+慕容颖¤Murong Ying
+替倪旭欣说话¤Speaking for Ni XuXin
+我想出售一些稀有的材料¤I want to sell some rare materials
+关于百里家¤About Baili Family
+关于三大家族¤About the Three Big Families
+关于碎星商会¤About Shattered Star Merchant Guild
+放弃挑战¤Abandon the Challenge
+冲虚长老的目的¤The Purpose of Elder Chongxu
+争夺草药¤Competing for Herbs
+打过招呼了¤Beckon for a fight
+关于蓬莎岛¤About Pongsha Island
+我对你身上的东西感兴趣¤I'm interested in what's on you
+我只是开个玩笑...¤I was just kidding...
+打听这片海域的传闻¤To inquire about the rumors of this sea
+关于碎星岛¤About Broken Star Island
+打听附近海域的消息¤Inquire about news from the nearby waters
+先搜索丹房¤Search the Alchemy room first
+要搜索练功房¤To search for a practice room
+先搜索药田¤Search in the Herb Field first
+宴请¤Drink some wine and talk
+直接询问¤Ask Directly
+继续观察¤keep an eye on
+放过他¤Let him go
+关于飞升的时间¤About the time of ascension
+关于魔剑¤About Demonic Sword
+滥杀无辜并非明智之举¤Reckless slaughter of innocents is not a wise move
+只要灵石到位，杀谁都一样¤As long as the spirit stones are paid, it doesn't matter who you want killed.
+愿为大长老效劳¤At your service Grand Elder
+多谢夸奖¤Thanks for the compliment
+我再考虑考虑¤I'll give it some thought
+大开大合¤Start great gathering
+生生不息¤Live and let live
+神识威慑¤Soul Sense Deterence
+抓住他¤Catch him
+斩杀蛇王¤Kill the Snake King
+趁机逃离¤Take the opportunity to escape
+已经在准备炼制了¤Already preparing for refining
+关于药材¤About Herbs
+关于上次你托我炼制的丹药¤About the pill that you asked me to refine last time
+关于炼丹的场所¤About the place for alchemy
+能不能教教我怎么炼丹？¤Can you teach me how to make pills?
+关于丹方¤About the pill formula
+购买丹炉（400灵石）¤Buy Alchemy Furnace (400 Spirit Stones)
+关于丹炉¤About Alchemy Furnace
+我来拦住琚运琦！¤I'll stop Ju Yunqi!
+我来拦住赤目老祖！¤I'll stop the Scarlet-Eyed Ancestor!
+四目对视¤Look at each other
+主动招呼¤Offer greetings
+我已经准备好了¤I'm ready
+请师尊指点¤Lord, please give me pointers
+请教师门神通¤Receive tutelage
+徒儿修为不足，还应当多多修炼才是¤The disciple's cultivation is not enough, and you should practice more.
+总有一天我会走到比他更高的地方！¤One day I will go to a place higher than him!
+如何才能变强？¤How can I become stronger?
+修真者的世界自然弱肉强食。¤The world of cultivators is naturally the law of the jungle.
+修炼外的事情¤Things besides cultivation
+我能做些什么？¤What can I do?
+出示白帝信物¤Show the White Emperor's token
+抢夺秘籍¤Grab the secret book
+拜访长老¤Visit the Elder
+西面的湖泊¤Lake to the west
+北面的峡谷¤The Canyon to the North
+感受此番剑阵中的剑意¤Feel the sword intent in this sword array
+感受周围剑阵的灵力流转方式¤Feel the flow of spiritual power in the surrounding sword formations
+观察剑身上铭刻的灵纹¤Observe the spirit pattern inscribed on the sword
+迅速路过¤Quickly passing by
+扭头离开¤Turn around and leave
+悄悄潜入¤Sneak in quietly
+吴家¤Wu Family
+白家¤White Family
+炼制六品灵舟¤Refine a sixth-grade Spirit Boat
+唐家¤Tang Family
+我只是开个玩笑¤I was just kidding
+我有些事情想问你¤I have something to ask you
+关于筑基¤About Foundation Establishment
+关于结丹¤About Golden Core
+关于化神¤About Deity Transformation
+关于飞升¤About Ascension
+抱歉，我没有这样东西¤Sorry, I don't have such a thing
+关于修炼的看法¤Opinions on Cultivation
+有什么需要我帮你的？¤What can I help you with?
+神识压迫¤Soul Sense suppression
+怙势凌人¤Rely on overbearing power
+只是开个玩笑¤It was just a joke
+（道侣）我希望你...¤(Daoist partner) I hope you...
+关于炼制灵舟¤About refining a Spirit Boat
+我希望你能称我为...¤I wish you would call me...
+我希望与你双修¤I wish to dual cultivate with you
+我希望与你解除道侣关系¤I wish to break off our relationship
+我希望你能换一身装扮¤I hope you could change your outfit
+表达爱意¤Express affection
+我希望你能去...¤I hope you can go...
+我想重置我的化神领域 ¤I want to reset my Deity Transformation Domain
+不过是些凡人的玩意，没兴趣¤They are just things for the mortals. Not interested.
+那就恭敬不如从命了¤Then I'll gladly accept it.
+相信林沐心¤Believe in Lin Muxin
+不尝试¤Don't try
+找借口离开¤Find an excuse to leave
+希望味道也不会差¤I hope it tastes decent
+尝尝倪旭欣手艺¤Let's see how well Ni XuXin cooks
+看起来不错¤Looks good.
+我已经迫不及待了¤I can't wait!
+我还有事，下次吧¤I have something I need to do, maybe next time.
+也好，进招吧¤Alright then, show me what you got.
+解除禁制¤Unlock the seal
+观察雕塑¤Observe the sculpture
+观察石台¤Observe the stone platform
+推门而入¤Open the door and Enter
+放入信物¤Put in the token
+“阴”字¤The word "Yin"
+时间不多？¤Not much Time?
+前辈的本体？¤Senior's true body?
+两处天地异象很罕见¤Two occurrences of extraordinary phenomenon is extremely rare.
+多谢解惑¤Many Thanks for clearing up my confusion
+靠近观察¤Get closer and observe
+寻找“钥匙”¤Look for the "key"
+强行进入¤Enter by force
+进入神秘洞府¤Enter the mysterious cave
+注入神识¤Inject Soul sense
+是个武痴¤Is a martial arts fanatic
+很能惹事¤very good at causing trouble
+询问玉简中符号的意义¤Ask for the meaning of symbols in the jade scroll.
+询问否极泰来的来历¤Ask about the origin of 'Turn the Tide'.
