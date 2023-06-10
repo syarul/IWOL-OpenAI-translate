@@ -101,7 +101,7 @@
 神识掩护¤Soul Sense Protection
 偷了就跑¤Steal it and run
 愿意¤Agree
-古神教¤Cult of the Ancient Gods
+古神教¤Ancient God Sects
 我没什么想知道的了¤There's nothing else I want to know
 张三¤Zhang San
 在外围相助¤Help from the distance
@@ -560,7 +560,7 @@
 为洞府改名¤Rename the cave
 趁无人先行进入¤I'll enter before anyone else
 等正道道友¤Waiting for the righteous daoists
-慕名而来，想要拜入化尘教¤I came here in admiration and want to join the Shifting Sands School
+慕名而来，想要拜入化尘教¤I came here in admiration and want to join the Shifting Shifting Sand Sect
 趁没人注意时偷偷溜进去¤Sneak in when no one is looking
 进入沃焦山¤Go into the Inferno Mountain
 去沃焦山附近开辟洞府¤To open a cave inside Inferno Mountain
@@ -1234,7 +1234,7 @@
 关于金虹剑派¤About Radiant Sword Sect
 关于星河剑派¤About the Celestial River Sect
 关于离火门¤About Heavenly Fire Gate
-关于化尘教¤About the Shifting Sands School
+关于化尘教¤About the Shifting Shifting Sand Sect
 关于竹山宗¤About Bamboo Mountain Sect
 看看有什么值得买的¤See what's worth buying
 有没有这附近海域的海图？¤Are there any charts of the seas around here?
@@ -1731,7 +1731,7 @@
 关于血剑宫¤About Blood Sword Palace
 伺机夺取魔剑¤Waiting for an opportunity to seize the magic sword
 离火门¤Heavenly Fire Gate
-长期通过魔神蛊渗透化尘教¤Long-term infiltration of the Shifting Sands School through the Demon God Compulsion
+长期通过魔神蛊渗透化尘教¤Long-term infiltration of the Shifting Shifting Sand Sect through the Demon God Compulsion
 渗透宁州各大势力¤Infiltrate the major powers in Ningzhou
 当年救下了重伤的凌轩¤Saved the seriously injured Ling Xuan back then
 血剑宫与白帝有宿怨¤Blood Sword Palace and the White Emperor have a long-standing grudge

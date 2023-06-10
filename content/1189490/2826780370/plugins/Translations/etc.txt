@@ -1,32 +1,32 @@
-你仔细勘察附近的环境，周边的岩石树木上都有明显的刀剑划痕，显然这里曾经发生过一场不小的冲突。¤Scope out your surroundings，Rocks and trees around bear clear sword marks，A great clash unfolded here。
-你从附近的村民口中得知，失踪者大多是本地的生意人。除此以外你并没有问出其它有用的信息。¤You heard it from the locals，Most of the missing persons are local merchants。Besides this, you didn't ask anything useful。
-你施展神识查探一番，并未检测到灵力的波动，也未见有明显的术法打斗痕迹。¤Scr and investigate，No Spiritual Flux Detected，No visible traces of profound-technique battle。
-距离此处不远就是几座凡人村落，而这里原本是他们前往大城市的必经之路，如今却人烟稀少。¤Not far from here lies several mortal settlements，Road to the metropolis, formerly their passage，Towns now sparsely populated。
-由于最近的传言，附近的村民都减少了外出的次数。除此以外你并没有问出其它有用的信息。¤Rumors Abound，The nearby villagers have decreased their expeditions。Apart from that, no other useful info was asked。
-你仔细勘察附近的环境，隐约能闻到空气中残留着一丝奇怪的腥臭味，但却未曾看到明显的打斗痕迹。¤Survey the surroundings，A faint whiff of peculiar pungency lingered in the air，No sign of a fight。
-你从附近的村民口中得知，失踪者大多为本地的青壮年男子。除此以外你并没有问出其它有用的信息。¤You hear from nearby villagers，Most missing persons are local young adult males。Besides this, you didn't ask any other useful info。
-你施展神识查探了一番，虽未检测到灵力的波动，却能明显感知到此地阴气慎重，像是有人在此处施展过什么阴毒的邪术。¤You probed with your divine sense，No Spiritual Energy Detected，A heavy chill can be markedly felt，Someone cast an insidious spell here。
-你仔细勘察附近的环境，附近的草丛有被压倒的痕迹，地面上依稀可见斑驳的血迹和拖动的痕迹。¤Scout the vicinity，Crushed foliage in the vicinity，Traces of splattered blood and dragged trails remain faintly visible。
+你仔细勘察附近的环境，周边的岩石树木上都有明显的刀剑划痕，显然这里曾经发生过一场不小的冲突。¤You carefully survey the neighborhood, the nearby grass has been overwhelmed traces of the ground vaguely visible patches of blood and dragging marks.
+你从附近的村民口中得知，失踪者大多是本地的生意人。除此以外你并没有问出其它有用的信息。¤You learn from the nearby villagers that the missing are mostly local businessmen. Other than that you don't ask for other useful information.
+你施展神识查探一番，并未检测到灵力的波动，也未见有明显的术法打斗痕迹。¤You exert divine sense to check some, did not detect the fluctuations of spiritual power, but also did not see the obvious signs of fighting magic.
+距离此处不远就是几座凡人村落，而这里原本是他们前往大城市的必经之路，如今却人烟稀少。¤Not far from here are several mortal villages, and while this was originally their way to the big city, it is now sparsely populated.
+由于最近的传言，附近的村民都减少了外出的次数。除此以外你并没有问出其它有用的信息。¤Due to the recent rumors, the villagers in the neighborhood are going out less often. Other than that, you didn't ask for any other useful information.
+你仔细勘察附近的环境，隐约能闻到空气中残留着一丝奇怪的腥臭味，但却未曾看到明显的打斗痕迹。¤You carefully survey the nearby environment, you can vaguely smell a strange fishy smell remaining in the air, but have not seen the obvious signs of a fight.
+你从附近的村民口中得知，失踪者大多为本地的青壮年男子。除此以外你并没有问出其它有用的信息。¤You learn from the nearby villagers that most of the missing are local young and middle-aged men. Other than that you don't ask for other useful information.
+你施展神识查探了一番，虽未检测到灵力的波动，却能明显感知到此地阴气慎重，像是有人在此处施展过什么阴毒的邪术。¤You exerted divine sense to check out some, although not detected fluctuations in spiritual power, but can clearly perceive the place Yin discreet, like someone in this place to cast what insidious evil art.
+你仔细勘察附近的环境，附近的草丛有被压倒的痕迹，地面上依稀可见斑驳的血迹和拖动的痕迹。¤You carefully survey the neighborhood, the nearby grass has been overwhelmed traces of the ground vaguely visible patches of blood and dragging marks.
 对¤Dao of 
-之道的感悟达到¤Realization of The Path
-领悟后能够提升对¤Grasp it to elevate
+之道的感悟达到¤ needs to be at the level of 
+领悟后能够提升对¤ to improve the level of
 之道、¤ Dao 
-的感悟。¤Realizations of the Way。
-你已经学习过该技能¤You have mastered the skill
-你已经学习过该功法¤You've already trained in this technique
-遁速大于18方可学习¤Speed must exceed 18m/s to learn
-你已经阅读过该丹方¤You've already read the pill recipe
-需要在突破前服用¤Take before breakthrough
-已到最大耐药性，无法服用¤Reached peak immunity，Inedible
-已经领悟过该大道书¤Grasped the Dao
-正在翻阅秘籍...¤Perusing tome...
-获得一条新的传闻¤Obtain a new rumor
+的感悟。¤ stage.
+你已经学习过该技能¤You have already studied that skill 
+你已经学习过该功法¤You have already studied that technique
+遁速大于18方可学习¤ Escape speed is greater than 18 to learn
+你已经阅读过该丹方¤You have read the pill recipe
+需要在突破前服用¤Must be taken before breakthrough
+已到最大耐药性，无法服用¤Cannot be taken : maximum pill resistance has been reached
+已经领悟过该大道书¤You already understood the Great Book
+正在翻阅秘籍...¤Reading through the secret Book...
+获得一条新的传闻¤Received a new rumor
 学会了¤Learned
-[FDE52B]需求点数：[-]¤[FDE52B]Innate Points：[-]
-[FDE52B]领悟条件：[-]对¤[FDE52B]Realizing Conditions：[-]Immortal
-[ffb143]【需求点数】[-][E0DDB4]¤[ffb143]【Required Merit Points】[-][E0DDB4]
-[ffb143]【领悟条件】[-][E0DDB4]对¤[ffb143]【Realization Conditions】[-][E0DDB4]Might
-<color=#ffb143>【领悟条件】</color>对¤<color=#ffb143>【Realization Conditions】</color>Opposing
+[FDE52B]需求点数：[-]¤[FDE52B]Required Points：[-]
+[FDE52B]领悟条件：[-]对¤[FDE52B]Conditions for comprehension：[-]对
+[ffb143]【需求点数】[-][E0DDB4]¤[ffb143]【Required Points】[-][E0DDB4]
+[ffb143]【领悟条件】[-][E0DDB4]对¤[ffb143]【Conditions for comprehension】[-][E0DDB4]对
+<color=#ffb143>【领悟条件】</color>对¤<color=#ffb143>【Conditions for comprehension】</color>
 剩{0}年¤{0}Y left
 剩{0}月¤{0}M left
 剩{0}日¤{0}D left
@@ -37,163 +37,163 @@
 年¤Year
 月¤Month
 日¤Day
-品</color>¤Esteem</color>
-之道的感悟提升<color=#¤The path to enlightenment<color=#
+品</color>¤ Grade </color>
+之道的感悟提升<color=#¤ will increase by <color=#
 </color>点¤</color> points
-已开启¤Activated
-距离事件开始还有¤Time until event starts
+已开启¤Available
+距离事件开始还有¤ still to go before the event begins
 闭关{0}年{1}月后¤After {0} years & {1} months of retreat
-可将精元凝练为{0}{1}¤Condense Essence into Essence Core{0}{1}
-[FF0000]你尚未装备主修功法修炼速度为0¤[FF0000]You have yet to cultivate a main technique, your cultivation speed is 0
-[E58E5D]功法：[-][000000]当前主修功法为《¤[E58E5D]Cultivation Technique：[-][000000]Studying the art of __《
-》修炼速度加¤》Cultivate speed
-[E58E5D]洞府：[-][000000]¤[E58E5D]Palace Cave：[-][000000]
-[E58E5D]心境：[-][000000]你当前的心境符合境界需求，闭关时能获得100%收益¤[E58E5D]Mental State：[-][000000]Your state of mind meets celestial requirements，Closed door cultivation yields 100% resultsProfits/Gains
-[E58E5D]心境：[-][000000]你当前的心境低于境界需求，闭关仅能获得{0}%收益¤[E58E5D]Mental Realm：[-][000000]Mood falls short of requirement，Seclusion leads to power{0}%Yields
-[E58E5D]心境：[-][000000]你当前的心境高于境界需求，闭关时能获得{0}%收益¤[E58E5D]Mental state akin to a waterfall: carefree and tranquil：[-][000000]Your current state transcends ordinary limits，Closing in leads to a harvest{0}%Gains/Profits
-[E58E5D]资质：[-][000000]资质增加的修炼速度为¤[E58E5D]Cultivation Base：[-][000000]Cultivation Speed Up with Improved Qualities
-天赋点不足¤Insufficient Fate Points
-[24a5d6]效果：[-]¤[24a5d6]Powerful Force：[-]
-\n\n[db9a53]说明：[-]¤\n\n[db9a53]Explanation Spell：[-]
-\n\n[db9a53]解锁：[-]¤\n\n[db9a53]Unlock：[-]
-剧情模式境界达到¤Reach peak of Plot Mode
-解锁¤Unbind
-至少选择一个天赋¤At least pick one boon
-请选择对应数目的灵根¤Choose corresponding Spirits
-天赋点不能为负数¤Negative Insights Forbidden
-下一届拍卖会时间¤Next Auction Time
-追踪传闻已过期¤Trail of Rumors has expired
-剩余时间：¤Remaining Time：
+可将精元凝练为{0}{1}¤The essence can be condensed into {0}{1}
+[FF0000]你尚未装备主修功法修炼速度为0¤[FF0000] You have not yet equipped the main cultivation technique, cultivation speed is 0
+[E58E5D]功法：[-][000000]当前主修功法为《¤[E58E5D]Kung Fu: [-][000000] Current main cultivation method is 《
+》修炼速度加¤》cultivation speed plus
+[E58E5D]洞府：[-][000000]¤[E58E5D]Cave:[-][000000]
+[E58E5D]心境：[-][000000]你当前的心境符合境界需求，闭关时能获得100%收益¤[E58E5D]State of mind: [-][000000] Your current state of mind meets the requirements of the realm, and you can gain 100% when cultivating.
+[E58E5D]心境：[-][000000]你当前的心境低于境界需求，闭关仅能获得{0}%收益¤[E58E5D] State of Mind: [-][000000] Your current state of mind is lower than the requirements of the realm, and you can only gain {0}% during cultivation.
+[E58E5D]心境：[-][000000]你当前的心境高于境界需求，闭关时能获得{0}%收益¤[E58E5D] State of Mind: [-][000000] Your current state of mind is higher than the requirements of the realm, and you will only gain {0}% during cultivation.
+[E58E5D]资质：[-][000000]资质增加的修炼速度为¤[E58E5D]Qualification:[-][000000]Aptitude increases the cultivation speed per month 
+天赋点不足¤Insufficient talent points
+[24a5d6]效果：[-]¤[24a5d6] Effect: [-]
+\n\n[db9a53]说明：[-]¤\n\n[db9a53] Description: [-]
+\n\n[db9a53]解锁：[-]¤\n\n[db9a53] Unlock: [-]
+剧情模式境界达到¤Reach 
+解锁¤ realm to unlock
+至少选择一个天赋¤Select at least one talent.
+请选择对应数目的灵根¤Correct your spirit roots selection
+天赋点不能为负数¤Talent points cannot be negative
+下一届拍卖会时间¤Next auction time
+追踪传闻已过期¤Tracked rumor has expired
+剩余时间：¤Time remaining：
 剩余¤Remaining
-提升了¤Enhancement
-降低了¤Reduced
-对你的好感度¤Affinity for you
-本地灵气：<size=34>¤Local Spirit Energy：<size=34>
-灵核数量：<size=34>¤Soul Cores：<size=34>
-探查难度：<size=34>{0}</size>（神识需求{1}）¤Exploring Difficulty：<size=34>{0}</size>（Divine Sense Requirement{1}）
-<color=#c94011>未知</color>  ¤<color=#c94011>Unknown/Mysterious</color>  
-<color=#c94011>无</color>  ¤<color=#c94011>Nothingness</color>  
-说明：¤Explanation Rune：
-药引：¤Herbal Guide：
-【药引】¤【Heavenly Guide】
-主药：¤Main Elixir：
-【主药】¤【Immortal Pill】
-辅药：¤Spirit Medicines：
-【辅药】¤【Supporting pills】
-#c449491名称：#n¤Heavenly Deity #449491：#n
-\n\n#c449491品级：#n¤Grade of Quality：#n
-<pos v=0.72 t=1>#c449491品级：#n¤Supreme Grade：#n
-品\n\n¤Concealed potential\n\n
-#c449491类型：#n矿石\n\n¤The #c449491 Type: Transcended：#nHeavenly Ore\n\n
-#c449491种类：#n¤Nine-tailed Fox Species：#n
- t=1>#c449491属性：#n¤Attribute：#n
-#c449491种类：#n未知 <pos v=0.72 t=1>#c449491属性：#n未知\n\n¤Immortal species：#nMysteryImmortal Attribute：#nMysterious\n\n
-#c449491产地：#n#c¤Source of Creation：#n#c
+提升了¤has been increased by
+降低了¤has been reduced by 
+对你的好感度¤'s opinion towards you 
+本地灵气：<size=34>¤Local Spiritual Qi ：<size=34>
+灵核数量：<size=34>¤Spirit Core Amount ：<size=34>
+探查难度：<size=34>{0}</size>（神识需求{1}）¤Searching difficulty：<size=34>{0}</size>（Required Soul Sense : {1}）
+<color=#c94011>未知</color>  ¤<color=#c94011>Unknown</color>  
+<color=#c94011>无</color>  ¤<color=#c94011>Empty</color>  
+说明：¤Description:
+药引：¤Alchemy Catalyst：
+【药引】¤【Alchemy Catalyst】
+主药：¤Main Ingredient：
+【主药】¤【Main Ingredient】
+辅药：¤Secondary Ingredient：
+【辅药】¤【Secondary Ingredient】
+#c449491名称：#n¤#c449491Name：#n
+\n\n#c449491品级：#n¤\n\n#c449491Grade：#n
+<pos v=0.72 t=1>#c449491品级：#n¤<pos v=0.72 t=1>#c449491Grade：#n
+品\n\n¤Item\n\n
+#c449491类型：#n矿石\n\n¤#c449491Type：#nOre\n\n
+#c449491种类：#n¤#c449491 Category：#n
+ t=1>#c449491属性：#n¤ t=1>#c449491Properties：#n
+#c449491种类：#n未知 <pos v=0.72 t=1>#c449491属性：#n未知\n\n¤#c449491 Category：#nUnknown <pos v=0.72 t=1>#c449491Properties：#nUnknown\n\n
+#c449491产地：#n#c¤#c449491Origin：#n#c
 未知¤Unknown
-#c449491类型：#n草药\n\n¤Realm type：#nHerbal Remedies\n\n
-#c449491主药：#n¤Divine Pill：#n
- <pos v=0.36 t=1>#c449491辅药：#n¤Auxiliary Pill：#n
- <pos v=0.72 t=1>#c449491药引：#n¤Time-bending Elixir：#n
-#c449491介绍：#n#s24¤Immortal Presentation：#n#s24
-魏无极似乎想起了什么¤Wei Wujie seemed to recall something
-获得一条新的线索¤Gain a new lead
-草药已经全部长成，但似乎已经有什么东西捷足先登了，气息似有似无，大概是一只<color=#ffe118>炼气期</color>妖兽，你决定...？¤Herbs fully matured，Something has already surpassed expectations，Vaguely palpable，Approx. a Beast<color=#ffe118>Cultivation Period</color>Demon Beast，You decide...？
-草药已经全部长成，但似乎有什么东西正在附近暗中徘徊，恐怕是一只<color=#ffe118>筑基期</color>妖兽，你决定...？¤Herbal remedies have all matured，Something lurks nearby in the shadows，Fear it be one<color=#ffe118>Foundation Establishment</color>Demon Beast，You decide...？
-下品¤Lowly/Base
-中品¤Rare Quality
+#c449491类型：#n草药\n\n¤#c449491Type：#nHerbal Medicine\n\n
+#c449491主药：#n¤#c449491Main Ingredient：#n
+ <pos v=0.36 t=1>#c449491辅药：#n¤ <pos v=0.36 t=1>#c449491Secondary Ingredient：#n
+ <pos v=0.72 t=1>#c449491药引：#n¤ <pos v=0.72 t=1>#c449491Alchemy Catalyst：#n
+#c449491介绍：#n#s24¤#c449491Introduction：#n#s24
+魏无极似乎想起了什么¤Wei Wuji seems to have remembered something
+获得一条新的线索¤Obtained a new lead
+草药已经全部长成，但似乎已经有什么东西捷足先登了，气息似有似无，大概是一只<color=#ffe118>炼气期</color>妖兽，你决定...？¤The herbs are all fully grown, but it seems something else has already beaten you to it. Its Qi aura is rather faint, probably a <color=#ffe118>Qi Refining-stage</color>demonic beast. You decide to...?
+草药已经全部长成，但似乎有什么东西正在附近暗中徘徊，恐怕是一只<color=#ffe118>筑基期</color>妖兽，你决定...？¤The herbs are all fully grown, but it seems something is lurking nearby in the dark. It's probably a <color=#ffe118>Foundation Establishment stage</color>  demonic beast. You decide to....?
+下品¤Low Grade
+中品¤Medium Grade
 上品¤High Grade
-符器¤Spirit Artifact
-法器¤Divine Artifact
-法宝¤Treasure of Law
-纯阳法宝¤Pure Yang Treasure
-通天灵宝¤Heavenly Treasure
+符器¤Talisman
+法器¤Magic Talisman
+法宝¤Artefact
+纯阳法宝¤Pure Yang Artefact
+通天灵宝¤Divine Artefact
 符器</color>¤Talisman</color>
-法器</color>¤Divine Weapon</color>
-法宝</color>¤Mystical Treasures</color>
-纯阳法宝</color>¤Divine Pure Yang Treasure</color>
-通天灵宝</color>¤Heavenly Mystic Treasure</color>
-是否请教¤Seek counsel?
-领悟了¤Realized
-\n\n#c449491属性：#n¤Attribute：#n
-\n\n#c449491消耗：#n¤Consume：#n
-请输入名称¤Enter name
-不允许有特殊字符¤No Special Characters Allowed
-回合¤Round/Cycle
-[f28125]【主动】[-] [E0DDB4]¤[f28125]【Proactive】[-] [E0DDB4]
-[333333]品级：¤[333333]Tier：
-[d3b068]悟道提升：[-]¤[d3b068]Ascension Along the Path：[-]
+法器</color>¤Magic Talisman</color>
+法宝</color>¤Artefact</color>
+纯阳法宝</color>¤Pure Yang Artefact</color>
+通天灵宝</color>¤Divine Artefact</color>
+是否请教¤Ask for advice
+领悟了¤Comprehended 
+\n\n#c449491属性：#n¤\n\n#c449491Properties：#n
+\n\n#c449491消耗：#n¤\n\n#c449491Cost：#n
+请输入名称¤Please enter a name
+不允许有特殊字符¤No special characters allowed
+回合¤ Rounds
+[f28125]【主动】[-] [E0DDB4]¤[f28125]【Initiative】[-] [E0DDB4]
+[333333]品级：¤[333333]Grade：
+[d3b068]悟道提升：[-]¤[d3b068]Enlightenment Enhancement：[-]
 【进度】¤【Progress】
-【修炼速度】¤【Cultivate Haste】
-[E0DDB4]暂无说明[-]¤[E0DDB4]No desc[-]
-\n\n#c449491类型：#n丹药¤Type#：#nElixir of Life
-\n\n#c449491耐药：#n{0}<pos v=0.68 t=1>#c449491丹毒：#n{1}¤#ResistantPoison of Scarlet Cinnabar: #c449491：#n{1}
-【耐久】¤【Endurance】
-【冷却】¤【Chilling】
-【属性】¤【Attribute】
-【耐药】¤【Resistant】
-【丹毒】¤【Poison Dan】
-【种类】¤【Variants】
-#c449491类型：#n妖兽材料\n\n¤Mystical Type：#nDemon Beasts Materials\n\n
-#c449491产出：#n#c¤Yields of #c449491：#n#c
-丹药数量不足¤Insufficient Dan
-丹炉错误¤Erroneous Danlu
-正在炼制丹药...¤Cooking elixir...
-数据异常¤Data Unusual
-\n\n#c449491基础修炼速度：#n¤# Basic Cultivation Speed：#n
-\n\n#c449491#s34介绍：#n#s24¤Mystical introduction：#n#s24
-#s28未知¤Unfathomable
-提升¤Uplift
-降低¤Decrease
-基础修炼速度:{0}¤Base Cultivation Speed:{0}
-总速度:{0}¤Speed of Light:{0}
-空¤Heavenly Void
-[FF0000]说明:[-]¤[FF0000]Explanation/Illustration:[-]
-0/年¤0/Year
-/月¤/Moon
-灵石/年¤Spirit Stone/Youth
-({0}/上限)¤({0}/Ceiling)
-悟道值满后，会获得悟道点x1,已获得（{0}/{1}）¤Attained Dao Nirvana，Gain Enlightenment Points x1,Achieved（{0}/{1}）
-<color=#DE5900>思绪：</color>¤<color=#DE5900>Thought threads：</color>
-<color=#DE5900>遗忘：</color>¤<color=#DE5900>Forgotten：</color>
-<color=#DE5900>说明：</color>对¤<color=#DE5900>Explanation of Powers：</color>Immortal
-之道的感悟提升<color=#¤Cultivation of the Way<color=#
-</color>点¤</color>Essence
-<color=#DE5900>感悟时间：</color>{0}年{1}月{2}日¤<color=#DE5900>Seize the Moment：</color>{0}Years{1}Moon{2}Sun
-房间剩余时间不足，无法感悟¤Room time remaining insufficient，Unfathomable
-正在感悟天道...¤Understanding the Dao...
-这条思绪将在¤This thought shall linger
-后被遗忘。¤Forgotten afterwards。
-<color=#ff6554>{0}日后</color>¤<color=#ff6554>{0}Later on</color>
+【修炼速度】¤【Cultivation speed】
+[E0DDB4]暂无说明[-]¤[E0DDB4]No description at this time[-]
+\n\n#c449491类型：#n丹药¤\n\n#c449491Type：#nElixir
+\n\n#c449491耐药：#n{0}<pos v=0.68 t=1>#c449491丹毒：#n{1}¤\n\n#c449491Pill resistance：#n{0}<pos v=0.68 t=1>#c449491Toxicosis：#n{1}.
+【耐久】¤【Durable】
+【冷却】¤【Cooling】
+【属性】¤【Properties】
+【耐药】¤【Pill resistance】
+【丹毒】¤【Toxicosis】
+【种类】¤【Category】
+#c449491类型：#n妖兽材料\n\n¤#c449491Type：#nDemon Beast Materials\n\n
+#c449491产出：#n#c¤#c449491Outputs：#n#c
+丹药数量不足¤Insufficient number of elixirs
+丹炉错误¤Dan Furnace Error
+正在炼制丹药...¤Making pills...
+数据异常¤Data Anomalies
+\n\n#c449491基础修炼速度：#n¤\n\n#c449491Basic Cultivation Speed：#n
+\n\n#c449491#s34介绍：#n#s24¤\n\n#c449491#s34Introduction：#n#s24
+#s28未知¤#s28Unknown
+提升¤Upgrade
+降低¤Reduction
+基础修炼速度:{0}¤Basic cultivation speed:{0}
+总速度:{0}¤Total speed:{0}
+空¤Empty
+[FF0000]说明:[-]¤[FF0000]Description:[-]
+0/年¤0/Y
+/月¤/M
+灵石/年¤Sp.St./Y
+({0}/上限)¤({0}/Upper limit)
+悟道值满后，会获得悟道点x1,已获得（{0}/{1}）¤When the enlightenment value is full, you will get enlightenment point x 1,which has been obtained （{0}/{1}）
+<color=#DE5900>思绪：</color>¤<color=#DE5900>Thoughts：</color>
+<color=#DE5900>遗忘：</color>¤<color=#DE5900>Forgot：</color>
+<color=#DE5900>说明：</color>对¤<color=#DE5900>Description：</color>
+之道的感悟提升<color=#¤Enhancement of the sense of the Way<color=#
+</color>点¤</color> Point
+<color=#DE5900>感悟时间：</color>{0}年{1}月{2}日¤<color=#DE5900>Perception of time：</color>{0}Y {1}M {2}D
+房间剩余时间不足，无法感悟¤Insufficient time left in the room for perception
+正在感悟天道...¤Being aware of the heavenly path...
+这条思绪将在¤This line of thought will be in
+后被遗忘。¤After being forgotten。
+<color=#ff6554>{0}日后</color>¤<color=#ff6554>{0}In the future</color>
 <color=#f2a16b>{0}日后</color>¤<color=#f2a16b>{0}In the future</color>
-<color=#cfcea8>{0}日后</color>¤<color=#cfcea8>{0}Later on</color>
-对你的情分¤Deep Affinity for You
-你和¤You and..
-的情分提升了¤Soul Bond Strengthened
-突破至下一阶需要：¤Break through to next level：
-<color=#dff7b1>辅</color>¤<color=#dff7b1>Aide</color>
-<color=#ffc9c1>婴</color>¤<color=#ffc9c1>Infant</color>
-<color=#c8f5eb>遁</color>¤<color=#c8f5eb>Escaping</color>
-<color=#fbed9f>主</color>¤<color=#fbed9f>Supreme Being</color>
+<color=#cfcea8>{0}日后</color>¤<color=#cfcea8>{0}In the future</color>
+对你的情分¤ affection for you
+你和¤You and 
+的情分提升了¤ experience stronger sentiments
+突破至下一阶需要：¤Breakthrough to the next level requires:
+<color=#dff7b1>辅</color>¤<color=#dff7b1>Auxiliary</color>
+<color=#ffc9c1>婴</color>¤<color=#ffc9c1>Baby</color>
+<color=#c8f5eb>遁</color>¤<color=#c8f5eb>Vanish</color>
+<color=#fbed9f>主</color>¤<color=#fbed9f>Main</color>
 突破¤Breakthrough
-房间剩余时间不足，无法进行突破¤Room Time running out，Unable to breakthrough
-正在突破功法...¤Breaking through the Arts...
-已到最大等级¤Reached Maximum Level
-后方可继续突破¤Onwards, breakthroughs await!
-正在闭关苦修...¤Cultivating in seclusion...
-是否确定请教此功法？¤Verify instructing this technique?？
-你已经领悟这个功法了¤You have grasped the technique
-你的声望不足以学习此功法¤Your renown is insufficient to learn this skill
-此乃魔道不传之密¤This is a secret of the Dao inaccessible to mortals
-你的好感度不足以学习此功法¤Your affinity isn't enough to master this technique
-你们的情分不足以学习此功法¤Your affinity is insufficient to learn this skill
-你已经领悟这个神通了¤You have mastered this technique
-你的声望不足以学习此神通¤Your cultivation is not enough to master this art
-你的声望不足以学习此神通¤Your cultivation is too low to learn this power
-你的好感度不足以学习此神通¤Your affinity is not enough to master this transcendence
-你们的情分不足以学习此神通¤Your affinity isn't enough to master this skill
-获得新的感悟¤Gain fresh enlightenment
-悟道点+{0}({1}/{2})¤Ascending to Enlightenment+{0}({1}/{2})
-({0}/极限)¤({0}/Limitless)
- <pos v=0.68 t=1>#c449491品级：#n¤ <pos v=0.68 t=1>#c449491Grade/Rank：#n
-\n\n#c449491耐药：#n未知<pos v=0.68 t=1>#c449491丹毒：#n未知¤\n\n#c449491Resistant：#nUnknown<pos v=0.68 t=1>#c449491Poison Dan：#nUnknown
-未知#n¤Unknown#n
+房间剩余时间不足，无法进行突破¤Insufficient time left in the room to make a breakthrough
+正在突破功法...¤Martial Arts Breakthrough underway...
+已到最大等级¤Maximum level has been reached
+后方可继续突破¤Breakthrough can continue after
+正在闭关苦修...¤In retreat...
+是否确定请教此功法？¤Are you sure you want to teach this technique?
+你已经领悟这个功法了¤You have comprehended this technique
+你的声望不足以学习此功法¤Your reputation is not enough to learn this technique
+此乃魔道不传之密¤This is the untold secret of the Devil's Way
+你的好感度不足以学习此功法¤Your Divine sense is not enough to learn this technique
+你们的情分不足以学习此功法¤Your love is not enough to learn this technique
+你已经领悟这个神通了¤You have comprehended this ability
+你的声望不足以学习此神通¤Your reputation is not enough to learn this ability
+你的声望不足以学习此神通¤Your reputation is not enough to learn this ability
+你的好感度不足以学习此神通¤You do not have enough Divine sense to learn this ability
+你们的情分不足以学习此神通¤Your love is not enough to learn this magic power
+获得新的感悟¤Gaining new insights
+悟道点+{0}({1}/{2})¤Gnosis Points+{0}({1}/{2})
+({0}/极限)¤({0}/Max)
+ <pos v=0.68 t=1>#c449491品级：#n¤ <pos v=0.68 t=1>#c449491Grade：#n
+\n\n#c449491耐药：#n未知<pos v=0.68 t=1>#c449491丹毒：#n未知¤\n\n#c449491Drug Resistance：#n未知<pos v=0.68 t=1>#c449491Toxicosis：#nUnknown
+未知#n¤Unknown #n

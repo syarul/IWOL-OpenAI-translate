@@ -2,36 +2,36 @@
 魏无极¤Wei Wuji
 玄道宗长老¤Mystic Dao Sect Elder
 玄道宗弟子¤Mystic Dao Sect Disciple
-金虹剑派宗主¤Radiant Sect Master
-金虹剑派太上长老¤Radiant Sect Supreme Elder
-金虹剑派大长老¤Radiant Sect Grand Elder
-金虹剑派供奉¤Radiant Sect Guest Elder
-金虹剑派长老¤Radiant Sect Sect Elder
+金虹剑派宗主¤Golden Rainbow Sword Sect Master
+金虹剑派太上长老¤Golden Rainbow Sword Sect Supreme Elder
+金虹剑派大长老¤Golden Rainbow Sword Sect Grand Elder
+金虹剑派供奉¤Golden Rainbow Sword Sect Guest Elder
+金虹剑派长老¤Golden Rainbow Sword Sect Sect Elder
 外门传功长老¤Outer Sect Instructor Elder
 藏经阁执事¤Library Deacon
 丹房执事¤Alchemy Deacon
-金虹剑派执事¤Radiant Sect Deacon
-金虹剑派大师兄¤Radiant Sect Senior Brother
-金虹剑派执法弟子¤Radiant Sect Enforcer Disciple
+金虹剑派执事¤Golden Rainbow Sword Sect Deacon
+金虹剑派大师兄¤Golden Rainbow Sword Sect Senior Brother
+金虹剑派执法弟子¤Golden Rainbow Sword Sect Enforcer Disciple
 铸剑堂执事¤Sword Smithing Hall Deacon
-金虹剑派内门弟子¤Radiant Sect Inner Disciple
-金虹剑派弟子¤Radiant Sect Disciple
-金虹剑派外门弟子¤Radiant Sect Outer Disciple
+金虹剑派内门弟子¤Golden Rainbow Sword Sect Inner Disciple
+金虹剑派弟子¤Golden Rainbow Sword Sect Disciple
+金虹剑派外门弟子¤Golden Rainbow Sword Sect Outer Disciple
 徐凡¤Xu Fan
-竹山宗宗主¤Bamboo Sect Master
-竹山宗太上长老¤Bamboo Sect Supreme Elder
-竹山宗大长老¤Bamboo Sect Grand Elder
-竹山宗供奉¤Bamboo Sect Guest Elder
-竹山宗长老¤Bamboo Sect Elder
-竹山宗执法弟子¤Bamboo Sect Enforcer Disciple
-竹山宗执事¤Bamboo Sect Deacon
-竹山宗内门弟子¤Bamboo Sect Inner Disciple
-竹山宗外门弟子1¤Bamboo Sect Outer Disciple 1
-竹山宗外门弟子2¤Bamboo Sect Outer Disciple 2
-竹山宗外门弟子3¤Bamboo Sect Outer Disciple 3
-竹山宗外门弟子4¤Bamboo Sect Outer Disciple 4
-竹山宗外门弟子5¤Bamboo Sect Outer Disciple 5
-竹山宗执事1¤Bamboo Sect Deacon 1
+竹山宗宗主¤Bamboo Mountain Sect Master
+竹山宗太上长老¤Bamboo Mountain Sect Supreme Elder
+竹山宗大长老¤Bamboo Mountain Sect Grand Elder
+竹山宗供奉¤Bamboo Mountain Sect Guest Elder
+竹山宗长老¤Bamboo Mountain Sect Elder
+竹山宗执法弟子¤Bamboo Mountain Sect Enforcer Disciple
+竹山宗执事¤Bamboo Mountain Sect Deacon
+竹山宗内门弟子¤Bamboo Mountain Sect Inner Disciple
+竹山宗外门弟子1¤Bamboo Mountain Sect Outer Disciple 1
+竹山宗外门弟子2¤Bamboo Mountain Sect Outer Disciple 2
+竹山宗外门弟子3¤Bamboo Mountain Sect Outer Disciple 3
+竹山宗外门弟子4¤Bamboo Mountain Sect Outer Disciple 4
+竹山宗外门弟子5¤Bamboo Mountain Sect Outer Disciple 5
+竹山宗执事1¤Bamboo Mountain Sect Deacon 1
 长眉真人¤Paragon Long Brows
 外门执事¤Outer Sect Deacon
 药田执事¤Herbs Field Deacon
@@ -89,16 +89,16 @@
 炎鹤¤Fliery Crane
 天蟾子¤Heavenly Toad
 绝焰堂执事¤Absolute Flame Hall Deacon
-化尘教教主¤Sands School Master
-化尘教长老¤Sands School Elder
-化尘教护法¤Sands School Guardian
-化尘教执事¤Sands School Deacon
+化尘教教主¤Shifting Sand Sect Master
+化尘教长老¤Shifting Sand Sect Elder
+化尘教护法¤Shifting Sand Sect Guardian
+化尘教执事¤Shifting Sand Sect Deacon
 兑换执事¤Exchange Deacon
-化尘教大师姐¤Sands School Eldest Sister
-化尘教执法弟子¤Sands School Enforcer Disciple
-化尘教外务执事¤Sands School Exterior Deacon
-化尘教弟子¤Sands School Disciple
-化尘教外门弟子¤Sands School Outer Disciple
+化尘教大师姐¤Shifting Sand Sect Eldest Sister
+化尘教执法弟子¤Shifting Sand Sect Enforcer Disciple
+化尘教外务执事¤Shifting Sand Sect Exterior Deacon
+化尘教弟子¤Shifting Sand Sect Disciple
+化尘教外门弟子¤Shifting Sand Sect Outer Disciple
 赤发鬼¤Red-haired Ghost
 青面鬼¤Green-faced Ghost
 石涌液¤Shi Yongliu
@@ -713,7 +713,7 @@
 明河剑仙¤Swordmaster Radiant River
 玄阴剑仙¤Sword Immortal XuanYin
 铸剑阁执事¤Zhujian Pavilion Deacon
-金虹剑派外务执事¤Radiant Sect Exterior Deacon
+金虹剑派外务执事¤Golden Rainbow Sword Sect Exterior Deacon
 青竹道人¤Lord Azure Bamboo
 紫菱仙子¤Fairy Ziling
 马¤Horse
@@ -722,11 +722,11 @@
 药田长老¤Herbs Field Elder
 毒道人¤Poisonous Taoist
 马清楠¤Ma Qingnan
-竹山宗首席弟子¤Bamboo Sect Head Disciple
-竹山宗外务执事¤Bamboo Sect Exterior Deacon
+竹山宗首席弟子¤Bamboo Mountain Sect Head Disciple
+竹山宗外务执事¤Bamboo Mountain Sect Exterior Deacon
 唐森¤Tang Sen
 邢兴星¤Xing Xing Xing
-竹山宗外门弟子¤Bamboo Sect Outer Disciple
+竹山宗外门弟子¤Bamboo Mountain Sect Outer Disciple
 幻雾阵灵体¤Mirage Mist Array Spirit
 灵壹¤Spirit 1
 灵贰¤Spirit 2
@@ -757,10 +757,10 @@
 绝焰堂大长老¤Absolute Flame Hall Supreme Elder
 绝焰堂长老¤Absolute Flame Hall Elder
 晟慧真君¤Cheng Hui Scholar
-化尘教大长老¤Shifting Sands School Grand Elder
+化尘教大长老¤Shifting Sand Sect Grand Elder
 恒如真人¤Paragon Eternal Harmony
 澹台仙¤Immortal Arena Tan
-化尘教内门弟子¤Shifting Sands School Inner Disciple
+化尘教内门弟子¤Shifting Sand Sect Inner Disciple
 云秋兰¤Yun QiuLan
 沂山派首领¤Mt. Yi Sect Leader
 禾山道修士¤Mt. Harvest Sect Cultivator
@@ -878,11 +878,11 @@
 星宫叛徒¤Traitor of the Star Palace
 血剑仙¤Blood Sword Immortal
 倪家长子¤Ni family Eldest Son
-竹山宗掌门¤Bamboo Sect Headmaster
+竹山宗掌门¤Bamboo Mountain Sect Headmaster
 离火门掌门¤Fire Gate Master
 金虹剑派掌门¤Radiant Sword Sect Headmaster
 星河剑派掌门¤Celestial River Sect Headmaster
-化尘教掌门¤Shifting Sands School Headmaster
+化尘教掌门¤Shifting Sand Sect Headmaster
 毕长寿¤Bi Changshou
 百毒老怪¤Hundred Poisonous Old Monster
 黑木老魔¤Blackwood Old Devil
@@ -1069,8 +1069,8 @@ boss战¤boss battle
 麻老九在禾山道内地位颇高，帮他办成一些事也许可以获得不少的好处。¤Ma Lao Jiu who has a high position in Heshan Sect, if you're able to help him with some tasks you may get a lot of benefits.
 宗门大比与猎魔试炼¤Sect Competition and Demon Hunting Trial
 杜老二在沂山派内地位颇高，帮他办成一些事也许可以获得不少的好处。¤Old Du has a high position in Mt. Yi Sect, if you're able to help him with some tasks you may get a lot of benefits.
-竹山宗流派师承¤Bamboo Sect heritage
-竹山宗传功长老¤Bamboo Sect Instructor Elder
+竹山宗流派师承¤Bamboo Mountain Sect heritage
+竹山宗传功长老¤Bamboo Mountain Sect Instructor Elder
 将修为提升至筑基期¤Raise your cultivation level to the Foundation Establishment stage
 将修为提升至金丹期¤Raise your cultivation stage to the Golden Core stage
 将修为提升至元婴期¤Raise your cultivation stage to the Nascent Soul stage
@@ -1104,7 +1104,7 @@ boss战¤boss battle
 百里府长老¤Baili Manor Elder
 公孙府长老¤Gongsun Manor Elder
 光泓剑仙¤Sword Immortal GuangHong
-竹山宗大师兄¤Bamboo Sect Eldest Brother
+竹山宗大师兄¤Bamboo Mountain Sect Eldest Brother
 碧霄道人¤Jade Heaven Taoist
 容舒剑仙¤Sword Immortal Rongshu
 阳明真君¤Yang Ming Scholar
@@ -1152,8 +1152,8 @@ boss战¤boss battle
 修行仅靠闭关枯坐是不够的，若是神通施展熟练，即便是修为高过自己的修士也未必不能胜之。¤As a Cultivator, it is not enough to just cultivate in seclusion, if not enough real experience, when oneself facing same level Cultivator, may not be able to defeat him.
 修行靠的是机缘，若能寻得一处洞天福地，或是找到上古遗迹，所能得到的好处远胜过普通人苦修数十载。¤What's most important to most Cultivator is opportunity. If you can find an artifact or an ancient relic, the benefits you can get will exceed the hard work of ordinary people.
 这世上修真者众多，修炼的资源却有限的很。只有自身的实力足够强大，才有资格占有这些资源。¤There are many Cultivator in this world, but the resources for cultivation are very limited. Only the one that is strongest can dominate all of these resources.
-竹山宗外门执事¤Bamboo Sect Outer Deacon
-竹山宗内门执事¤Bamboo Sect Inner Deacon
+竹山宗外门执事¤Bamboo Mountain Sect Outer Deacon
+竹山宗内门执事¤Bamboo Mountain Sect Inner Deacon
 金虹剑派外门执事¤Radiant Sword Sect Outer Deacon
 金虹剑派内门执事¤Radiant Sword Sect Inner Deacon
 金虹剑派首席弟子¤Radiant Sword Sect Head Disciple
@@ -1162,9 +1162,9 @@ boss战¤boss battle
 离火门外门执事¤Heavenly Fire Gate Outer Deacon
 离火门内门执事¤Heavenly Fire Gate Inner Deacon
 离火门首席弟子¤Fire Gate Head Disciple
-化尘教外门执事¤Shifting Sands School Outer Deacon
-化尘教内门执事¤Shifting Sands School Deacon
-化尘教首席弟子¤Shifting Sands School Head Disciple
+化尘教外门执事¤Shifting Sand Sect Outer Deacon
+化尘教内门执事¤Shifting Sand Sect Deacon
+化尘教首席弟子¤Shifting Sand Sect Head Disciple
 倪府修士¤Ni Family Cultivator 
 林府修士¤Lin Family Cultivator 
 百里府修士¤Baili House Cultivator
@@ -1181,7 +1181,7 @@ boss战¤boss battle
 万魂殿弟子¤Disciple of the Hall of Souls
 万魂殿尊者¤Venerable Hall of Souls
 万魂殿天尊¤Ten Thousand Souls Temple
-化尘教太上长老¤The Supreme Elder of the Shifting Sands School
+化尘教太上长老¤The Supreme Elder of the Shifting Sand Sect
 林¤Lin
 在游历时偶有思绪，对大道有了新的感悟，进入了顿悟的状态。¤Occasional thoughts during the wanderings led to new insights into the Way and to a state of epiphany.
 游历时闯入兽王巢穴，因实力不足而诛妖不成反受重伤，用尽底牌方逃出生天。¤He entered a beast king's lair during his travels and was seriously injured when he failed to kill the demon due to his lack of strength.
@@ -1368,7 +1368,7 @@ boss战¤boss battle
 回合开始时，恢复（attack）点生命值¤At the start of the round, restore （attack） life points
 霜天寒月阵¤Frosty Sky and Cold Moon Array
 回合开始时，敌方获得【霜冻】*（attack）¤At the start of the round, the enemy gains 【Frostbite】* （attack）
-星河剑阵¤Star River Sword Array
+星河剑阵¤Celestial River Sword Array
 回合结束时，获得【振剑】*（attack）¤At the end of the round, get 【Zhenjian】*（attack）
 土葬迷尘阵¤Earth Burying Dust Array
 每次释放【还尘】后，获得【护罩】*（attack）¤After each release of 【Return Dust】, gain 【Shield】*（attack）
@@ -2479,7 +2479,7 @@ boss战¤boss battle
 主动：本回合每使用一次金剑系技能，获得【剑气】*1¤Active: Every time you use a Golden Sword skill in this round, you gain 【Sword Qi】*1
 青竹剑¤Green Bamboo Sword
 主动：本回合每使用一次木剑系技能，获得【剑气】*1¤Active: Every time you use Wooden Sword skill this turn, you will receive 【Sword Qi】*1
-星河剑¤Star River Sword
+星河剑¤Celestial River Sword
 主动：本回合每使用一次水剑系技能，获得【剑气】*1¤Active: For every use of Water Sword skill this turn, you will receive 【Sword Qi】*1
 离火剑¤Fire Sword
 主动：本回合每使用一次火剑系技能，获得【剑气】*1¤Active: For every use of Fire Sword skill this turn, you will receive 【Sword Qi】*1
@@ -2503,7 +2503,7 @@ boss战¤boss battle
 提升金系权重5点¤Increase the weight of Metal by 5 points
 竹山道袍¤Bamboo Mountain Daoist Robe
 提升木系权重5点¤Increase the weight of Wood by 5 points
-星河道袍¤Star River Robe
+星河道袍¤Celestial River Robe
 提升水系权重5点¤Increase the weight of Water by 5 points
 离火道袍¤Heavenly Fire Robe
 提升火系权重5点¤Increase the weight of Fire by 5 points
@@ -2990,7 +2990,7 @@ boss战¤boss battle
 每40层获得【金虹阵法·增伤】*1¤Gain 【Radiant - Increasing Damage】*1 for every 40 tier
 金虹阵法·增伤¤Radiant Array-Injury Increment
 每层获得10%受伤增伤¤Receive 10% injury increase per layer
-金虹护山大阵¤Radiant Sect Mountain Protection Array
+金虹护山大阵¤Golden Rainbow Sword Sect Mountain Protection Array
 金虹剑派护山大阵。\n获得50%减伤；\n每受到一定伤害获得10%受伤增伤；\n每受到一定伤害，下回合获得【蓄力】*1。¤Radiant Sword Sect Mountain Protection Formation. \nGet 50% damage reduction; \nGet 10% damage boost for every certain damage taken; \nGet 【Power Surge】 *1 next turn for every certain damage taken.
 星河护山大阵¤Celestial River Mountain Protection Array
 星河剑派护山大阵。\n攻击时获得等额吸血；\n溢出治疗量造成等额伤害；\n战斗开始时获得【护罩】*800；\n每次使用技能造成【真实伤害】*10¤Celestial River Sect Mountain Protection Array. \n gain equal blood absorption when striking; \n overflow healing amount to deal equal damage; \n gain 【Shield】*800 at the beginning of the battle; \n deal 【true damage】*10 every time you use skills
@@ -3002,7 +3002,7 @@ boss战¤boss battle
 星河·真伤2¤Celestial River - True Damage 2
 对自己造成【真实伤害】*1¤Deals 【True Damage】*1 to yourself
 化尘护山大阵¤Dusty Mountain Protection Array
-化尘教护山大阵。\n回合开始时获得一定【尘】，每回合递减10；\n战斗开始时获得99%减伤，每回合递减33%；\n第三回合开始时,受伤增伤20%；\n每回合开始时获得土灵气*6。¤The Great Mountain Protection Formation of the Shifting Sands School. \n Gain a certain amount of 【Dust】 at the start of the round, decreasing by 10 each round; \n Gain 99% damage reduction at the start of the battle, decreasing by 33% each round; \n Gain a 20% increase in damage at the start of the third round; \n Gain Earth Qi*6 at the start of each round.
+化尘教护山大阵。\n回合开始时获得一定【尘】，每回合递减10；\n战斗开始时获得99%减伤，每回合递减33%；\n第三回合开始时,受伤增伤20%；\n每回合开始时获得土灵气*6。¤The Great Mountain Protection Formation of the Shifting Sand Sect. \n Gain a certain amount of 【Dust】 at the start of the round, decreasing by 10 each round; \n Gain 99% damage reduction at the start of the battle, decreasing by 33% each round; \n Gain a 20% increase in damage at the start of the third round; \n Gain Earth Qi*6 at the start of each round.
 化尘·聚沙成塔¤Dust - Gathering sand into a tower
 回合开始时获得【尘】*10¤Gain 【Dust】*10 at the beginning of the round
 化尘·减伤¤Dust - Damage Reduction
@@ -4868,11 +4868,11 @@ npc白板-印¤npc Whiteboard-Seal
 你在天机阁交易会上寄换的宝物已经成功交易，此物应当已随传音符附带的储物袋送于道友手中。¤The treasure you sent for at the Heavens Secrets Pavilion trade fair has been successfully traded, and this item should have been sent to you with the storage bag attached to the voice transmission talisman.
 多谢道友，此物正是我急需。¤Thank you, friend, this is exactly what I need most.
 此物虽不是我急需，但还是多谢道友了。¤This item is not something I need badly, but thank you very much.
-竹山宗¤Bamboo Sect
-金虹剑派¤Radiant Sect
-星河剑派¤River Sect
+竹山宗¤Bamboo Mountain Sect
+金虹剑派¤Golden Rainbow Sword Sect
+星河剑派¤Celestial River Sect
 离火门¤Fire Gate
-化尘教¤Sands School
+化尘教¤Shifting Sand Sect
 ...（对方或是在闭关、探索秘境，暂时没法答复你。）¤... （The other person is either in seclusion or exploring a secret realm and cannot answer you at the moment.）
 {FirstName}{daoyou}，我正在{DiDian}采集药草准备炼丹，你若是有事可来此与我相聚。¤{FirstName}{daoyou}, I'm {DiDian} gathering herbs for my alchemy, if you have something to do, come and meet me here.
 {FirstName}{daoyou}，我正在{DiDian}采集矿物准备炼器，你若是有事可来此与我相聚。¤{FirstName}{daoyou}, I'm gathering minerals for my weapons.
@@ -6682,7 +6682,7 @@ npc白板-印¤npc Whiteboard-Seal
 获得【蓄势】*10¤Get 【Gathered Force】*10
 尘葫¤Dust Gourd
 获得【尘】*6¤Get 【Dust】*6
-以灵气温养的葫芦，用于储存灵尘，别派得之无用，却是化尘教入门弟子必备之物。¤A gourd raised with spiritual air, used for storing spiritual dust, useless for other sects, but a must for initiates of the Shifting Sands School.
+以灵气温养的葫芦，用于储存灵尘，别派得之无用，却是化尘教入门弟子必备之物。¤A gourd raised with spiritual air, used for storing spiritual dust, useless for other sects, but a must for initiates of the Shifting Sand Sect.
 主动：自身获得【驭金】*3¤Active: Self gains 【Metal Control】*3
 金虹剑派的制式法器，由铸剑峰铸造，剑身的七星纹路更是仙气十足，不过剑派弟子多是养剑一脉，故门内不是很受欢迎。¤This is the standard weapon of the Radiant Sword Sect, forged by the Sword Casting Peak, and the seven-star pattern on the sword's body is very fairy-like, but the Disciple of the school are mostly of the sword-raising lineage, so it is not very popular within the school.
 乙木钟¤Ethereal Bell
@@ -6693,7 +6693,7 @@ npc白板-印¤npc Whiteboard-Seal
 主动：自身获得【驭火】*3¤Active: Self gains 【Fire Control】*3
 离火门的制式法器，用料虽是普通，但于麒麟火中淬炼而成，深得离火门普通弟子喜爱。¤This is the standard weapon of the Heavenly Fire Gate. Although it is made of ordinary materials, it is refined in the Qilin fire and is much loved by the Disciple of the Heavenly Fire Gate.
 主动：自身获得【驭土】*3¤Active: Self gains【Earth Control】*3
-化尘教的制式法器，一柄厚重无锋的石剑，重剑无锋却亦是契合化尘教的功法。¤A heavy, bladeless stone sword that fits in with the techniques of the Shifting Sands School.
+化尘教的制式法器，一柄厚重无锋的石剑，重剑无锋却亦是契合化尘教的功法。¤A heavy, bladeless stone sword that fits in with the techniques of the Shifting Sand Sect.
 以上乘金晶淬炼而成的金系法器，杀气毕露，以灵气驱使时有如一道金光。¤A golden magic weapon hardened with superior gold crystals, it has a murderous aura and is like a golden light when driven by Qi.
 太乙奎木的藤蔓炼制的木系法器，狂野繁茂，在驱使时仿佛能自我生长一般。¤The wood magic weapon, refined from the vines of the Taiyi Kui wood, is wild and luxuriant, and seems to grow on its own when used.
 青石镇流水白玉形成的水系法器，冰肌玉骨，即使只是佩戴都能使得周围降温并变得湿润。¤A water magic weapon formed from the flowing white jade of Qing Shi Zhen, with icy skin and jade bones that cools and moistens the surrounding area even when just worn.
@@ -6743,7 +6743,7 @@ npc白板-印¤npc Whiteboard-Seal
 以凤鸣铁为骨炼制的金属性环类法宝。拥有越用越强的力量。¤A metallic ring-like magic treasure made from the bones of phoenix iron. It has the power to grow stronger the more you use it.
 尘匣¤Dust Box
 获得【尘】*15¤Gain 【Dust】*15
-以灵砂炼制的匣子，比之尘葫强力许多，是化尘教内门弟子制式法宝。¤A box made of spiritual sand, much more powerful than the Dust Gourd, it is a magic treasure made by the inner Disciple of the Shifting Sands School.
+以灵砂炼制的匣子，比之尘葫强力许多，是化尘教内门弟子制式法宝。¤A box made of spiritual sand, much more powerful than the Dust Gourd, it is a magic treasure made by the inner Disciple of the Shifting Sand Sect.
 六阳封神幡¤Six Suns Seal God Streamer
 造成15点神识伤害，若以此法消灭50个敌人，则此伤害翻倍¤Deals 15 points of Soul Sense damage, this damage is doubled if 50 enemies are destroyed with this method
 饰以六个阳炎石的强力法宝，虽然号称封神幡，但能力只是封印周围空间。¤A powerful magic treasure adorned with six yang-yan stones, although it is called the God Sealing Streamer, its ability is only to seal the space around it.
@@ -6759,7 +6759,7 @@ npc白板-印¤npc Whiteboard-Seal
 本回合每使用一次火系技能，获得【剑气】*2¤For every use of Fire skill this turn, gain 【Sword Qi】*2
 离火门的特色法宝，剑身融入火麒麟鳞片，以麒麟火淬炼之后更是剑气逼人。¤A special magic weapon of the Heavenly Fire Gate, the sword is infused with fire qilin scales and is even more powerful after being refined with qilin fire.
 本回合每使用一次土系技能，获得【剑气】*2¤For every use of Earth skill this turn, gain 【Sword Qi】*2
-化尘教的特色法宝，以锋锐著称，但不合适大多数化尘教修士的修行之道，所以即使在化尘教内部亦是少有人问津。¤This is a special magic weapon of the Shifting Sands School, known for its sharpness, but it is not suitable for most of their cultivators, so even within the Shifting Sands School, it is rarely used.
+化尘教的特色法宝，以锋锐著称，但不合适大多数化尘教修士的修行之道，所以即使在化尘教内部亦是少有人问津。¤This is a special magic weapon of the Shifting Sand Sect, known for its sharpness, but it is not suitable for most of their cultivators, so even within the Shifting Sand Sect, it is rarely used.
 血煞剑¤Bloodshed Sword
 下一次释放的技能获得【吸血】¤The next skill released gains 【blood-sucking】
 魔道法宝，炼制时加入汲血晶，能从敌人的伤口汲取血气温养自身。¤A devilish magic weapon made with blood-drawing crystals that can draw blood from an enemy's wounds to nourish itself.
@@ -6798,7 +6798,7 @@ npc白板-印¤npc Whiteboard-Seal
 主动：本回合每使用一次火剑系技能，获得【剑气】*2¤Active: For every use of Fire Sword skill this turn, gain 【Sword Qi】*2
 化尘剑¤Transmigration Earth Sword
 主动：本回合每使用一次土剑系技能，获得【剑气】*2¤Active: Every time you use an earth sword skill this turn, you gain 【Sword Qi】*2
-化尘教的特色法宝，以锋锐著称，即使在化尘教内部亦是少有人问津。¤A special magic weapon of the Shifting Sands School, known for its sharpness, it is rarely used even within the Cult.
+化尘教的特色法宝，以锋锐著称，即使在化尘教内部亦是少有人问津。¤A special magic weapon of the Shifting Sand Sect, known for its sharpness, it is rarely used even within the Cult.
 灵尘匣¤Spirit Dust Box
 获得【尘】*72¤Get 【Dust】*72
 珍贵材料炼制的法宝，能炼化储存大量灵尘。¤A magic treasure made of precious materials, capable of refining and storing large amounts of spiritual dust.
@@ -6820,7 +6820,7 @@ npc白板-印¤npc Whiteboard-Seal
 由珍惜灵兽的毛发炼制而成，可勾勒威力强大的符文。战斗时，每使用一点灵气，对敌方造成1点伤害。¤Refined from the hair of cherished spirit beasts, it can outline powerful runes. During combat, every bit of Qi used will deal 1 damage to the enemy.
 青萍剑¤Green Ping Sword
 每有一点灵气，对敌方造成1点伤害。¤Every little Qi deals 1 damage to the enemy.
-星河仙子的佩剑之一，留于此界，持剑者体内灵气充裕之时，所向睥睨。¤One of the swords of the Star River Fairy, left in this realm, when the bearer's body is full of Qi, it is unstoppable.
+星河仙子的佩剑之一，留于此界，持剑者体内灵气充裕之时，所向睥睨。¤One of the swords of the Celestial River Fairy, left in this realm, when the bearer's body is full of Qi, it is unstoppable.
 玄金剑罗¤Xuan Jin Jian Luo
 造成80点剑系伤害，获得【剑气】*2¤Deal 80 sword damage and gain 【Sword Qi】*2
 玄金炼制的罗盘，大量飞剑层叠藏匿其中。一旦释放，剑海如雨，势不可挡！¤A compass made of arcane metal, in which a large number of flying swords are hidden in layers. Once unleashed, the sea of swords is like rain, unstoppable!
@@ -6868,7 +6868,7 @@ npc白板-印¤npc Whiteboard-Seal
 竹山宗普通弟子穿的道袍，道心竹雕，工艺繁复，本身便蕴含了安神养神的阵法于其中。¤The Daoist robe worn by the ordinary Disciple of the Bamboo Mountain Sect is intricately carved with bamboo, and contains a spiritual formation to calm and nourish the spirit.
 星河剑派普通弟子穿的道袍，门内弟子按星宿又略有不同，在结阵时千变万化而不乱，全靠了这独特的道袍设计。¤The robe worn by the ordinary Disciple of the Celestial River Sect is slightly different according to the astrological signs, and the unique design of the robe is the reason why the Disciple of the sect are so versatile in their formation.
 离火门普通弟子穿的道袍，有凝聚火灵气的作用，因此御寒性能极佳。¤The Daoist robe worn by ordinary disciples of the Heavenly Fire Gate, has the effect of condensing fire aura and is therefore excellent in keeping out the cold.
-化尘教普通弟子穿的道袍，飘逸洒脱充满了异域风情，从编结上能看出弟子在门内的资历。¤The daoist robe worn by ordinary Disciple of the Shifting Sands School is flowing and exotic, and the knotting reveals the disciple's seniority within the sect.
+化尘教普通弟子穿的道袍，飘逸洒脱充满了异域风情，从编结上能看出弟子在门内的资历。¤The daoist robe worn by ordinary Disciple of the Shifting Sand Sect is flowing and exotic, and the knotting reveals the disciple's seniority within the sect.
 自身获得【御火】*3¤Gain【Fire resistance】*3
 “冰茧煜煜，哺氲扬寒”著名的天机阁厌胜灵符，可铸成冰茧抵御火焰。¤'The ice cocoon is dazzling, dense with cold'' is the famous Tian Ji Ge aversion spirit talisman, which can be forged into an ice cocoon to resist flames.
 自身获得【御土】*3¤Gain【Earth resistance】*3
@@ -7166,7 +7166,7 @@ npc白板-印¤npc Whiteboard-Seal
 辰星剑¤Cinnabar Sword
 主动：造成180点水剑系伤害¤Active: Deals 180 water sword damage
 上品纯阳法宝，星河剑派所炼制的五柄成套飞剑之一。¤A top-grade pure Yang magic treasure, one of the five sets of flying swords made by the Celestial River Sect.
-星河¤Star River
+星河¤Celestial River
 主动：造成36点水剑系伤害¤Active: Deal 36 water sword damage
 师父送你的见面礼。此剑驱使之时似有星河相伴，美不胜收，乃是不可多得的上品法器。据说是玄伶仙子年轻时所用，以此剑闻名天下，是师父最心爱的法器。¤This is a gift from your master. When you use this sword, it seems to be accompanied by a celestial river, and it is a rare weapon of the highest quality. It is said to have been used by Fairy Xuan Ling when she was young, and it is famous throughout the world.
 漪涟¤Ripples
@@ -7273,22 +7273,22 @@ npc白板-印¤npc Whiteboard-Seal
 主动：造成6点火系伤害¤Active: Deal 6 points of fire damage
 化尘环¤Shifting Sands Ring
 主动：获得【尘】*6¤Active: Obtain 【Dust】*6
-由化尘教神兵阁弟子所炼制的上品符器，其上铭刻聚灵符文。¤A top-grade talismanic weapon made by a disciple of the Divine Warrior Pavilion of the Shifting Sands School, inscribed with the Spirit Gathering Rune.
+由化尘教神兵阁弟子所炼制的上品符器，其上铭刻聚灵符文。¤A top-grade talismanic weapon made by a disciple of the Divine Warrior Pavilion of the Shifting Sand Sect, inscribed with the Spirit Gathering Rune.
 化沙针¤Sand Needle
 主动：敌方获得【沙】*6¤Active: The enemy gets 【Sand】*6
 岩晶匣¤Crystal Box
 主动：获得【振土】*10¤Active: Obtain【Earth Resonance】*10
 缚沙针¤Sand Binding Needle
 主动：敌方获得【沙】*10¤Active: The enemy gets 【Sand】*10
-由化尘教神兵阁执事所炼制的下品法器，其上铭刻聚灵符文。¤A lower-grade magic weapon made by the Deacon of the Divine Armament Pavilion of the Shifting Sands School, with spirit gathering runes inscribed on it.
+由化尘教神兵阁执事所炼制的下品法器，其上铭刻聚灵符文。¤A lower-grade magic weapon made by the Deacon of the Divine Armament Pavilion of the Shifting Sand Sect, with spirit gathering runes inscribed on it.
 灵沙剑¤Spiritual Sand Sword
 主动：造成4点土系伤害，敌方获得【沙】*10¤Active: Deal 4 Earth damage, the enemy gains 【Sand】*10
-由化尘教神兵阁执事所炼制的中品法器，其上铭刻聚灵符文。¤A medium-grade magic weapon made by the Deacon of the Divine Armament Pavilion of the Shifting Sands School, inscribed with the Spirit Gathering Rune.
+由化尘教神兵阁执事所炼制的中品法器，其上铭刻聚灵符文。¤A medium-grade magic weapon made by the Deacon of the Divine Armament Pavilion of the Shifting Sand Sect, inscribed with the Spirit Gathering Rune.
 聚尘环¤Dust Gathering Ring
 主动：获得【振土】*8、【尘】*10¤Active: Obtain【Earth Resonance】*8、【Dust】*10
 土灵匣¤Earthen Spirit box
 主动：获得【振土】*18¤Active: Get 【vibration Earth】*18
-由化尘教神兵阁执事所炼制的上品法器，其上铭刻聚灵符文。¤A top-grade magic weapon made by the Deacon of the Divine Arms Pavilion of the Shifting Sands School, with the Spirit Gathering Rune inscribed on it.
+由化尘教神兵阁执事所炼制的上品法器，其上铭刻聚灵符文。¤A top-grade magic weapon made by the Deacon of the Divine Arms Pavilion of the Shifting Sand Sect, with the Spirit Gathering Rune inscribed on it.
 土障匣¤Earthern Barrier strongbox
 主动：获得【减伤】*3¤Active: Gain 【Damage Reduction】*3
 悬沙剑¤Hanging Sand Sword
@@ -7296,12 +7296,12 @@ npc白板-印¤npc Whiteboard-Seal
 尘岩环¤Dust Rock Ring
 炼尘环¤Dust Ring
 主动：获得【尘】*24¤Active: Get 【Dust】*24
-由化尘教神兵阁长老所炼制的下品法宝，其上铭刻聚灵符文。¤A lower grade magic treasure made by the Elder of the Divine Arms Pavilion of the Shifting Sands School, with the Spirit Gathering Rune inscribed on it.
+由化尘教神兵阁长老所炼制的下品法宝，其上铭刻聚灵符文。¤A lower grade magic treasure made by the Elder of the Divine Arms Pavilion of the Shifting Sand Sect, with the Spirit Gathering Rune inscribed on it.
 重土匣¤Heavy Soil box
 主动：获得【减伤】*6¤Active: Obtain 【Damage Reduction】*6
 化岩钟¤Philospher's Bell
 主动：吸收一点土系灵气¤Take the initiative: absorb a little earth Qi
-由化尘教神兵阁长老所炼制的上品法宝，其上铭刻聚灵符文。¤A top-grade magic treasure made by the Elder of the Divine Warrior Pavilion of the Shifting Sands School, with the Spirit Gathering Rune inscribed on it.
+由化尘教神兵阁长老所炼制的上品法宝，其上铭刻聚灵符文。¤A top-grade magic treasure made by the Elder of the Divine Warrior Pavilion of the Shifting Sand Sect, with the Spirit Gathering Rune inscribed on it.
 凝尘环¤Dust Ring
 主动：获得【尘】*44¤Active: Get 【Dust】*44
 主动：获得【振土】*52¤Active: Obtain【Earth Resonance】*52
@@ -7309,13 +7309,13 @@ npc白板-印¤npc Whiteboard-Seal
 主动：获得【减伤】*12¤Active: Gain 【Damage Reduction】*12
 岩灵匣¤Rock Spirit box
 主动：获得【振土】*6¤Active: Get 【vibration Earth】*6
-由化尘教神兵阁执事所炼制的上品符器，其上铭刻聚灵符文。¤A top-grade magic weapon made by the Deacon of the Divine Arms Pavilion of the Shifting Sands School, with the Spirit Gathering Rune inscribed on it.
+由化尘教神兵阁执事所炼制的上品符器，其上铭刻聚灵符文。¤A top-grade magic weapon made by the Deacon of the Divine Arms Pavilion of the Shifting Sand Sect, with the Spirit Gathering Rune inscribed on it.
 峦岩匣¤Mountain coffer
 主动：获得【振土】*30¤Active: Get 【vibration Earth】*30
-由化尘教神兵阁执事所炼制的中品法宝，其上铭刻聚灵符文。¤A medium-grade magic weapon made by the Deacon of the Divine Armament Pavilion of the Shifting Sands School, inscribed with the Spirit Gathering Rune.
+由化尘教神兵阁执事所炼制的中品法宝，其上铭刻聚灵符文。¤A medium-grade magic weapon made by the Deacon of the Divine Armament Pavilion of the Shifting Sand Sect, inscribed with the Spirit Gathering Rune.
 落尘¤falling dust
 主动：获得【尘】*18，自身获得【灼烧】*1，对敌方施加【灼烧】*1¤Active: Get 【Dust】*18, get 【Burn】*1 for yourself, apply 【Burn】*1 to the enemy
-师父送你的见面礼。此环乃是化尘教内门的制式法器，依据教规，神兵阁炼制时须师父亲自参与，上面篆刻着你的名号。¤A gift from your master, this ring is a standard weapon of the Shifting Sands School, according to sect rules, when treasures are forged in the heavenly armament pavilion, the master must participate. Your name is engraved on it.
+师父送你的见面礼。此环乃是化尘教内门的制式法器，依据教规，神兵阁炼制时须师父亲自参与，上面篆刻着你的名号。¤A gift from your master, this ring is a standard weapon of the Shifting Sand Sect, according to sect rules, when treasures are forged in the heavenly armament pavilion, the master must participate. Your name is engraved on it.
 尘障环¤Dust Shield Chakram
 主动：获得【尘】*2，获得【护罩】* 3¤Active: Gain【Dust】*2，gain【Shield】* 3
 锐锋剑¤Sharp Blade Sword
@@ -7416,10 +7416,10 @@ npc白板-印¤npc Whiteboard-Seal
 一个朴实无华的包裹，内含所有地阶的离火门普通秘籍。¤A plain, unadorned parcel containing all the Earth-ranked Heavenly Fire Gate's ordinary secret manuals。
 一个朴实无华的包裹，内含所有人阶的离火门普通秘籍。¤A plain, unadorned parcel containing all the ordinary secret manuals of the Heavenly Fire Gate of the human rank。
 一包化尘秘籍¤A parcel of Shifting Sands secrets
-一个朴实无华的包裹，内含所有天阶的化尘教秘籍。¤A plain, unadorned parcel containing all the Heaven ranked Shifting Sands School secret manuals。
-一个朴实无华的包裹，内含所有地阶的化尘教不传之秘秘籍。¤A plain, unadorned parcel containing all the Earth-ranked Shifting Sands School's untold secrets。
-一个朴实无华的包裹，内含所有地阶的化尘教普通秘籍。¤A plain, unadorned package containing all the Earth-ranked Shifting Sands School's Ordinary Secrets。
-一个朴实无华的包裹，内含所有人阶的化尘教普通秘籍。¤A plain, unadorned package containing all the ordinary secrets of the Shifting Sands School of the Human rank。
+一个朴实无华的包裹，内含所有天阶的化尘教秘籍。¤A plain, unadorned parcel containing all the Heaven ranked Shifting Sand Sect secret manuals。
+一个朴实无华的包裹，内含所有地阶的化尘教不传之秘秘籍。¤A plain, unadorned parcel containing all the Earth-ranked Shifting Sand Sect's untold secrets。
+一个朴实无华的包裹，内含所有地阶的化尘教普通秘籍。¤A plain, unadorned package containing all the Earth-ranked Shifting Sand Sect's Ordinary Secrets。
+一个朴实无华的包裹，内含所有人阶的化尘教普通秘籍。¤A plain, unadorned package containing all the ordinary secrets of the Shifting Sand Sect of the Human rank。
 金刃¤Metal Blade
 金系基础入门法术，聚气凝金，凝金成刃，不难掌握。¤Metal element entry level spell, condenses Qi into metal, and metal into blades, easy to grasp.
 金虹剑派入门法术，能够提升战斗中吸收金系灵气的速度。¤An introductory spell of the Radiant Sword Sect, capable of increasing the speed of absorbing Metal Qi in battle。
@@ -7652,15 +7652,15 @@ npc白板-印¤npc Whiteboard-Seal
 以灵纹的方式将麒麟之血铭刻在掌心，来引动麒麟真火。¤The blood of the qilin is inscribed on the palm in the form of a spiritual pattern to invoke the true fire of the qilin.
 落石¤Falling Stone
 土系基础入门法术，凝气化土，聚土落石，不难掌握。¤Earth element, basic entry level technique, condeses Qi into earth, gathers earth into boulders, easy to grasp.
-化尘教入门法术，能够提升战斗中吸收土系灵气的速度。¤An introductory skill of the Shifting Sands School, which can increase the speed of absorbing earth Qi in battle.
+化尘教入门法术，能够提升战斗中吸收土系灵气的速度。¤An introductory skill of the Shifting Sand Sect, which can increase the speed of absorbing earth Qi in battle.
 地龙术¤Earth Dragon Skill
 土系中阶法术，相比于落石威能提升不少，若使用得当还可形成灵气护盾保护自身。¤An intermediate level earth spell, much more powerful than Falling Stone, if used properly it can also form an Qi shield to protect oneself.
 土墙术¤Earth Wall
 土系基础防御法术，凝厚土之气护体，坚不可摧，形如土墙。¤Earth element, basic defense technique, condenses thick earth qi to protect the body, an impenetrable wall of earth.
 尘衣¤Dust Coat
-化尘教秘术，以灵气凝聚的尘土在体表形成防护，获得减伤的效果。¤This is a secret Skill of the Shifting Sands School, which uses dust and earth condensed with Qi to form a shield on the surface of the body and obtain a damage reduction effect.
+化尘教秘术，以灵气凝聚的尘土在体表形成防护，获得减伤的效果。¤This is a secret Skill of the Shifting Sand Sect, which uses dust and earth condensed with Qi to form a shield on the surface of the body and obtain a damage reduction effect.
 连岳¤Lian Yue
-化尘教秘术，一种不断压缩体内灵气的蓄力技巧。¤A secret Skill of the Shifting Sands School, a Skill of accumulating power by constantly compressing the Qi in the body.
+化尘教秘术，一种不断压缩体内灵气的蓄力技巧。¤A secret Skill of the Shifting Sand Sect, a Skill of accumulating power by constantly compressing the Qi in the body.
 地煞凝结¤Earthquake Condensation
 化尘教秘术，一种能够在短时间内快速吸取灵气的实用法门。¤A practical Skill that allows for the rapid absorption of Qi in a short period of time.
 透石术¤Stone Penetration Skill
@@ -7668,29 +7668,29 @@ npc白板-印¤npc Whiteboard-Seal
 开山诀¤Mountain Opening Skill
 土系中阶法术，体内灵气充沛时威能更甚。¤A middle-ranking earth Skill that is even more powerful when the body is full of Qi.
 万土归尘¤All Earth to Dust
-化尘教秘术，用灵力操控特殊的尘土来攻击对手。¤A secret Skill of the Shifting Sands School, using spiritual energy to manipulate special dust to strike the opponent.
+化尘教秘术，用灵力操控特殊的尘土来攻击对手。¤A secret Skill of the Shifting Sand Sect, using spiritual energy to manipulate special dust to strike the opponent.
 万尘化土¤Ten Thousand Dusts of Earth
-化尘教修士能够在战斗中不断积攒特殊的尘土，并施展他们的独门秘术。¤A Cultivator of the Shifting Sands School is able to accumulate special dust in battle and perform their unique Skill.
+化尘教修士能够在战斗中不断积攒特殊的尘土，并施展他们的独门秘术。¤A Cultivator of the Shifting Sand Sect is able to accumulate special dust in battle and perform their unique Skill.
 引力术¤Gravitational Skill
 土系法门，通过临时改变某个区间内的引力来攻击对手。¤An Earth Skill that strikes an opponent by temporarily changing the gravitational force within a certain zone.
 落岩术¤Rockfall
 土系法门，通过改变引力的强弱来操控忽快忽慢的落岩攻击对手，极难防备。¤An earth Skill that strikes by changing the strength of the gravitational force to manipulate a rockfall that can be fast or slow and is extremely difficult to defend against.
 聚尘术¤Dust Gathering Skill
-化尘教秘术，凝聚尘土在周身形成护罩以保护自身。¤This is a secret Skill of the Shifting Sands School, where dust is gathered around the body to form a shield to protect oneself.
+化尘教秘术，凝聚尘土在周身形成护罩以保护自身。¤This is a secret Skill of the Shifting Sand Sect, where dust is gathered around the body to form a shield to protect oneself.
 五丁开山诀¤Wu Ding Kai Shan Skill
-化尘教秘术，长时间积蓄力量后方可使用，威能恐怖。¤This is a secret Skill of the Shifting Sands School. It can only be used after a long period of time to build up strength and is extremely powerful.
+化尘教秘术，长时间积蓄力量后方可使用，威能恐怖。¤This is a secret Skill of the Shifting Sand Sect. It can only be used after a long period of time to build up strength and is extremely powerful.
 流沙术¤Quicksand Skill
 土系基础法术，可以使敌人陷入流沙之中，难以挣脱。¤An Earth spell that can plunge an enemy into quicksand, making it difficult to break free.
 崩岩术¤Rock Bashing
 土系中阶法术，有一定概率能够在攻击对手的同时为自身提供护盾。¤An intermediate level earth spell that has a certain chance of providing a shield for itself while striking the opponent.
 大陨岩术¤Great Meteorite Lithology
-化尘教天阶秘术，操控引力凝聚巨岩攻击敌方。¤The secret technique of Shifting Sands School, manipulating Gravity to condense giant rocks to strike the enemy.
+化尘教天阶秘术，操控引力凝聚巨岩攻击敌方。¤The secret technique of Shifting Sand Sect, manipulating Gravity to condense giant rocks to strike the enemy.
 天崩地裂¤Heavenly Collapse
 化尘教地阶御尘秘术，用时地动山摇，威力浩大。¤This is an earth-rank dust magic that shakes the earth and mountains with great power.
 天星若雨¤Heavenly Star Like Rain
-化尘教天阶御尘秘术，用时犹如陨石如雨。¤This is a Heavenly ranked dust control Skill of the Shifting Sands School, which can be used like a rain of meteorites.
+化尘教天阶御尘秘术，用时犹如陨石如雨。¤This is a Heavenly ranked dust control Skill of the Shifting Sand Sect, which can be used like a rain of meteorites.
 沙缚¤Sand Binding
-化尘教地阶控沙秘术，操纵灵沙攻击敌人。¤Shifting Sands School secret technique of controlling the sand on the ground level, manipulating the spirit sand to strike the enemy.
+化尘教地阶控沙秘术，操纵灵沙攻击敌人。¤Shifting Sand Sect secret technique of controlling the sand on the ground level, manipulating the spirit sand to strike the enemy.
 化尘教人阶控沙秘术，操纵灵沙束缚敌人。¤Shifting Sands Sect, Human rank sand manipulation secret technique, manipulates spiritual sand to bind enemies.
 化尘教地阶控沙秘术，操纵灵沙埋葬敌人。¤Shifting Sands Sect, Earth rank sand manipulation secret technique, manipulates spiritual sand to bury enemies.
 还尘¤Return Dust
@@ -7700,7 +7700,7 @@ npc白板-印¤npc Whiteboard-Seal
 卸甲¤Armour Removal
 化盾还尘之法，将防御用的护罩变成重新化作灵尘收回来。¤Shifting Sands technique, recycles defensive Shield into spiritual dust.
 熔火盾¤Molten Fire Shield
-化尘教人阶火土双属性技能秘术，以火生土，增强防御。¤This is a dual-attribute fire and earth Skill of the Shifting Sands School, which uses fire to create earth to enhance defence.
+化尘教人阶火土双属性技能秘术，以火生土，增强防御。¤This is a dual-attribute fire and earth Skill of the Shifting Sand Sect, which uses fire to create earth to enhance defence.
 基础入门法术，施展后能够在短时间内提升土系术法的威能。¤A basic introductory spell that enhances the power of earth Skills for a short period of time.
 土系地阶法术，以厚土之意结印，以五行相生之力护体。¤Earth type spell, forming a seal with the intention of thick earth and protecting the body with the power of the five elements.
 三山印¤Three Mountain Seal
@@ -7708,8 +7708,8 @@ npc白板-印¤npc Whiteboard-Seal
 绝尘¤Absolute Dust
 化尘教入门法术，消耗尘以对敌人造成伤害。¤Shifting Sands sect, entry level technique. Consumes dust to damage the enemy.
 土系中阶法门，常被用来克制灵气充沛但爆发不足的修士。¤An intermediate level spell in the Earth, often used to restrain Cultivator with abundant but insufficient bursts of spiritual energy.
-化尘教地阶控沙秘术，将灵沙附着在对手身上以吸取对手的灵气。¤Shifting Sands School secret technique of controlling sand on the ground level, attaching spiritual sand to the opponent to absorb the opponent's Qi.
-化尘教天阶秘术，能够自如操控一方天地间的引力，增强神通的威能。¤The secret technique of Shifting Sands School can freely manipulate the Gravity between the heavens and the earth, and enhance the power of the supernatural powers.
+化尘教地阶控沙秘术，将灵沙附着在对手身上以吸取对手的灵气。¤Shifting Sand Sect secret technique of controlling sand on the ground level, attaching spiritual sand to the opponent to absorb the opponent's Qi.
+化尘教天阶秘术，能够自如操控一方天地间的引力，增强神通的威能。¤The secret technique of Shifting Sand Sect can freely manipulate the Gravity between the heavens and the earth, and enhance the power of the supernatural powers.
 运气术¤Luck Spell
 运转并调整体内灵气的小技巧，只要是引气入体后的炼气期修士都能掌握。¤A small Skill for operating and adjusting the spiritual energy in the body, which can be mastered by any Cultivator at the Qi Refining stage after drawing Qi into the body.
 五行颠倒术¤Five Elements Reversal Skill
@@ -7891,12 +7891,12 @@ npc白板-印¤npc Whiteboard-Seal
 金虹剑派的入门剑招，历史极其悠久，蕴含金虹剑派古法至理。¤The Radiant Sword Sect's entry sword stance has an extremely long history and contains the most ancient principles of the Radiant Sword Sect.
 竹山剑法¤Bamboo Mountain Sword Skill
 竹山宗的入门剑招，几乎无人问津，似乎朴素寻常至极。¤The Bamboo Mountain Sect's entry sword move is almost unheard of and seems plain and unusual in the extreme.
-星河剑法¤Star River Sword Skill
-星河剑派的入门剑招，历史极其悠久，蕴含星河剑派古法至理。¤The entry sword move of the Celestial River Sect has an extremely long history and contains the most ancient principles of the Star River Sword School.
+星河剑法¤Celestial River Sword Skill
+星河剑派的入门剑招，历史极其悠久，蕴含星河剑派古法至理。¤The entry sword move of the Celestial River Sect has an extremely long history and contains the most ancient principles of the Celestial River Sword School.
 离火剑法¤The Fireless Sword Skill
 离火门的入门剑招，几乎无人问津，似乎朴素寻常至极。¤The entrance sword stance of the Heavenly Fire Gate is almost unheard of and seems plain and unusual in the extreme.
 化尘剑法¤Transmigration Earth Sword Skill
-原是化尘教的入门剑招，在宗门内无人问津，几近失传，不知何时便流传开来。¤Originally an initiation sword move of the Shifting Sands School, it was left untouched and nearly lost within the sect, and at some point it was passed on.
+原是化尘教的入门剑招，在宗门内无人问津，几近失传，不知何时便流传开来。¤Originally an initiation sword move of the Shifting Sand Sect, it was left untouched and nearly lost within the sect, and at some point it was passed on.
 万剑诀¤Ten Thousand Swords Skill
 剑系杀招，厚积薄发，积攒的剑气越多，杀伤力也越是强大。¤The more Sword Qi you accumulate, the more powerful the killing power will be.
 隐藏在御剑门藏经阁灵气匾之中的神秘法术，使用得当便可快速积攒【剑气】。¤A mysterious technique hidden in the qi Plaque of the Royal Sword Sect's Hidden Scripture Pavilion, which can be used to quickly accumulate 【Sword Qi】 when used properly.
@@ -7931,8 +7931,8 @@ npc白板-印¤npc Whiteboard-Seal
 水系阵法，能引聚天地灵水，不断以水系灵气治疗布阵者。¤Water-based formations can draw together the spiritual water of heaven and earth and continuously heal the person who has set up the formation with water-based spiritual energy.
 水系阵法，能将敌人困于冰阵之中，修为低者更是难以抵挡。¤The Water Array can trap the enemy in an ice formation, making it difficult for those with low cultivation to resist.
 由数名星河剑派弟子联手施展的剑阵，一旦入阵就会收到连绵不绝的攻击。¤A sword formation performed by several Celestial River Sect Disciple, once they enter the formation they will receive continuous strikes.
-化尘教秘术，通过大阵操控巨量尘土以保护阵中之人。¤The secret technique of the Shifting Sands School is to manipulate huge amounts of dust through a large formation in order to protect those in the formation.
-化尘教秘术，通过大阵操控巨量尘土以攻击骚扰阵内的敌人。¤The secret Skill of the Shifting Sands School, which uses the formation to manipulate huge amounts of dust to strike and harass the enemy within the formation.
+化尘教秘术，通过大阵操控巨量尘土以保护阵中之人。¤The secret technique of the Shifting Sand Sect is to manipulate huge amounts of dust through a large formation in order to protect those in the formation.
+化尘教秘术，通过大阵操控巨量尘土以攻击骚扰阵内的敌人。¤The secret Skill of the Shifting Sand Sect, which uses the formation to manipulate huge amounts of dust to strike and harass the enemy within the formation.
 土系阵法，利用引力束缚攻击阵中之人，一旦入阵很快便会力竭。¤Earth Array, using gravitational bindings to strike those in the formation, once in the formation they will soon be exhausted.
 剑系阵法，以地煞之力驭剑，若能使用得当，威力惊人。¤This Sword Formation, which uses the power of the earth to drive the sword, can be incredibly powerful if used properly.
 天阶剑系防御阵法，依托玄武真意布阵，可使剑气化生盾气护体。¤Heavenly-ranked sword defence formation, relying on the Black Tortoise True Will to set up the formation, which allows Sword Qi to transform into shield qi to protect the body.
@@ -7952,7 +7952,7 @@ npc白板-印¤npc Whiteboard-Seal
 灼脉术¤Pulse Scorching Skill
 离火门秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤A secret Skill of the Heavenly Fire Gate, which can increase the success rate when breaking core and forming a Nascent soul.
 裂丹诀¤Splitting Dan Skill
-化尘教秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤A secret Skill of the Shifting Sands School, capable of increasing the success rate when breaking dan and forming a Nascent Soul, can only be used when forming a Nascent Soul.
+化尘教秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤A secret Skill of the Shifting Sand Sect, capable of increasing the success rate when breaking dan and forming a Nascent Soul, can only be used when forming a Nascent Soul.
 星河剑派秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤Celestial River Sect secret Skill, can increase the success rate of the broken dan formation, can only be used at the time of formation.
 金虹剑派秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤Radiant Sword Sect Secret Skill, capable of increasing the success rate when breaking dan and forming an Nascent, can only be used at the time of Nascent formation.
 竹山宗秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤The Bamboo Mountain Sect Secret Skill, which can increase the success rate when breaking dan and forming an Nascent, can only be used when forming an Nascent.
@@ -8072,21 +8072,21 @@ npc白板-印¤npc Whiteboard-Seal
 离火门秘传天阶战斗类功法，修炼者战时可用火灵气增加火系神通伤害。¤This is a secret Heavenly Combat Technique of the Heavenly Fire Gate, which allows practitioners to use their Fire qi to increase the damage of their Fire qi in battle.
 龙族九玄大圣为控制九龙天雷火而创出的火系功法，修习者可将九龙天雷火纳入体内。¤A Fire technique created by the Dragon Clan's Jiu Xuan Great Sage to control the Nine Dragons Heavenly Thunder Fire.
 土系人阶战斗类功法，厚土之意，力能撼山，能够在战时提升土系神通威力。¤This is an earth type human-ranked combat technique with the intention of thick earth and the power to shake mountains, capable of enhancing the power of earth-based divine abilities during battle.
-土系人阶中庸类功法，亦是化尘教入门弟子必学之核心功法。¤This is also a core techniquethat must be learnt by the initiates of the Shifting Sands School.
+土系人阶中庸类功法，亦是化尘教入门弟子必学之核心功法。¤This is also a core techniquethat must be learnt by the initiates of the Shifting Sand Sect.
 地元炼体功¤Earth Element Body Refining Skill
 土系人阶修炼类功法，修炼者以大地之元炼体，可使修为有进，亦可使身体健壮。¤This is an earth cultivation technique in which the practitioner uses the earth's energy to refine his or her body, enabling him or her to improve his or her cultivation and make his or her body strong.
 土系地阶战斗类功法，不断以土系灵气凝聚成护罩保护自身。¤This is an earth-grade combat technique that constantly uses earth Qi to form a shield to protect oneself.
 土系地阶中庸类功法，修炼者战斗时可通过消散土灵气聚尘。¤This is an earth-grade, middle-class technique that allows the practitioner to gather dust by dissipating earth aura when fighting.
-化尘教秘传地阶中庸类功法，此法可在引力状态下引聚灵气护体。¤This is a secret technique of the Shifting Sands School, which can be used to protect the body by gathering spiritual energy in a gravitational state.
+化尘教秘传地阶中庸类功法，此法可在引力状态下引聚灵气护体。¤This is a secret technique of the Shifting Sand Sect, which can be used to protect the body by gathering spiritual energy in a gravitational state.
 土系天阶中庸类功法，修炼后可操控灵尘辅助自身吸收天地灵气。¤After cultivating the Earth heaven-level golden technique, you can manipulate the spirit dust to assist yourself in absorbing the Qi of heaven and earth.
 土系地阶中庸类功法，修炼后可将体内灵气化作护甲。¤This is an earth-grade middle class technique that can turn the Qi in the body into armour after cultivation.
-化尘教秘传天阶中庸类功法，此法可通过使用使用神通聚集尘土。¤The secret technique of the Shifting Sands School, a medium class technique of the Heavenly Order. This method can be used to gather dust through the use of the use of divine powers.
-化尘教秘传地阶中庸类功法，此法可在引力状态下强化尘沙运转。¤The secret technique of the Shifting Sands School, a medium class technique of the Earth class. This method strengthens the operation of dust and sand in a gravitational state.
+化尘教秘传天阶中庸类功法，此法可通过使用使用神通聚集尘土。¤The secret technique of the Shifting Sand Sect, a medium class technique of the Heavenly Order. This method can be used to gather dust through the use of the use of divine powers.
+化尘教秘传地阶中庸类功法，此法可在引力状态下强化尘沙运转。¤The secret technique of the Shifting Sand Sect, a medium class technique of the Earth class. This method strengthens the operation of dust and sand in a gravitational state.
 土系天阶中庸类功法，修炼后便能自如操控周天引力控制灵尘。¤After practicing the earth-system heavenly-level golden mean technique, you can freely manipulate the Gravity of the heavens and the earth to control the spiritual dust.
 土系地阶修炼类功法，修炼者凝聚先天混沌精气化为真土，可提升修炼速度，战时能提升土灵气的吸收。¤An earth-ranked cultivation technique in which the practitioner condenses the innate chaos essence into true earth, which increases the speed of cultivation and enhances the absorption of earth spiritual energy during battle.
 土系地阶中庸类功法，与人对战时能自行凝聚灵沙包围敌人。¤A middle-grade earth cultivation technique that can surround the enemy with spiritual sand when battling with others.
 土系人阶战斗类功法，御土万仞，遇火则厚，此功依靠五行相生提升神通威力。¤This technique relies on the five elements to enhance the power of divine abilities.
-化尘教秘传地阶战斗类功法，修炼者须以五脏炼尘，以强化土系五行连击的效果。¤A secret earth-grade combat technique of the Shifting Sands School, the practitioner must use the five organs to refine the dust in order to strengthen the effects of the earth-based five elemental combinations.
+化尘教秘传地阶战斗类功法，修炼者须以五脏炼尘，以强化土系五行连击的效果。¤A secret earth-grade combat technique of the Shifting Sand Sect, the practitioner must use the five organs to refine the dust in order to strengthen the effects of the earth-based five elemental combinations.
 土系地阶中庸类功法，修炼者法元戎飞沙之象修炼己身，专精土系神通，战时可攻守兼备。¤This is an earth-grade middle class technique that allows the practitioner to cultivate his or her body in the manner of the Yuan Rong Flying Sand symbol, specialising in earth divine abilities and allowing for both strikes and defence in battle.
 土系地阶中庸类功法，乃是尘沙之道的大成之作。¤An earth-ranked middle class technique, it is a great achievement of the Way of Dust and Sand.
 人阶修炼类功法，也是最初阶的入门功法，身具灵根者修习此功法后，即可开始通过吐纳术吸收天地灵气，此为炼气。¤It is also the initial stage of cultivation. Once a person with spiritual roots has practised this technique, he can start to absorb the spiritual energy of heaven and earth through the Skill of exhalation, which is called Qi refinement.
@@ -8567,7 +8567,7 @@ npc白板-印¤npc Whiteboard-Seal
 补天芝¤Skymend Shroom
 药中琼珍，虽可以种植，但产量仍极少，可提升修为。¤This is one of the most precious of all medicines, and although it can be grown, it is still produced in very small quantities to enhance cultivation.
 菩提花¤Bodhi Blossom
-旧日梵教所尊之花，乃上品灵草。用以炼药可以精炼体内灵气。¤A flower revered by the Sanskrit religion in the old days, it is a top quality spiritual herb. It can be used to refine the spiritual energy in the body.
+旧日梵教所尊之花，乃上品灵草。用以炼药可以精炼体内灵气。¤The flower revered by the ancient Brahmanism is a top-grade spirit herb. It can be used to refine medicine and refine the spiritual energy inside the body through body refinement.
 龙纹草¤Dragonvein Leaf
 十分罕见的草药，因其叶上的花纹而得名，常有妖兽守护在其旁。¤A very rare herb, named after the pattern on its leaves, often guarded by Spirit Beasts.
 产自极寒之地的药材，其叶如冰蓝玉晶，周边晶玉是其吸收天地灵气所结，散溢的花香，都可以令人清心静气。¤The leaves are like ice-blue jade crystals, and the surrounding crystals and jade are the result of its absorption of the spiritual energy of heaven and earth, and the fragrance of the flowers is soothing to the mind.
@@ -9680,7 +9680,7 @@ npc白板-印¤npc Whiteboard-Seal
 火晶¤Fire Crystal
 在火灵气浓郁之地可施秘法凝聚而成，在离火门内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤They are used in the Heavenly Fire Gate to reward Disciple for their contribution to the sect and can be exchanged for numerous resources.
 砂晶¤Sand Crystal
-在土灵气浓郁之地可施秘法凝聚而成，在化尘教内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤They are used in the Shifting Sands School to reward Disciple for their contribution to the sect, and can be exchanged for a wide range of resources.
+在土灵气浓郁之地可施秘法凝聚而成，在化尘教内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤They are used in the Shifting Sand Sect to reward Disciple for their contribution to the sect, and can be exchanged for a wide range of resources.
 丹术备要¤Dan Skill Preparation
 阅读后可学会化瘀丹、洗髓丹、生骨丹、冰心丹四种基础丹药的炼制方法。¤Read this to learn how to make the four basic Pills, namely the Novice Healing Pill, the Minor Qi Pill, the Minor Healing Pill and the Ice Heart Pill.
 记录了炼丹入门技巧和一些基础丹方注解，流传甚广，很容易买到。¤This is a record of introductory Skills and some basic recipes, and is widely available.
@@ -10072,7 +10072,7 @@ npc白板-印¤npc Whiteboard-Seal
 青竹草经¤Green Bamboo Grass Sutra
 记载了天灵果、伴妖草、补天芝、龙纹草、冰灵果、九叶芝、枫香脂、灯心草、玉髓芝、阴凝草、苦曼藤的药性。¤The medicinal properties of the Heavenward Berry, Companion Demon Herb, Skymend shroom, Dragon Grass, Ice Spirit Fruit, Nine Leaf Chi, Maple Balm, Lantern Grass, Chalcedony Chi, Yin Ning Grass and Bitter Man Vine are recorded.
 由竹山宗历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Written and revised by past Alchemy Elders of the Bamboo Mountain Sect, it records the medicinal properties of some of the sect's specialty herbs.
-星河本草经¤Star River Herbal Sutra
+星河本草经¤Celestial River Herbal Sutra
 记载了冰灵果、幻心草、锦地罗、枫香脂、雪凝花、玉髓芝、狼桃、月灵花、血玉竹的药性。¤The medicinal properties of the Ice Spirit Fruit, Illusory Heart Grass, Jindi Luo, Maple Balm, Snow Condensation Flower, Chalcedony Chi, Wolf Peach, Moon Spirit Flower and Blood Jade Bamboo are recorded.
 由星河剑派历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Written and repaired by past alchemy elders of the Celestial River Sect, it records the medicinal properties of some of the clan's specialty herbs.
 焦木集¤Scorched Lumber Collection
@@ -10080,7 +10080,7 @@ npc白板-印¤npc Whiteboard-Seal
 由离火门历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Written and repaired by the past alchemy elders of the Heavenly Fire Gate, it records the medicinal properties of some of the sect's special herbs.
 尘木药略¤Dusty wood medicine sketch
 记载了龙鳞果、菩提花、伏龙参、石龙芮、地龙干的药性。¤The medicinal properties of the dragon scale fruit, the linden flower, the fulong ginseng, the shilong rui and the dried earth dragon are recorded.
-由化尘教历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Written and repaired by successive alchemy elders of the Shifting Sands School, it records the medicinal properties of some of the clan's specialty herbs.
+由化尘教历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Written and repaired by successive alchemy elders of the Shifting Sand Sect, it records the medicinal properties of some of the clan's specialty herbs.
 血魂药经¤Blood Soul Medicine Sutra
 记载了炼魂珠、炼血珠、鬼面花、万魂晶、冥胎骨、厉魂血珀、渊血冥花的药性¤The medicinal properties of the Soul Refining Pearl, Blood Refining Pearl, Ghost Faced Flower, Ten Thousand Soul Crystals, Placental Bone, Lethal Soul Blood Pearl and Abyssal Blood Placental Flower are recorded
 记载了各种产自极阴之地药草的药性，似乎不是正道修士所著。¤It is a record of the medicinal properties of various herbs that originate from the extreme yin land and does not appear to have been written by a righteous Cultivator.
@@ -10473,10 +10473,10 @@ npc白板-印¤npc Whiteboard-Seal
 土系基础入门法术，不难掌握。¤A basic earth spell that is not difficult to master.
 土系基础的防御性法术，使用后能形成灵气护罩保护自身。¤A basic Earth defensive spell that forms an Qi shield to protect you.
 化尘教地阶控沙秘术，操纵灵沙束缚敌人。¤This Skill is used to bind the enemy by manipulating the sand.
-化尘教控沙秘术。¤A secret sand control Skill of the Shifting Sands School.
+化尘教控沙秘术。¤A secret sand control Skill of the Shifting Sand Sect.
 将防御用的护罩变成重新化作灵尘收回来。¤Turn the defensive shield back into spirit dust and retrieve it.
-化尘教土系秘术。¤This is an earth Skill of the Shifting Sands School.
-化尘教入门法术。¤An introductory skill of the Shifting Sands School.
+化尘教土系秘术。¤This is an earth Skill of the Shifting Sand Sect.
+化尘教入门法术。¤An introductory skill of the Shifting Sand Sect.
 魔门功法，献祭自己精血以获得灵气护盾。¤A demonic technique that sacrifices one's own Life to obtain an Qi shield.
 禾山道秘技，以自身精血为代价召唤鬼魂之力¤This is a secret Skill of the Mt. Harvest Sect that summons the power of ghosts at the cost of one's own blood.
 禾山道秘技，吞噬灵魂来恢复自身的气血¤A secret Skill of the Mt. Harvest Sect, devouring souls to restore one's own lifeforce.
@@ -10510,7 +10510,7 @@ npc白板-印¤npc Whiteboard-Seal
 火系阵法，使得炙热的火焰围绕自身，受到攻击时便会自动反击。¤The Fire Array makes hot flames surround itself and automatically counterstrikes when it is striked.
 木系阵法，能够将对手困于阵中不断骚扰，极难对付。¤Wooden formations, which trap the opponent in the formation and harass them constantly, are extremely difficult to deal with.
 水系阵法，能不断以水系灵气治疗布阵者。¤Water formations, which can continuously heal the person in the formation with Water Qi.
-化尘教秘术，通过大阵操控巨量尘土保护阵中之人。¤The secret technique of Shifting Sands School, controlling a huge amount of dust through a large array to protect the people in the array.
+化尘教秘术，通过大阵操控巨量尘土保护阵中之人。¤The secret technique of Shifting Sand Sect, controlling a huge amount of dust through a large array to protect the people in the array.
 天阶剑系防御阵法。¤The sky-rank sword is a defensive Array.
 禾山道大阵，阵内阴魂无数。¤The Mt. Harvest Sect Array has countless spirits within it.
 天阶杀阵，阵法的杀伤力会随时间不断提升。¤A heavenly ranked killing formation, the killing power of the formation will continue to increase over time.
@@ -10562,10 +10562,10 @@ npc白板-印¤npc Whiteboard-Seal
 土系人阶战斗类功法。¤Earth human-grade combat technique.
 土系人阶修炼类功法。¤A human-grade earth cultivation technique.
 土系地阶中庸类功法。¤Earth Medium ranking technique.
-化尘教秘传地阶中庸类功法。¤Earth Medium class technique, secretly passed down from the Shifting Sands School.
-化尘教秘传天阶中庸类功法。¤A secret Heavenly-ranked mid-grade technique of the Shifting Sands School.
+化尘教秘传地阶中庸类功法。¤Earth Medium class technique, secretly passed down from the Shifting Sand Sect.
+化尘教秘传天阶中庸类功法。¤A secret Heavenly-ranked mid-grade technique of the Shifting Sand Sect.
 土系地阶修炼类功法。¤Earth-tier cultivation technique.
-化尘教秘传地阶战斗类功法。¤Earth-ranked combat technique from the Shifting Sands School.
+化尘教秘传地阶战斗类功法。¤Earth-ranked combat technique from the Shifting Sand Sect.
 人阶修炼类功法，也是最初阶的入门功法，身具灵根者修习此功法后，即可开始通过吐纳术吸收天地灵气，此为炼气。。¤It is also the initial stage of cultivation. Once a person with spiritual roots has practised this technique, he can start to absorb the spiritual energy of heaven and earth through the Skill of exhalation, which is called Qi refinement.
 地阶中庸类功法，是一种能够收敛自身气息的实用战斗类功法。。¤It is also a practical combat technique that allows one to collect one's breath.
 上古流传至今的天阶战斗类功法，相传此功法已有灵性，会自己寻找每一代的传人。。¤The Heavenly combat technique, which has been handed down from ancient times, is said to have a spiritual nature and will find its own successor in each generation.
@@ -11053,12 +11053,12 @@ npc白板-印¤npc Whiteboard-Seal
 御剑门金虹传闻¤Royal Sword Sect Golden Rainbow Rumors
 当年的金虹剑派掌门与御剑门掌门私交匪浅。¤Back then, the Radiant Sword Sect leader and the Royal Sword Sect leader personal friendship.
 金虹剑派与御剑门一向交好，若非证据确凿，想来不会下此狠手。¤Radiant Sword Sect and the Royal Sword Sect has always been good friends, if not for the evidence, I do not think it would have come down with such a vicious hand.
-御剑门星河传闻¤Royal Sword Sect Star River rumors
+御剑门星河传闻¤Royal Sword Sect Celestial River rumors
 星河剑派是受到金虹剑派掌门的邀请才一同前往了御剑门。¤Celestial River Sect was invited by the Radiant Sword Sect leader before they went to the Imperial Sword Sect together.
 星河剑派是受金虹掌门委托而来，此事与她们应该关系不大。¤Celestial River Sect is entrusted by the Radiant Sword Sect, this matter should not have much to do with them.
 御剑门化尘传闻¤Rumors of the Imperial Sword Sect's Dust Transformation
-化尘教怀疑御剑门掌门在古迹中得到了什么宝物，但他们赶到时，战斗已经开始。¤The Shifting Sands School suspected that the Royal Sword Sect Sect leader had obtained some treasure in the monument, but when they arrived, the battle had already begun.
-御剑门和化尘教在古迹内便起了冲突，看来两派关系并不融洽。¤The Royal Sword Sect and the Shifting Sands School clashed right inside the monument, it seems that the two sects do not have a good relationship.
+化尘教怀疑御剑门掌门在古迹中得到了什么宝物，但他们赶到时，战斗已经开始。¤The Shifting Sand Sect suspected that the Royal Sword Sect Sect leader had obtained some treasure in the monument, but when they arrived, the battle had already begun.
+御剑门和化尘教在古迹内便起了冲突，看来两派关系并不融洽。¤The Royal Sword Sect and the Shifting Sand Sect clashed right inside the monument, it seems that the two sects do not have a good relationship.
 御剑门之战真相¤The truth about the battle of the Royal Sword Sect
 古神教利用在离火门内安插的弟子散布御剑门私通魔门的传闻。¤The Ancient God Sect used the disciples planted within the Heavenly Fire Gate to spread rumors of the Imperial Sword Sect's involvement with the Demon Sect.
 原来这一切都是古神教设下的圈套...¤So this is all a trap set by the Ancient God Cult...
@@ -11320,7 +11320,7 @@ npc白板-印¤npc Whiteboard-Seal
 <color=#ff724d>【中毒】x(listvalue2)</color>¤<color=#ff724d>【Poisoned】 x(listvalue2)</color>
 <color=#ff724d>【疗】</color>回合结束时，恢复层数点生命值¤<color=#ff724d>【Heal】</color> At the end of the round, restore tier points of life
 <color=#ff724d>【疗】x(listvalue2)</color>¤<color=#ff724d>【Heal】x(listvalue2)</color>
-<color=#ff724d>【尘】</color>化尘教指示物¤<color=#ff724d>【Dust】</color>Indicator of the Shifting Sands School
+<color=#ff724d>【尘】</color>化尘教指示物¤<color=#ff724d>【Dust】</color>Indicator of the Shifting Sand Sect
 <color=#ff724d>【尘】x(listvalue2)</color>¤<color=#ff724d>【Dust】x(listvalue2)</color>
 <color=#ff724d>【护罩】</color>抵挡层数点伤害¤<color=#ff724d>【Shield】</color> absorb N points of damage according to number of stacks
 <color=#ff724d>【护罩】x(listvalue2)</color>¤<color=#ff724d>【Shield】 x(listvalue2)</color>
@@ -11332,7 +11332,7 @@ npc白板-印¤npc Whiteboard-Seal
 <color=#ff724d>【流血】x(listvalue2)</color>¤<color=#ff724d>【Bleed】 x(listvalue2)</color>
 <color=#ff724d>【焰】</color>本回合造成的火系伤害增加层数点¤<color=#ff724d>【Flaring】</color>Increase fire damage by the number of layers this turn.
 <color=#ff724d>【焰】x(listvalue2)</color>¤<color=#ff724d>【Flaring】 x(listvalue2)</color>
-<color=#ff724d>【沙】</color>化尘教指示物¤<color=#ff724d>【Sand】</color>Indicator of the Shifting Sands School
+<color=#ff724d>【沙】</color>化尘教指示物¤<color=#ff724d>【Sand】</color>Indicator of the Shifting Sand Sect
 <color=#ff724d>【沙】x(listvalue2)</color>¤<color=#ff724d>【Sand】 x(listvalue2)</color>
 遁速降低¤Reduced Speed
 <color=#ff724d>【缚足】</color>遁速降低¤<color=#ff724d>【Footbinding】</color> Speed reduced
@@ -11406,7 +11406,7 @@ npc白板-印¤npc Whiteboard-Seal
 <color=#f5e929>【辟毒】</color>回合开始时，移除自身【中毒】*1¤<color=#f5e929>【Poison Cleanse】</color> At the beginning of the turn, remove your [Poisoning]*1
 <color=#f5e929>【辟毒】x(Itemintvalue2)</color>¤<color=#f5e929>【Poison Cleanse】 x(Itemintvalue2)</color>
 获得尘¤Gain dust
-<color=#f5e929>【尘】</color>化尘教指示物¤<color=#f5e929>【Dust】</color> Indicator of the Shifting Sands School
+<color=#f5e929>【尘】</color>化尘教指示物¤<color=#f5e929>【Dust】</color> Indicator of the Shifting Sand Sect
 <color=#f5e929>【尘】x(Itemintvalue2)</color>¤<color=#f5e929>【Dust】 x(Itemintvalue2)</color>
 <color=#f5e929>【剑气】x(Itemintvalue2)</color>¤<color=#f5e929>【Sword Qi】 x(Itemintvalue2)</color>
 【辟木】¤【Wood Cleanse】
@@ -11946,8 +11946,8 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 {Xyear}年前，公孙季前辈在城外渡劫，突破到了元婴期，引来一阵天地异象，真是蔚为壮观呐。¤{Xyear} years ago, Senior Gongsun Ji made a breakthrough to the Foundation Establishment Stage outside the city, leading to a vision of heaven and earth, which was truly spectacular.
 云汐城副本客栈打听¤Yun Shi City replica inns
 广陵城客栈打听¤Guangling City Inn
-听说这几年古神教的魔修把衡州弄的很不太平，所幸咱们这儿有化尘教坐镇。但为了清缴魔修，化尘教近年来似乎没什么心力招收弟子。¤I heard that the evil cultivators of the Ancient Gods Sect have made Hengzhou a very unsettled place in the past few years, but fortunately we have the Shifting Sands School here. However, in order to clear out the evil cultivators, the Shifting Sands School has not been able to recruit any Disciple in recent years.
-最近这附近的古神教余孽似乎都被清理干净，化尘教也开始招收新的外门弟子了。¤Recently, it seems that all the remnants of the Shifting Sands School have been cleared out of the area and the Cult has started to recruit new Disciple.
+听说这几年古神教的魔修把衡州弄的很不太平，所幸咱们这儿有化尘教坐镇。但为了清缴魔修，化尘教近年来似乎没什么心力招收弟子。¤I heard that the evil cultivators of the Ancient Gods Sect have made Hengzhou a very unsettled place in the past few years, but fortunately we have the Shifting Sand Sect here. However, in order to clear out the evil cultivators, the Shifting Sand Sect has not been able to recruit any Disciple in recent years.
+最近这附近的古神教余孽似乎都被清理干净，化尘教也开始招收新的外门弟子了。¤Recently, it seems that all the remnants of the Shifting Sand Sect have been cleared out of the area and the Cult has started to recruit new Disciple.
 这几年偶尔会听说有散修在方壶山附近失踪。¤In the past few years, we occasionally hear of independent cultivators disappearing near Fang Hu Mountain.
 {Xyear}年前，百里府的百里奇少主未曾服用筑基丹便突破到了筑基期，不愧是百年难得一遇的奇才啊。¤{Xyear}Years ago, Young Master Baili Qi of the Baili House broke through to the Foundation Establishment stage without taking a Foundation Pill, worthy of being a once-in-a-century wonder.
 {Xyear}年前，百里奇前辈在城中结丹突破，引来一阵天地异象，真是蔚为壮观呐。¤A year ago, Baili Qi broke through in the middle of the city, leading to a spectacular vision of heaven and earth.
@@ -11958,7 +11958,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 东石谷客栈打听¤East Stone Valley Inn Enquiries
 听说最近在禾山有一只奇怪的灵猴出没，常常无故袭击附近的路人。¤I heard that there is a strange spirit monkey haunting Harvest Mountain recently, often striking passers-by nearby for no apparent reason.
 五年一度的武陵城英杰会又要开始了。¤Wuling City's once in 5 years Young Hero's Torunament is about to start again.
-化尘教广场打听¤Enquire at the Shifting Sands School Square
+化尘教广场打听¤Enquire at the Shifting Sand Sect Square
 {Xyear}年前的那一届宗门大比，{FirstName}{shixiong}力压群雄，摘得了魁首，当真精彩。¤{FirstName}{shixiong} won the sect competition {Xyear} ago, and he was the best of the best.
 星河剑派广场打听¤Celestial River Sect Sect Square
 竹山宗广场打听¤Bamboo Mountain Sect Square
@@ -12231,9 +12231,9 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 竹山宗附近¤Near Bamboo Mountain Sect
 竹山宗、广陵城交界¤Junction of Bamboo Mountain Sect and Guangling City
 广陵城附近¤Near Guangling City
-化尘教、广陵城交界¤Border between the Shifting Sands School and Guangling City
-化尘教附近¤Near the Shifting Sands School
-化尘教、巫山交界¤Border of Shifting Sands School and Mt. Wu
+化尘教、广陵城交界¤Border between the Shifting Sand Sect and Guangling City
+化尘教附近¤Near the Shifting Sand Sect
+化尘教、巫山交界¤Border of Shifting Sand Sect and Mt. Wu
 巫山附近¤Near Mt. Wu
 岫络谷附近¤Near Xiuluo Valley
 星河剑派、岫络谷交界¤Border of Celestial River Sect and Xiuluo Valley
@@ -12664,7 +12664,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 {item}价值虽高，也不过身外之物，拿去吧。¤I'm not going to give it to you, but even though it's worth a lot, it's just something outside of your body.
 修仙本就是机缘险中求，又怎么会因区区威胁便轻易相送此等宝物！¤I'm not going to give it away because of a mere threat.
 修仙本就是机缘险中求，又怎么会轻易相送此等宝物！¤I'm not sure I'm going to be able to get a good deal on this.
-{miji}不过身外之物，{FirstName}{daoyou}既然开口了，我自然不会推脱。¤{miji}But it's just something outside of my body, {FirstName}{daoyou}I'm not going to say no since I asked for it.
+{miji}不过身外之物，{FirstName}{daoyou}既然开口了，我自然不会推脱。¤{miji} However, it is just a material possession. Since {FirstName} {daoyou} has asked, I naturally will not decline. 
 此间有山间清风，天上明月与壶中美酒，{FirstName}{qianbei}何必执着于{miji}呢？¤There is a breeze in the Mountains, the bright moon in the sky and the wine in the pot. {First name}{qianbei} why bother to cling to {miji}?
 怀璧于身不外露，立身之本怎轻传，{qianbei}还是学其他的吧。¤Huaibi is not exposed to the body, how can the foundation of standing up be passed down lightly, {qianbei} Let's learn something else.
 现下无事，{qianbei}可愿与我探讨一番这天地大道？¤There is nothing wrong now, {qianbei} would you like to discuss the avenue of heaven and earth with me?
@@ -12678,7 +12678,6 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 呃，你可能误会了什么...我只是把你当作普通朋友啊！¤Uh, you may have misunderstood something. . . I just treat you as an ordinary friend!
 抱歉，尽管我们如此亲密，但我们真的只是朋友...对不起...我们还能做朋友吗？¤I'm sorry, even though we're so close, we're really just friends... I'm sorry... Can we still be friends?
 什么？{qianbei}是认真的么？¤What? Is {qianbei} serious?
-好家伙，我直接好家伙。¤Good guys, I'm straight up good guys.
 哈哈哈，{qianbei}邀约，在下怎敢拒绝。¤Hahaha, {qianbei} invite, how dare you refuse.
 {daoyou}，有什么事吗？但说无妨。¤{daoyou}, what can I do for you? But there is no harm in saying so.
 全力以赴吧，莫让为师小瞧你。¤Go all out, don't let your teacher underestimate you.
@@ -13169,7 +13168,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 名声如烟，转瞬即逝。至于{friendid}，更是对我没有任何威胁。¤Fame is like smoke, it's gone in a flash. As for {friendid}, it's even less of a threat to me.
 哈哈哈，{daoyou}这个玩笑可算不上高明。¤I'm not sure that {daoyou} is a very good joke.
 死生有命，修短素定，非尔威胁所能损益，这{item}我不会轻易交出的。¤The {item} will not be handed over by me easily.
-此间有山间清风，天上明月与壶中美酒，{FirstName}{daoyou}何必执着于{miji}呢？¤This {item} I will not give up so easily. I have the breeze of the mountains, the moon in the sky and the wine in the jug, {FirstName}{daoyou}why cling to {miji}?
+此间有山间清风，天上明月与壶中美酒，{FirstName}{daoyou}何必执着于{miji}呢？¤In this place, there's a refreshing mountain breeze, a beautiful moon in the sky, and delicious wine in a pot. Why obsess over {miji}, {FirstName}{daoyou}?
 怀璧于身不外露，立身之本怎轻传，{daoyou}还是学其他的吧。¤I'm not sure how I can pass on the truth that I'm a good person, but {daoyou} should learn something else.
 现下无事，{daoyou}可愿与我探讨一番这天地大道？¤Now that I have nothing to do, would {daoyou} like to discuss with me the great path of heaven and earth?
 左右无事，便与{daoyou}交流一番吧。¤I have nothing to do, so let's talk to {daoyou}.
@@ -17102,10 +17101,10 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 你拜入了离火门。¤You have joined the Heavenly Fire Gate.
 拜入金虹¤Rainbow
 你拜入了金虹剑派。¤You have joined the Radiant Sword Sect.
-拜入星河¤Worship in the star river
+拜入星河¤Worship in the Celestial River
 你拜入了星河剑派。¤You have joined the Celestial River Sect.
 拜入化尘¤Introductory
-你拜入了化尘教。¤You have joined the Shifting Sands School.
+你拜入了化尘教。¤You have joined the Shifting Sand Sect.
 英杰会冠军¤Young Hero's Champion
 你首次夺得了英杰会冠军。¤You have won the Young Hero's Tournament for the first time.
 天机大比冠军¤Champion of the Tianji Grand Competition
@@ -20049,19 +20048,19 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 竹山剑法5¤Bamboo Mountain Sword Skill 5
 【剑意】【吸血】造成（attack）点伤害；【连击】若上一个使用的是水系技能，则额外提升11点伤害。¤【Sword Intent】 【Lifesteal】 deals （attack） damage; 【combos】 If the last skill used was a Water skill, it will increase the damage by an additional 11 points.
 #c449491【<hy t=剑意 l=2_101_5_69 fhc=#e86524 ul=1>】#n#c449491【<hy t=吸血 l=2_101_5_70 fhc=#e86524 ul=1>】#n造成（attack）点伤害；#c449491【<hy t=连击 l=2_101_5_71 fhc=#e86524 ul=1>】#n若上一个使用的是水系技能，则额外提升11点伤害。¤#c449491【<hy t=sword intent l=2_101_5_69 fhc=#e86524 ul=1>】#n#c449491【<hy t=Lifesteal l=2_101_5_70 fhc=#e86524 ul=1>】#n causes （attack） damage;#c449491【<hy t=Combo l=2_101_5_71 fhc=#e86524 ul=1>】#n If the last skill used was a Water skill, it will increase the damage by an additional 11 points.
-星河剑法1¤Star River Sword Skill 1
+星河剑法1¤Celestial River Sword Skill 1
 【剑意】获得【振剑】*5；【连击】若上一个使用的是金系技能，则额外获得【振剑】*1¤【Swordsmanship】 Get 【Zhenjian】*5; 【Combos】 If the last skill used was a Metal skill, get an additional 【Zhenjian】*1
 #c449491【<hy t=剑意 l=2_101_5_69 fhc=#e86524 ul=1>】#n获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*5；#c449491【<hy t=连击 l=2_101_5_71 fhc=#e86524 ul=1>】#n若上一个使用的是金系技能，则额外获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*1¤#c449491【<hy t=Jianyi l=2_101_5_69 fhc=#e86524 ul=1>】#n;#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*5;#c449491【<hy t=Combo l=2_101_5_71 fhc=#e86524 ul=1>】#n If the last skill used was a Metal skill, you will get an additional#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*1
 星河剑法2¤Xinghe Sword Skill 2
 【剑意】获得【振剑】*7；【连击】若上一个使用的是金系技能，则额外获得【振剑】*2¤【Swordsmanship】 Get 【Zhenjian】*7; 【Combos】 If the last skill used was a Metal skill, get an additional 【Zhenjian】*2
 #c449491【<hy t=剑意 l=2_101_5_69 fhc=#e86524 ul=1>】#n获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*7；#c449491【<hy t=连击 l=2_101_5_71 fhc=#e86524 ul=1>】#n若上一个使用的是金系技能，则额外获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*2¤#c449491【<hy t=Jianyi l=2_101_5_69 fhc=#e86524 ul=1>】#n*#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*7;#c449491【<hy t=Combo l=2_101_5_71 fhc=#e86524 ul=1>】#n If the last skill used was a Metal skill, you will get an additional#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*2
-星河剑法3¤Star River Sword Skill 3
+星河剑法3¤Celestial River Sword Skill 3
 【剑意】获得【振剑】*13；【连击】若上一个使用的是金系技能，则额外获得【振剑】*3¤【Swordsmanship】 Get 【Zhenjian】*13; 【Combos】 If the last skill used was a Metal skill, get an additional 【Zhenjian】*3
 #c449491【<hy t=剑意 l=2_101_5_69 fhc=#e86524 ul=1>】#n获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*13；#c449491【<hy t=连击 l=2_101_5_71 fhc=#e86524 ul=1>】#n若上一个使用的是金系技能，则额外获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*3¤#c449491【<hy t=Jianyi l=2_101_5_69 fhc=#e86524 ul=1>】#n*#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*13;#c449491【<hy t=Combo l=2_101_5_71 fhc=#e86524 ul=1>】#n If the last skill used was a Metal skill, you will get an additional#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*3
-星河剑法4¤Star River Sword Skill 4
+星河剑法4¤Celestial River Sword Skill 4
 【剑意】获得【振剑】*27；【连击】若上一个使用的是金系技能，则额外获得【振剑】*6¤【Swordsmanship】 Get 【Zhenjian】*27; 【Combos】 If the last skill used was a Metal skill, get an additional 【Zhenjian】*6
 #c449491【<hy t=剑意 l=2_101_5_69 fhc=#e86524 ul=1>】#n获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*27；#c449491【<hy t=连击 l=2_101_5_71 fhc=#e86524 ul=1>】#n若上一个使用的是金系技能，则额外获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*6¤#c449491【<hy t=Jianyi l=2_101_5_69 fhc=#e86524 ul=1>】#n*#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*27;#c449491【<hy t=Combo l=2_101_5_71 fhc=#e86524 ul=1>】#n If the last skill used was a Metal skill, you will get an additional#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*6
-星河剑法5¤Star River Sword Skill 5
+星河剑法5¤Celestial River Sword Skill 5
 【剑意】获得【振剑】*90；【连击】若上一个使用的是金系技能，则额外获得【振剑】*11¤【Swordsmanship】 Get 【Zhenjian】*90; 【Combos】 If the last skill used was a Metal skill, get an additional 【Zhenjian】*11
 #c449491【<hy t=剑意 l=2_101_5_69 fhc=#e86524 ul=1>】#n获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*90；#c449491【<hy t=连击 l=2_101_5_71 fhc=#e86524 ul=1>】#n若上一个使用的是金系技能，则额外获得#c449491【<hy t=振剑 l=2_101_1_62 fhc=#e86524 ul=1>】#n*11¤#c449491【<hy t=Jianyi l=2_101_5_69 fhc=#e86524 ul=1>】#n*#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*90;#c449491【<hy t=Combo l=2_101_5_71 fhc=#e86524 ul=1>】#n If the last skill used was a Metal skill, you will get an additional#c449491【<hy t=Zhenjian l=2_101_1_62 fhc=#e86524 ul=1>】#n*11
 离火剑法1¤Fire Free Sword Skill 1
@@ -20434,19 +20433,19 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 霜天寒月阵5¤Frosty Sky and Cold Moon Array 5
 【阵法】回合开始时，敌方获得【霜冻】*15¤【Array】 At the beginning of the turn, the enemy gains 【Frostbite】*15
 #c449491【<hy t=阵法 l=2_101_5_67 fhc=#e86524 ul=1>】#n回合开始时，敌方获得#c449491【<hy t=霜冻 l=2_101_2_9 fhc=#e86524 ul=1>】#n*15¤#c449491 【<hy t=Array l=2_101_5_67 fhc=#e86524 ul=1>】#nAt the beginning of the turn, the enemy gains#c449491 【<hy t=Frostbite l=2_101_2_9 fhc=#e86524 ul=1>】#n*15
-星河剑阵1¤Star River Sword Array 1
+星河剑阵1¤Celestial River Sword Array 1
 【阵法】回合结束时，获得【振剑】*14¤【Array】 At the end of the round, get 【Zhenjian】*14
 #c449491【<hy t=阵法 l=2_101_5_67 fhc=#e86524 ul=1>】#n回合结束时，获得【振剑】*14¤#c449491 [<hy t=formation l=2_101_5_67 fhc=#e86524 ul=1>] #n At the end of the round, get 【Vibrating Sword】*14
-星河剑阵2¤Star River Sword Array 2
+星河剑阵2¤Celestial River Sword Array 2
 【阵法】回合结束时，获得【振剑】*20¤【Array】 At the end of the round, get 【Zhenjian】*20
 #c449491【<hy t=阵法 l=2_101_5_67 fhc=#e86524 ul=1>】#n回合结束时，获得【振剑】*20¤#c449491 [<hy t=formation l=2_101_5_67 fhc=#e86524 ul=1>] #n At the end of the round, get 【Vibrating Sword】*20
-星河剑阵3¤Star River Sword Array 3
+星河剑阵3¤Celestial River Sword Array 3
 【阵法】回合结束时，获得【振剑】*30¤【Array】 At the end of the round, get 【Zhenjian】*30
 #c449491【<hy t=阵法 l=2_101_5_67 fhc=#e86524 ul=1>】#n回合结束时，获得【振剑】*30¤#c449491 [<hy t=formation l=2_101_5_67 fhc=#e86524 ul=1>] #n At the end of the round, get 【Vibrating Sword】*30
-星河剑阵4¤Star River Sword Array 4
+星河剑阵4¤Celestial River Sword Array 4
 【阵法】回合结束时，获得【振剑】*55¤【Array】 At the end of the round, get 【Zhenjian】*55
 #c449491【<hy t=阵法 l=2_101_5_67 fhc=#e86524 ul=1>】#n回合结束时，获得【振剑】*55¤#c449491 [<hy t=formation l=2_101_5_67 fhc=#e86524 ul=1>] #n At the end of the round, get 【Vibrating Sword】*55
-星河剑阵5¤Star River Sword Array 5
+星河剑阵5¤Celestial River Sword Array 5
 【阵法】回合结束时，获得【振剑】*110¤【Array】 At the end of the round, get 【Zhenjian】*110
 #c449491【<hy t=阵法 l=2_101_5_67 fhc=#e86524 ul=1>】#n回合结束时，获得【振剑】*110¤#c449491 [<hy t=formation l=2_101_5_67 fhc=#e86524 ul=1>] #n At the end of the round, get 【Vibrating Sword】*110
 土葬迷尘阵1¤Burial Dust Array 1
@@ -20677,9 +20676,9 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 霜天寒月阵-驱¤Frosty Sky Cold Moon Array - Drive
 【后继无力】驱动一次【霜天寒月阵】¤【Fatigued】 Activate 【Frosty Sky Cold Moon Array】 once
 #c449491【<hy t=后继无力 l=2_101_5_66 fhc=#e86524 ul=1>】#n驱动一次【霜天寒月阵】¤#c449491 【<hy t=Fatigued l=2_101_5_66 fhc=#e86524 ul=1>】#n drive once 【Frosty Sky Cold Moon Array】
-星河剑阵-驱¤Star River Sword Array - Drive
-【后继无力】驱动一次【星河剑阵】¤【Fatigued】 Activate 【Star River Sword Array】 once
-#c449491【<hy t=后继无力 l=2_101_5_66 fhc=#e86524 ul=1>】#n驱动一次【星河剑阵】¤#c449491 【<hy t=Fatigued l=2_101_5_66 fhc=#e86524 ul=1>】#n drive once 【Star River Sword Array
+星河剑阵-驱¤Celestial River Sword Array - Drive
+【后继无力】驱动一次【星河剑阵】¤【Fatigued】 Activate 【Celestial River Sword Array】 once
+#c449491【<hy t=后继无力 l=2_101_5_66 fhc=#e86524 ul=1>】#n驱动一次【星河剑阵】¤#c449491 【<hy t=Fatigued l=2_101_5_66 fhc=#e86524 ul=1>】#n drive once 【Celestial River Sword Array
 土葬迷尘阵-驱¤Burial Dust Array - Drive
 【后继无力】对方拥有【沙】时才能使用，释放一次【还尘】。¤【Fatigued】 Can only be used when the opponent has【Sand】. Release 【Return Dust】 once.
 #c449491【<hy t=后继无力 l=2_101_5_66 fhc=#e86524 ul=1>】#n对方拥有#c449491【<hy t=沙 l=2_101_4_22 fhc=#e86524 ul=1>】#n时才能使用，释放一次【还尘】。¤#c449491【<hy t=Fatigued l=2_101_5_66 fhc=#e86524 ul=1>】#n Can only be used when the opponent has#c449491【<hy t=Sand l=2_101_4_22 fhc=#e86524 ul=1>】#n. Release 【Return Dust】 once.
@@ -21903,7 +21902,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 下一次技能造成的伤害翻倍¤Your next skill deals double the damage
 本回合造成的火系伤害+（attack）¤Fire damage dealt +（attack） this turn 
 有5%的几率闪避技能伤害，每回合结束后移除一层¤5% chance to dodge skill damage, removes one layer at the end of each round
-化尘教指示物¤Shifting Sands School Indicator
+化尘教指示物¤Shifting Sand Sect Indicator
 回合结束时，对敌方造成（attack）点伤害¤Deal （attack） points of damage to the enemy at the end of the round
 指示物-魂¤Indicator - Spirit
 回合结束，自己身上每有【尘】*15，则获得的【护罩】*1。¤At the end of the round, for every 【Dust】*15 you have on yourself, you gain 【Shield】*1.
@@ -24775,8 +24774,8 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 据情报显示星河剑派附近出现一座福源宝地。¤According to information, a Blessed Land has appeared near the Celestial River Sect.
 据情报显示离火门附近出现一座前人洞府。¤According to information, a former cave near the Heavenly Fire Gate has appeared.
 据情报显示离火门附近出现一座福源宝地。¤According to the information, a blessed treasure land has appeared near the Heavenly Fire Gate.
-据情报显示化尘教附近出现一座前人洞府。¤According to information, a former cave near the Shifting Sands School has appeared.
-据情报显示化尘教附近出现一座福源宝地。¤According to information, a treasure trove of blessed resources has appeared near the Shifting Sands School.
+据情报显示化尘教附近出现一座前人洞府。¤According to information, a former cave near the Shifting Sand Sect has appeared.
+据情报显示化尘教附近出现一座福源宝地。¤According to information, a treasure trove of blessed resources has appeared near the Shifting Sand Sect.
 方壶山巡逻¤Patrol on Fang Hu Mountain
 看守药园¤Guarding the medicinal garden
 协助炼丹¤Assisting in alchemy
@@ -25050,18 +25049,18 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 离火门炼丹房¤The Alchemy Room of Heavenly Fire Gate
 金虹剑派炼丹房¤Alchemy Room of Radiant Sword Sect
 星河剑派炼丹房¤Celestial River Sect Alchemy Room
-化尘教炼丹房¤The Alchemy Room of the Shifting Sands School
+化尘教炼丹房¤The Alchemy Room of the Shifting Sand Sect
 竹山宗宗门广场¤Bamboo Mountain Sect Square
 离火门宗门广场¤Heavenly Fire Gate Clan Square
 金虹剑派宗门广场¤Radiant Sword Sect Clan Square
 星河剑派宗门广场¤Celestial River Sect Square
-化尘教宗门广场¤Clan plaza of the Shifting Sands School
+化尘教宗门广场¤Clan plaza of the Shifting Sand Sect
 竹山宗宗门药园¤Bamboo Mountain Sect Clan Medicine Garden
 竹山宗神兵阁¤Bamboo Mountain Sect Divine Warrior Pavilion
 离火门神兵阁¤The Divine Armour Pavilion of Heavenly Fire Gate
 金虹剑派神兵阁¤Radiant Sword Sect Divine Armour Pavilion
 星河剑派神兵阁¤The divine weapons pavilion of the Celestial River Sect
-化尘教神兵阁¤The divine armament pavilion of the Shifting Sands School
+化尘教神兵阁¤The divine armament pavilion of the Shifting Sand Sect
 天魔门（炼气中期）¤Heavenly Demon Sect （Mid Qi Refining）
 天魔门（炼气后期）¤Heavenly Demon Sect （Late Qi Refining）
 化淤丹¤Novice Healing Pill
@@ -25088,7 +25087,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 收集灵晶¤Collecting spirit crystals
 竹山师门考验¤Bamboo Mountain Mastery Test
 金虹师门考验¤Radiant Sword Entry Test
-星河师门考验¤The Star River Test
+星河师门考验¤The Celestial River Test
 离火师门考验¤The Fire Test
 化尘师门考验¤Dusty Mastery Test
 大地图-普通洞窟¤Large Map - Ordinary Cave
@@ -25261,9 +25260,9 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 初入星河剑派¤First time in the Celestial River Sect
 你已经成为了星河剑派弟子，宗门广场上的<color=#00757c>外门执事</color>将告知你入门的相关事宜。¤You have become a disciple of the Celestial River Sect. The <color=#00757c>Outsider Deacon</color> in the sect square will inform you of the matters related to your initiation.
 星河剑派主修水系功法，是宁州五大门派之一。每年星河剑派都会开启星河剑阵进行测试，招收<color=#00757c>练气期</color>外门弟子。但此门派似乎只招收资质优上的女弟子。¤The Celestial River Sect is one of the five major sects in Ningzhou, with its main cultivation of Water techniques. Every year, the Star sword school opens the Celestial River Sect for testing and recruiting <color=#00757c>Qi Refining Stage</color> outer disciples. However, this sect seems to only admit female disciples with superior Aptitudes.
-化尘教主修土系功法，是宁州五大门派之一。往常化尘教每年都会开放宗门以招收<color=#00757c>练气期</color>弟子，但近年来似乎因为某些缘故谢绝接待外客。¤The Shifting Sands School is one of the five major sects in Ningzhou, which specializes in Earth techniques. In the past, it used to open its doors every year to recruit <color=#00757c>Qi cultivation stage</color> disciples, but in recent years it seems to have refused to receive foreign visitors for some reason.
-初入化尘教¤First entry into the Shifting Sands School
-你已经成为了化尘教弟子，先去藏经阁领取入门功法，再去神兵阁领取法器，最后回来找大师姐吧。¤You have already become a disciple of the Shifting Sands School, first go to the Hidden Manual Pavilion to receive your initiation Skills, then go to the Divine Armament Pavilion to receive your magic weapons, and finally come back to see your Eldest Sister.
+化尘教主修土系功法，是宁州五大门派之一。往常化尘教每年都会开放宗门以招收<color=#00757c>练气期</color>弟子，但近年来似乎因为某些缘故谢绝接待外客。¤The Shifting Sand Sect is one of the five major sects in Ningzhou, which specializes in Earth techniques. In the past, it used to open its doors every year to recruit <color=#00757c>Qi cultivation stage</color> disciples, but in recent years it seems to have refused to receive foreign visitors for some reason.
+初入化尘教¤First entry into the Shifting Sand Sect
+你已经成为了化尘教弟子，先去藏经阁领取入门功法，再去神兵阁领取法器，最后回来找大师姐吧。¤You have already become a disciple of the Shifting Sand Sect, first go to the Hidden Manual Pavilion to receive your initiation Skills, then go to the Divine Armament Pavilion to receive your magic weapons, and finally come back to see your Eldest Sister.
 开辟洞府¤Opening a cave
 门派¤The Sect
 前往神兵阁领取阵旗，然后再去宗门驻地附近寻觅合适的洞府地点吧。¤Go to the Divine Arms Pavilion to collect your formation flags, then go and look for a suitable cave site near the sect's residence.
@@ -25290,7 +25289,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 调查武陵城¤Investigating Wuling City
 近日，因举办英杰会等，诸多事宜之下，武陵城涌入大量的散修，但今日白帝楼与倪家府邸附近总有陌生人出现，似有人图谋不轨，白帝楼委托你调查此事。¤Recently, due to the Young Hero's Tournament and other events, there has been an influx of independent cultivators in Wuling City, but today strangers have gathered around White Emperor Pavilion and the Ni family residence and conspire to break the law. White Emperor Pavilion has tasked you to investigate this matter.
 封山之谜¤The Mystery of the Mountain Closure
-化尘教不知为何，封山数年，白帝楼希望你探查一二。¤The Shifting Sands School for some reason, closed the mountain for several years. The White Emperor Pavilion would like you to investigate this matter.
+化尘教不知为何，封山数年，白帝楼希望你探查一二。¤The Shifting Sand Sect for some reason, closed the mountain for several years. The White Emperor Pavilion would like you to investigate this matter.
 巫山魔影¤Mt. Wu Demon Shadow
 巫山似有魔门中人出没，白帝楼希望你探查一二。¤Mt. Wu seems to be infested with people from the devil's clan. The White Emperor Pavilion wants you to look into this matter.
 引魔出洞¤Luring Demons Out of the Cave
@@ -25306,7 +25305,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 搜寻灵宝¤Searching for Spiritual Treasures
 六品天才地宝如今在宁州已是极难寻得，离火门希望能够在宁州古迹中找到一些六品的火属性材料。¤Sixth-grade genius treasures are extremely hard to find in Ningzhou these days. The Heavenly Fire Gate hopes to find some sixth-grade fire-attribute materials in the Ningzhou monuments.
 搜寻仙草¤Search for Immortal Herbs
-化尘教掌门闭关数百年未能突破瓶颈，眼看寿元将至。他们希望能够在这次古迹出世之时，尽可能收集一些有生息药性的高阶草药，助掌门突破。¤The Head of the Shifting Sands School has been in seclusion for hundreds of years and has failed to break through the bottleneck. They hope to collect as many high grade herbs with the medicinal properties of breath during this time when the monuments come out, to help the Sect Leader break through.
+化尘教掌门闭关数百年未能突破瓶颈，眼看寿元将至。他们希望能够在这次古迹出世之时，尽可能收集一些有生息药性的高阶草药，助掌门突破。¤The Head of the Shifting Sand Sect has been in seclusion for hundreds of years and has failed to break through the bottleneck. They hope to collect as many high grade herbs with the medicinal properties of breath during this time when the monuments come out, to help the Sect Leader break through.
 千年才能进入一次的宁州古迹是难得的机遇，通过空间裂隙，进入古位面，并找到古原城的位置。那里便是万年前宁州那场正魔大战的主战场。¤The Ningzhou monument, which can only be entered once in a thousand years, is a rare opportunity to pass through the spatial rift, enter the ancient realm and find the location of the ancient original city. There was the main battlefield of the great battle between the righteous and the devils in Ningzhou ten thousand years ago.
 你在空间裂隙中无意间捡到了竹山宗碧宵长老遗失的储物袋，你决定离开宁州古迹后，将此物归还于他。¤You inadvertently pick up the lost storage pouch of Elder Bi Lan of the Bamboo Mountain Sect in the spatial rift, and you decide to return it to him after you leave the Ningzhou monument.
 初遇¤First encounter
@@ -25384,7 +25383,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 除掉双鬼后，禾山派变的一家独大起来，结丹后还是去禾山会会这颜老怪吧。¤After the elimination of the double ghosts, the Harvest Hill School has become a dominant school. After the completion of the core, it is better to go to Harvest Mountain to meet this old Yan monster.
 李青麟约你去九嶷山切磋一二。¤Li Qinglin has asked you to go to Jiuyi Mountain for a sparring session.
 螳螂捕蝉¤A mantis catching a cicada
-化尘教求购一批火麟玉，绝焰堂分不出人手，就由你代劳了。¤The Shifting Sands School has requested for a batch of Fire Liner Jades, and since the Absolute Flame Hall is unable to divide its manpower, you will be doing it for them.
+化尘教求购一批火麟玉，绝焰堂分不出人手，就由你代劳了。¤The Shifting Sand Sect has requested for a batch of Fire Liner Jades, and since the Absolute Flame Hall is unable to divide its manpower, you will be doing it for them.
 麟兽踪影¤Trail of the Beast
 有一只异兽豹麟兽出现在沃焦山，钟焰希望你带他回离火门。¤A special beast, the Leopard-Lin Beast, has appeared on inferno mountain and Zhong Yan wants you to take him back to the Heavenly Fire Gate.
 木灵之需¤The need for wood spirits
@@ -25513,8 +25512,8 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 离开古迹后，在岫络谷找星河剑派的修士交付任务。¤After leaving the monument, find a Cultivator of the Celestial River Sect in the Xiuluo Valley to deliver the mission.
 替离火门在宁州古迹收集赤火元铜精¤Collect the Red Fire Copper Essence for the Heavenly Fire Gate at the Ningzhou Monument.
 离开古迹后，在岫络谷找离火门的修士交付任务。¤After leaving the monument, find a Cultivator from theHeavenly Fire Gate in the Xiuluo Valley to deliver the mission.
-替化尘教在宁州古迹收集炼心芝¤Collect the Heartrend Shroom at the Ningzhou monument for the Shifting Sands School.
-离开古迹后，在岫络谷找化尘教的修士交付任务。¤After leaving the monument, find a Cultivator from the Shifting Sands School in the Cui Luo Valley to deliver the quest.
+替化尘教在宁州古迹收集炼心芝¤Collect the Heartrend Shroom at the Ningzhou monument for the Shifting Sand Sect.
+离开古迹后，在岫络谷找化尘教的修士交付任务。¤After leaving the monument, find a Cultivator from the Shifting Sand Sect in the Cui Luo Valley to deliver the quest.
 通过空间裂隙，前往古位面¤Pass through the spatial rift and travel to the Ancient Plane
 前往中心区域，寻找古原城所在的位置。¤Go to the central area and look for the location of the Ancient Plane.
 调查古原城¤Investigate Gu Yuan City
@@ -25645,7 +25644,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 回到广陵城客栈。¤Back at the Guangling City Inn.
 结丹并准备周密后前往禾山挑战颜老怪。¤After breaking through to the Golden Core and making sufficient preparations, he went to Mt. Harvest to challenge old monster Yan.
 前往九嶷山。¤Travel to Jiuyi Mountain.
-前往化尘教。¤Go to the Shifting Sands School.
+前往化尘教。¤Go to the Shifting Sand Sect.
 回麟庙向钟焰汇报。¤Return to Lin Temple to report to Zhong Yan.
 前往沃焦山¤Travel to Inferno Mountain
 返回离火门¤Return to the Heavenly Fire Gate
@@ -26643,7 +26642,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 你最近的修为大有长进，这本《沙葬》乃我派威能最强的法门之一，只要使用妥当，同阶修士几乎无法抵挡...你且回去好生领悟领悟吧。¤You have recently made great progress in your cultivation, and this 'Sand Burial' is one of the most powerful Skills of our school. If you use it properly, it is almost impossible for a Cultivator of the same rank to resist... You should go back and understand it well.
 《混元无极功》胜在多变的灵气运用，沙或尘的转化时机全在你个人的掌握中。¤The 'Chaos Unbound Arts' is a versatile use of spiritual energy, and the timing of the transformation of sand or dust is all in your hands.
 以沙为牢，即可困敌，亦可伤人，此乃我派秘术。若能好好运用这《沙牢》之术，妙用无穷。¤The sand can be used as a prison to trap the enemy and also to hurt others. If you can use this Skill well, it will be of infinite use.
-《混元引气诀》乃是化尘教传承功法，引气入体汇聚灵尘以防守，你且回去好好体悟其中奥妙。¤The 'Mixed Element Qi Diversion Skill' is an inherited Skill of the Shifting Sands School, which draws Qi into the body to gather spiritual dust for defence.
+《混元引气诀》乃是化尘教传承功法，引气入体汇聚灵尘以防守，你且回去好好体悟其中奥妙。¤The 'Mixed Element Qi Diversion Skill' is an inherited Skill of the Shifting Sand Sect, which draws Qi into the body to gather spiritual dust for defence.
 此术乃我派杀招，有天崩地裂之威能，但也非寻常修士所能掌握。能否发挥其威力，就看你自己的悟性了。¤This Skill is our sect's killing move, and it has the power to break the earth and sky, but it is not something that ordinary Cultivator can master. Whether or not you can bring its power into play depends on your own perception.
 这《火铃印》是我派入门之必修法术，可以帮你领悟五行相生之道，回去好好领悟吧。¤This 'Fire Bell Seal' is a compulsory Skill for initiation into our school, and can help you understand the Way of the Five Elements.
 嗯，最近你的修为大有长进，我便再传你土系的中级法术《土墙术》，回去好好领悟吧。¤As your cultivation has improved greatly recently, I will pass on to you the intermediate earth spell 'Earth Wall Skill'.
@@ -26689,19 +26688,19 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs can be s
 请！¤Please!
 杂文¤Miscellaneous Writings
 金虹剑派藏经阁¤Radiant Sword Sect Manual Collection
-星河剑派藏经阁¤The Manual Collection of the Star River Sword Sect
-化尘教藏经阁¤The Manual Collection of the Shifting Sands School
+星河剑派藏经阁¤The Manual Collection of the Celestial River Sword Sect
+化尘教藏经阁¤The Manual Collection of the Shifting Sand Sect
 内甲¤Inner Armor
-竹山宗库房¤Bamboo Sect Treasury
+竹山宗库房¤Bamboo Mountain Sect Treasury
 离火门库房¤Heavenly Fire Gate Treasury
 金虹剑派库房¤Radiant Sword Sect Storage
 星河剑派库房¤The Treasury of the Celestial River Sect
-化尘教库房¤Shifting Sands School Treasury
-竹山宗秘阁¤Bamboo Sect Secret Pavilion
+化尘教库房¤Shifting Sand Sect Treasury
+竹山宗秘阁¤Bamboo Mountain Sect Secret Pavilion
 离火门秘阁¤Heavenly Fire Gate Secret Pavilion
 金虹剑派秘阁¤Radiant Sword Sect Secret Pavilion
 星河剑派秘阁¤Celestial River Sect Secret Pavilion
-化尘教秘阁¤Shifting Sands School Secret Pavilion
+化尘教秘阁¤Shifting Sand Sect Secret Pavilion
 藏宝阁¤Treasure House
 秘籍¤Secret Manual
 词缀¤Terms
